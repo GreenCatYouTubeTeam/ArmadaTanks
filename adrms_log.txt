@@ -1,0 +1,12 @@
+before get module handle
+after get module handle
+In ASPR::SetRegistrationKey key_path=Software\Alawar\6589
+RegOpenKeyExA failed in ASPR::SetRegistrationKey for HKLM: 2
+Key returned in ASPR::SetRegistrationKey for HKCU: '0Y4vmhqkJhmQb6KA2JQ6KgEmtzFmh7FTHEdL3r3iRg7GpqCgYk 0sn PxbP9NaOeAEuSu3hPcGhubg6k6ouqFEDsChx9VOLQK73IfZ1P4 7NEwxz3QtQ5H8qPhT+K /IyRaaFXkki8y8bwCU+4eeZK5yEIPO3FkHejZFhfg5BOKW7DmM='
+In ASPR::GetRegistrationInformation user='SMS_470492967', is_registered=1
+before get module handle
+after get module handle
+In ASPR::SetRegistrationKey key_path=Software\Alawar\6589
+RegOpenKeyExA failed in ASPR::SetRegistrationKey for HKLM: 2
+Key returned in ASPR::SetRegistrationKey for HKCU: '0Y4vmhqkJhmQb6KA2JQ6KgEmtzFmh7FTHEdL3r3iRg7GpqCgYk 0sn PxbP9NaOeAEuSu3hPcGhubg6k6ouqFEDsChx9VOLQK73IfZ1P4 7NEwxz3QtQ5H8qPhT+K /IyRaaFXkki8y8bwCU+4eeZK5yEIPO3FkHejZFhfg5BOKW7DmM='
+In ASPR::GetRegistrationInformation user='SMS_470492967', is_registered=1
