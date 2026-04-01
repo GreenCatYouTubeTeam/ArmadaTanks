@@ -1,0 +1,255 @@
+         |----------------------------------------------|
+
+txt 0 2 " You have to protect your base              "
+txt 1 2 " at all costs!     "
+
+txt 2 2 " Pick up the Spade to repair the walls    "
+txt 3 2 " around your base. "
+
+txt 4 2 " Pick up the Bomb to damage all of the        "
+txt 5 2 " enemies on the screen. "
+
+txt 6 2 " Pick up the Shield to gain temporary  "
+txt 7 2 " invincibility. "
+
+txt 8 2 " Pick up the Medikit to repair   "
+txt 9 2 " your tank. "
+
+txt 10 2 " Pick up the Clock to stop enemies in their"
+txt 11 2 " tracks for limited amount of time. "
+
+txt 12 2 " Pick up the Star to slowly regenerate"
+txt 13 2 " hit points until the end of this level. "
+
+txt 14 2 " Good job! " // win in map 33.3%
+
+txt 15 2 " Excellent work! " // win in map 33.3%
+
+txt 16 2 " Congratulations! You have won the battle! " // win in map 33.3%
+
+txt 17 1 " Ha-Ha-Ha!!! We are going to win!!! " //ª®£¤  áâà¥«ï¥â ¯® ä« £ã(10%)
+
+txt 18 1 " Ha-Ha-Ha!!! Your base is about to blow!!! " //FlagLive<uiDamage
+
+txt 19 1 " Consider yourself dead!!!"
+
+txt 20 1 " I am so angry with you!!!"
+
+txt 21 1 " You are way too slow!!! Ha-Ha-Ha!!! "
+
+txt 22 2 " There are just a few enemies left ... " enemy==1(20%)
+
+txt 23 2 " There are just a few enemies left ... " enemy==1(20%)
+
+txt 24 2 " Pick up the Lock to disable the enemy's     "
+txt 25 2 " weapons "
+
+txt 26 2 " Pick up the Bullet to improve your    "
+txt 27 2 " shooting speed "
+
+txt 28 2 " HEY!!! you need a help? Okey we sending Toad Faze "
+txt 29 2 " "
+
+txt 30 0 " Hey! I'm here, let's destroy together   "
+txt 31 0 " together we can destroy fast! Let's go "
+
+txt 32 0 "Destroy all enemies" “ˆ—’Ž† ‚‘…• ‚€ƒŽ‚
+txt 33 0 "Defend your base" ‡€™ˆ’ˆ €‡“ Ž’ ‚€ƒŽ‚
+txt 34 0 " - - - "
+txt 35 0 "Pick up all boxes" ‘Ž…ˆ ‚‘… Ÿ™ˆŠˆ
+txt 36 0 "Destroy all bunkers" “ˆ—’Ž† ‚‘… „‡Ž’›
+
+txt 37 2 " - Pick up the Mine to create      "
+txt 38 2 " a mine field "
+
+txt 39 0 "Description of game objects"
+
+txt 40 0 "points for destroying"
+txt 41 0 " tanks " 
+txt 42 0 " bosses "
+txt 43 0 " bunkers "
+txt 44 0 " cannons "
+txt 45 0 " towers "
+txt 46 0 "  "
+txt 47 0 "                        "
+txt 48 0 "....................... "
+txt 49 0 "points for picking up"
+txt 50 0 " power-ups "
+txt 51 0 " boxes "
+txt 52 0 "  "
+txt 53 0 "total points"
+txt 54 0 " "
+txt 55 0 " "
+txt 56 0 " "
+txt 57 0 " "
+txt 58 0 " "
+txt 59 0 "qwe#48;#49;#50;#130;#200;#254;rty" 
+
+txt 60 0 "Price "
+txt 61 0 "Buy"
+txt 62 0 "Already bought"
+txt 63 0 " (Active)"
+txt 64 0 "No upgrades" „®áâã¯­ëå 
+txt 65 0 "  ( reward "
+txt 66 0 " coins )"
+
+txt 67 0 "fullscreen"
+txt 68 0 "windowed"
+
+txt 69 0 "Recovers tank hit points" 77 MEDIK	
+txt 70 0 "Regenerate hit points over time" 88 STAR	
+txt 71 0 "Grants temporary invincibility" 83 SHIELD
+txt 72 0 "Damages all enemies" 66 BOMB
+txt 73 0 "Rebuilds the walls around your base" 76 LOPATA
+txt 74 0 "Temporarily improves shooting speed" 82 AMMO
+txt 75 0 "Locks enemy tank weapons" 90 ZAMOK
+txt 76 0 "Temporarily stops enemies" 67 CLOCK
+txt 77 0 "Creates a mine field" 73 MINE
+txt 78 0 "Recovers enemy hit points" 89 Y RECOVERY
+
+txt 79 0 "Weapon damage power: "
+txt 80 0 "Defensive armor: "
+txt 81 0 "Tank speed: "
+txt 82 0 " mph"
+txt 83 0 "Reload time: "
+txt 84 0 " sec"
+
+txt 85 0 "Cannon"
+txt 86 0 "Minigun"
+txt 87 0 "Rocket"
+txt 88 0 "Lightning"
+txt 89 0 "Flamethrower"
+txt 90 0 "Shock Gun"
+
+txt 91 0 "Armor"
+txt 92 0 "Movement speed"
+txt 93 0 "Reload time"
+txt 94 0 "Projectile speed"
+txt 95 0 "Damage"
+
+txt 96 0 "upgrade - "
+txt 97 0 " ?"
+txt 98 0 "weapon - "
+txt 99 0 "not enough money"
+
+txt 100 0 "0" ID language
+
+
+txt 200 0 "Exit"
+txt 201 0 "Credits"
+txt 202 0 "Hiscore"
+txt 203 0 "Options"
+txt 204 0 "PLAY"
+txt 205 0 "(If this is not you, please click here)"
+txt 206 0 "Welcome, "
+txt 207 0 "BUY NOW"
+txt 208 0 "Mode"
+txt 209 0 " OK "
+txt 210 0 "English" !!!
+txt 211 0 "Language"
+txt 212 0 "Music volume"
+txt 213 0 "Sound volume"
+txt 214 0 " --- " // free
+
+txt 215 0 "Money "
+txt 216 0 "Purchase Confirmation"
+txt 217 0 "Are you sure want to buy?"
+txt 218 0 "Yes"
+txt 219 0 "No"
+
+txt 220 0 "Incoming message"
+txt 221 0 "To aid you in your mission"
+txt 222 0 "Headquaters gives you a new"
+txt 223 0 "Weapon - the MINIGUN!"
+txt 224 0 "(You can buy it in the workshop.)"
+txt 225 0 "Delete"
+txt 226 0 "New player"
+txt 227 0 "Select player"
+txt 228 0 "   There is a saved game"
+txt 229 0 "   Do you want to continue it?"
+txt 230 0 "Defeat"
+txt 231 0 "You've lost! Please try again."
+txt 232 0 "Delete"
+txt 233 0 "Are you sure want to delete this player?"
+txt 234 0 "Cancel"
+txt 235 0 "Pause"
+txt 236 0 "Objectives"
+txt 237 0 "Quit"
+txt 238 0 "Continue"
+txt 239 0 "Quit this game"
+txt 240 0 "Are you sure want to quit?"
+txt 241 0 "Loading ... Please wait ..."
+txt 242 0 "Back"
+txt 243 0 "Start"
+txt 244 0 "Victory"
+txt 245 0 "Unable to create a new player."
+txt 246 0 "There are too many players already. Please"
+txt 247 0 "delete a player and try again."
+txt 248 0 "That name is already in use."
+txt 249 0 "Please enter a different name."
+txt 250 0 "Please enter your name."
+txt 251 0 "Unable to purchase item."
+txt 252 0 "You dont have enough money to buy it."
+txt 253 0 "Invalid player name."
+txt 254 0 "The name you entered is too short."
+txt 255 0 "Workshop"
+
+txt 256 0 " ATTENTION: this is the DEMO version. "
+txt 257 0 "You have "
+txt 258 0 " minutes left"
+txt 259 0 "Buy Armada Tanks now and receive:"
+txt 260 0 "- Over 60 unique levels"
+txt 261 0 "- 6 weapon types"
+txt 262 0 "- Over 30 enemy types"
+txt 263 0 "- No nag screens"
+txt 264 0 "- Unlimited play time"
+txt 265 0 "Continue"
+txt 267 0 "zero ...................."
+txt 268 0 " Hiscore"
+
+txt 269 0 "Difficulty: Easy"
+txt 270 0 "Difficulty: Normal"
+txt 271 0 "Difficulty: Hard"
+
+txt 272 0 "(clear hiscore table)"
+
+txt 273 0 "RIGHT MOUSE BUTTON - use it to move"
+txt 274 0 "your tank. Point on a spot with your"
+txt 275 0 "mouse and right-click to move there"
+
+txt 276 0 "LEFT MOUSE BUTTON - use it to shoot."
+txt 277 0 "Hold it to repeatedly fire your weapon"
+
+txt 278 0 "The ARROW KEYS or WASD KEYS"
+txt 279 0 "can be used to alternatively control"
+txt 280 0 "your tank's movements if you wish"
+
+txt 281 0 "episode "
+txt 282 0 ", map "
+
+txt 283 0 "Congratulations! You have saved the world once again!" 
+txt 284 0 "You have defeated all enemy forces" 
+txt 285 0 "and establish peace and prosperity everywhere..." 
+txt 286 0 "  ... until another war will call new heroes into" 
+txt 287 0 "battle. But that will be another story... "
+
+txt 288 0 "You have beaten Armada Tanks!!!"
+
+txt 289 0 "Not available in DEMO version"
+
+txt 290 0 "Game design, Programmer,"
+txt 291 0 "Level design, Art & Graphics"
+txt 292 0 "Denis Kotov"
+txt 293 0 "Pasha Oliynyk"
+txt 294 0 "Art & Graphics"
+txt 295 0 "Yaroslav Yanovsky"
+txt 296 0 "Producer"
+txt 297 0 "Music Composition, Sound Design"
+txt 298 0 " "
+txt 299 0 "this program uses Audiere Sound System"
+txt 300 0 "(c) 2001-2003 Chad Austin (see license/audiere.txt) "
+txt 301 0 "Copyright (c) 2006-2007 by Enkord Ltd"
+txt 302 0 "Message"
+txt 303 0 " "
+
+txt 304 0 "Do you want to clear hiscore table ?"
