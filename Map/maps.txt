@@ -1,0 +1,96 @@
+10 21
+23 24
+21 17
+21 9
+30 16
+27 7
+9 8 
+14 9 
+
+episode 0 284 597 "Окраина Руин" "MAPPREV"	
+  lvl 100 270 100 "01 - начало" "BaseT\Map\RUIN\m1.map" 
+  lvl 150 330 100 "02 - развалины" "BaseT\Map\RUIN\m2.map"
+  lvl 200 360 100 "03 - центр" "BaseT\Map\RUIN\m3.map"
+  lvl 150 330 100 "04 - развалины" "BaseT\Map\RUIN\m4.map"
+  lvl 200 360 100 "05 - центр" "BaseT\Map\RUIN\m5.map"
+
+episode 1 628 612 "Красные Пески" "MAPPREV"	
+  lvl 250 270 120 "01 - начало" "BaseT\Map\SAND\m1.map"
+  lvl 250 300 120 "02 - дзоты" "BaseT\Map\SAND\m2.map"
+  lvl 250 330 120 "03 - плутониум" "BaseT\Map\SAND\m3.map"
+  lvl 250 360 120 "04 - лабиринт" "BaseT\Map\SAND\m4.map"
+  lvl 250 390 120 "05 - конец" "BaseT\Map\SAND\m5.map"
+
+episode 2 615 505 "Дождливый Лес" "MAPPREV"	
+  lvl 350 330 140 "01 - осада" "BaseT\Map\RAIN\m1.map"
+  lvl 350 330 140 "02 - осада" "BaseT\Map\RAIN\m2.map"
+  lvl 350 330 140 "03 - осада" "BaseT\Map\RAIN\m3.map"
+  lvl 350 330 140 "04 - осада" "BaseT\Map\RAIN\m4.map"
+  lvl 350 330 140 "05 - осада" "BaseT\Map\RAIN\m5.map"
+
+episode 3 850 400 "Снега" "MAPPREV"	
+  lvl 100 270 160 "01 - начало" "BaseT\Map\SNOW\m1.map"
+  lvl 150 330 160 "02 - развалины" "BaseT\Map\SNOW\m2.map"
+  lvl 200 360 160 "03 - центр" "BaseT\Map\SNOW\m3.map"
+  lvl 150 330 160 "04 - развалины" "BaseT\Map\SNOW\m4.map"
+  lvl 200 360 160 "05 - центр" "BaseT\Map\SNOW\m5.map"
+
+episode 4 800 550 "Пустыня" "MAPPREV"	
+  lvl 250 270 180 "01 - начало" "BaseT\Map\EGYPT\m1.map"
+  lvl 250 300 180 "02 - дзоты" "BaseT\Map\EGYPT\m2.map"
+  lvl 250 330 180 "03 - плутониум" "BaseT\Map\EGYPT\m3.map"
+  lvl 250 360 180 "04 - лабиринт" "BaseT\Map\EGYPT\m4.map"
+  lvl 250 390 180 "05 - конец" "BaseT\Map\EGYPT\m5.map"
+
+episode 5 917 306 "Ледяное плато" "MAPPREVS"	
+  lvl 350 330 180 "01 - осада" "BaseT\Map\ICE\m1.map"
+  lvl 350 330 180 "02 - осада" "BaseT\Map\ICE\m2.map"
+  lvl 350 330 180 "03 - осада" "BaseT\Map\ICE\m3.map"
+  lvl 350 330 180 "04 - осада" "BaseT\Map\ICE\m4.map"
+  lvl 350 330 180 "05 - осада" "BaseT\Map\ICE\m5.map"
+
+episode 6 370 292 "огненые горы" "MAPPREVS"	
+  lvl 350 330 180 "01 - осада" "BaseT\Map\FIRE\m1.map"
+  lvl 350 330 180 "02 - осада" "BaseT\Map\FIRE\m2.map"
+  lvl 350 330 180 "03 - осада" "BaseT\Map\FIRE\m3.map"
+  lvl 350 330 180 "04 - осада" "BaseT\Map\FIRE\m4.map"
+  lvl 350 330 180 "05 - осада" "BaseT\Map\FIRE\m5.map"
+               
+episode 7 557 330 "огненые горы" "MAPPREVS"	
+  lvl 100 270 200 "01 - огненые горы" "BaseT\Map\TUND\m1.map"
+  lvl 100 270 200 "02 - огненые горы" "BaseT\Map\TUND\m2.map"
+  lvl 100 270 200 "03 - огненые горы" "BaseT\Map\TUND\m3.map"
+  lvl 100 270 200 "04 - огненые горы" "BaseT\Map\TUND\m4.map"
+  lvl 100 270 200 "05 - огненые горы" "BaseT\Map\TUND\m5.map"
+
+episode 8 644 403 "огненые горы" "MAPPREVS"	
+  lvl 100 270 200 "01 - огненые горы" "BaseT\Map\CAST\m1.map"
+  lvl 100 270 200 "02 - огненые горы" "BaseT\Map\CAST\m2.map"
+  lvl 100 270 200 "03 - огненые горы" "BaseT\Map\CAST\m3.map"
+  lvl 100 270 200 "04 - огненые горы" "BaseT\Map\CAST\m4.map"
+  lvl 100 270 200 "05 - огненые горы" "BaseT\Map\CAST\m5.map"
+
+episode 9 67 381 "огненые горы" "MAPPREVS"	
+  lvl 100 270 200 "01 - огненые горы" "BaseT\Map\DUNG\m1.map"
+  lvl 100 270 200 "02 - огненые горы" "BaseT\Map\DUNG\m2.map"
+  lvl 100 270 200 "03 - огненые горы" "BaseT\Map\DUNG\m3.map"
+  lvl 100 270 200 "04 - огненые горы" "BaseT\Map\DUNG\m4.map"
+  lvl 100 270 200 "05 - огненые горы" "BaseT\Map\DUNG\m5.map"
+
+episode 10 208 258 "огненые горы" "MAPPREVT"	
+  lvl 100 270 200 "e12m1" "BaseT\Map\GROT\m1.map"
+  lvl 100 270 200 "e12m2" "BaseT\Map\GROT\m2.map"
+  lvl 100 270 200 "e12m3" "BaseT\Map\GROT\m3.map"
+  lvl 100 270 200 "e12m4" "BaseT\Map\GROT\m4.map"
+  lvl 100 270 200 "e12m5" "BaseT\Map\GROT\m5.map"
+
+episode 11 919 594 "огненые горы" "MAPPREVT"	
+  lvl 200 270 200 "episode 12 map 1" "BaseT\Map\FARO\m1.map"
+  lvl 200 270 200 "e12m2" "BaseT\Map\FARO\m2.map"
+  lvl 200 270 200 "e12m3" "BaseT\Map\FARO\m3.map"
+  lvl 200 270 200 "e12m4" "BaseT\Map\FARO\m4.map"
+  lvl 200 270 200 "e12m5" "BaseT\Map\FARO\m5.map"
+
+episode 12 400 420 "R_-_-л_ _Rал" "MAPPREVT"	
+  lvl 300 270 300 "e13m1" "BaseT\Map\END\m1.map"
+
