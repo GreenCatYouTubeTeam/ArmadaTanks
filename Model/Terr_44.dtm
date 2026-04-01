@@ -1,0 +1,61 @@
+File { 
+
+  FileDesc { 
+    Frames 1
+    Vertices 8
+    Faces 9
+    Map 1 TVertices 12
+  } endfiledesc
+
+  Faces {
+    Face 0 0 4 3 MatID 0
+    Face 1 0 1 4 MatID 0
+    Face 2 1 5 4 MatID 0
+    Face 3 1 2 5 MatID 0
+    Face 4 5 6 7 MatID 0
+    Face 5 7 3 5 MatID 0
+    Face 6 5 2 6 MatID 0
+    Face 7 3 7 0 MatID 0
+    Face 8 4 5 3 MatID 0
+  }
+  MapChannel 1 {
+    TextureVertices {
+      TVertex 0 0.5613 0.3367 0.0
+      TVertex 1 0.5158 0.3365 0.0
+      TVertex 2 0.5657 0.3363 0.0
+      TVertex 3 0.5417 0.4100 0.0
+      TVertex 4 0.5356 0.3907 0.0
+      TVertex 5 0.5645 0.3907 0.0
+      TVertex 6 0.5076 0.3360 0.0
+      TVertex 7 0.5779 0.3365 0.0
+      TVertex 8 0.5259 0.3363 0.0
+      TVertex 9 0.5334 0.3362 0.0
+      TVertex 10 0.5452 0.3969 0.0
+      TVertex 11 0.5143 0.3961 0.0
+    }
+    TextureFaces {
+      TFace 0 0 4 3
+      TFace 1 0 1 4
+      TFace 2 1 5 4
+      TFace 3 1 2 5
+      TFace 4 11 6 7
+      TFace 5 7 10 11
+      TFace 6 11 9 6
+      TFace 7 10 7 8
+      TFace 8 4 5 3
+    }
+  }
+  Frame 0 {
+    Vertices {
+      Vertex 0 -22.6130 85.3137 47.0383
+      Vertex 1 17.6362 85.3137 161.8990
+      Vertex 2 122.3010 85.3137 135.2630
+      Vertex 3 53.2358 156.0910 72.3653
+      Vertex 4 52.4047 148.097 127.8780
+      Vertex 5 116.1219 168.9759 107.0059
+      Vertex 6 157.0350 85.3137 81.3283
+      Vertex 7 35.9810 85.3137 -32.2630
+    }
+  } endframe
+
+} endfile

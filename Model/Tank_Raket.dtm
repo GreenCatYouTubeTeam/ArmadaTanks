@@ -1,0 +1,2712 @@
+File { 
+
+  FileDesc { 
+    Frames 1
+    Vertices 569
+    Faces 562
+    Map 1 TVertices 996
+  } endfiledesc
+
+  Faces {
+    Face 0 1 0 5 MatID 0
+    Face 1 4 5 0 MatID 0
+    Face 2 3 40 7 MatID 0
+    Face 3 41 7 42 MatID 0
+    Face 4 2 43 6 MatID 0
+    Face 5 44 6 45 MatID 0
+    Face 6 46 47 48 MatID 0
+    Face 7 49 50 51 MatID 0
+    Face 8 37 36 33 MatID 0
+    Face 9 32 33 36 MatID 0
+    Face 10 38 37 35 MatID 0
+    Face 11 33 35 37 MatID 0
+    Face 12 39 38 34 MatID 0
+    Face 13 35 34 38 MatID 0
+    Face 14 36 39 32 MatID 0
+    Face 15 34 32 39 MatID 0
+    Face 16 52 53 11 MatID 0
+    Face 17 9 11 54 MatID 0
+    Face 18 55 56 8 MatID 0
+    Face 19 10 8 57 MatID 0
+    Face 20 58 59 16 MatID 0
+    Face 21 17 16 60 MatID 0
+    Face 22 61 62 19 MatID 0
+    Face 23 18 19 63 MatID 0
+    Face 24 64 65 13 MatID 0
+    Face 25 12 13 66 MatID 0
+    Face 26 67 68 14 MatID 0
+    Face 27 15 14 69 MatID 0
+    Face 28 70 71 17 MatID 0
+    Face 29 13 17 72 MatID 0
+    Face 30 73 74 12 MatID 0
+    Face 31 16 12 75 MatID 0
+    Face 32 76 77 15 MatID 0
+    Face 33 19 15 78 MatID 0
+    Face 34 79 80 18 MatID 0
+    Face 35 14 18 81 MatID 0
+    Face 36 82 83 21 MatID 0
+    Face 37 20 21 84 MatID 0
+    Face 38 11 9 23 MatID 0
+    Face 39 85 23 9 MatID 0
+    Face 40 86 87 22 MatID 0
+    Face 41 88 22 89 MatID 0
+    Face 42 90 91 92 MatID 0
+    Face 43 93 94 95 MatID 0
+    Face 44 96 97 25 MatID 0
+    Face 45 24 25 98 MatID 0
+    Face 46 99 100 29 MatID 0
+    Face 47 101 29 102 MatID 0
+    Face 48 103 104 24 MatID 0
+    Face 49 28 24 105 MatID 0
+    Face 50 106 107 26 MatID 0
+    Face 51 27 26 108 MatID 0
+    Face 52 109 110 30 MatID 0
+    Face 53 26 30 111 MatID 0
+    Face 54 112 113 114 MatID 0
+    Face 55 31 115 116 MatID 0
+    Face 56 117 118 119 MatID 0
+    Face 57 120 121 122 MatID 0
+    Face 58 123 124 125 MatID 0
+    Face 59 126 127 128 MatID 0
+    Face 60 129 130 131 MatID 0
+    Face 61 132 133 134 MatID 0
+    Face 62 135 136 137 MatID 0
+    Face 63 138 139 140 MatID 0
+    Face 64 150 151 155 MatID 0
+    Face 65 155 154 150 MatID 0
+    Face 66 141 142 150 MatID 0
+    Face 67 150 149 141 MatID 0
+    Face 68 142 143 151 MatID 0
+    Face 69 151 150 142 MatID 0
+    Face 70 143 144 152 MatID 0
+    Face 71 152 151 143 MatID 0
+    Face 72 148 147 155 MatID 0
+    Face 73 155 156 148 MatID 0
+    Face 74 147 146 154 MatID 0
+    Face 75 154 155 147 MatID 0
+    Face 76 146 145 153 MatID 0
+    Face 77 153 154 146 MatID 0
+    Face 78 159 149 150 MatID 0
+    Face 79 160 159 150 MatID 0
+    Face 80 154 153 163 MatID 0
+    Face 81 163 164 154 MatID 0
+    Face 82 153 145 161 MatID 0
+    Face 83 161 163 153 MatID 0
+    Face 84 159 157 141 MatID 0
+    Face 85 141 149 159 MatID 0
+    Face 86 141 157 158 MatID 0
+    Face 87 158 142 141 MatID 0
+    Face 88 161 145 146 MatID 0
+    Face 89 146 162 161 MatID 0
+    Face 90 168 166 160 MatID 0
+    Face 91 160 164 168 MatID 0
+    Face 92 168 167 165 MatID 0
+    Face 93 165 166 168 MatID 0
+    Face 94 166 159 160 MatID 0
+    Face 95 166 157 159 MatID 0
+    Face 96 166 165 157 MatID 0
+    Face 97 168 161 167 MatID 0
+    Face 98 163 161 168 MatID 0
+    Face 99 163 168 164 MatID 0
+    Face 100 152 170 169 MatID 0
+    Face 101 169 151 152 MatID 0
+    Face 102 172 156 155 MatID 0
+    Face 103 155 171 172 MatID 0
+    Face 104 144 173 170 MatID 0
+    Face 105 170 152 144 MatID 0
+    Face 106 174 148 156 MatID 0
+    Face 107 172 174 156 MatID 0
+    Face 108 170 175 169 MatID 0
+    Face 109 175 176 171 MatID 0
+    Face 110 171 169 175 MatID 0
+    Face 111 176 175 173 MatID 0
+    Face 112 176 173 174 MatID 0
+    Face 113 171 176 172 MatID 0
+    Face 114 177 173 144 MatID 0
+    Face 115 144 143 177 MatID 0
+    Face 116 174 178 147 MatID 0
+    Face 117 147 148 174 MatID 0
+    Face 118 174 173 179 MatID 0
+    Face 119 180 174 179 MatID 0
+    Face 120 178 180 167 MatID 0
+    Face 121 167 162 178 MatID 0
+    Face 122 177 158 165 MatID 0
+    Face 123 165 179 177 MatID 0
+    Face 124 186 182 185 MatID 0
+    Face 125 184 183 181 MatID 0
+    Face 126 192 191 187 MatID 0
+    Face 127 193 187 191 MatID 0
+    Face 128 194 192 188 MatID 0
+    Face 129 187 188 192 MatID 0
+    Face 130 195 194 196 MatID 0
+    Face 131 188 196 194 MatID 0
+    Face 132 198 197 189 MatID 0
+    Face 133 199 189 197 MatID 0
+    Face 134 200 198 190 MatID 0
+    Face 135 189 190 198 MatID 0
+    Face 136 201 200 202 MatID 0
+    Face 137 190 202 200 MatID 0
+    Face 138 193 203 187 MatID 0
+    Face 139 203 204 187 MatID 0
+    Face 140 202 190 205 MatID 0
+    Face 141 206 205 190 MatID 0
+    Face 142 201 202 207 MatID 0
+    Face 143 205 207 202 MatID 0
+    Face 144 208 203 191 MatID 0
+    Face 145 193 191 203 MatID 0
+    Face 146 208 191 209 MatID 0
+    Face 147 192 209 191 MatID 0
+    Face 148 201 207 200 MatID 0
+    Face 149 210 200 207 MatID 0
+    Face 150 212 211 204 MatID 0
+    Face 151 206 204 211 MatID 0
+    Face 152 213 211 214 MatID 0
+    Face 153 212 214 211 MatID 0
+    Face 154 203 212 204 MatID 0
+    Face 155 208 212 203 MatID 0
+    Face 156 214 212 208 MatID 0
+    Face 157 207 211 213 MatID 0
+    Face 158 207 205 211 MatID 0
+    Face 159 211 205 206 MatID 0
+    Face 160 215 196 216 MatID 0
+    Face 161 188 216 196 MatID 0
+    Face 162 199 217 189 MatID 0
+    Face 163 218 189 217 MatID 0
+    Face 164 219 195 215 MatID 0
+    Face 165 196 215 195 MatID 0
+    Face 166 197 220 199 MatID 0
+    Face 167 220 217 199 MatID 0
+    Face 168 221 215 216 MatID 0
+    Face 169 221 222 219 MatID 0
+    Face 170 219 222 220 MatID 0
+    Face 171 222 218 217 MatID 0
+    Face 172 219 223 195 MatID 0
+    Face 173 194 195 223 MatID 0
+    Face 174 224 220 198 MatID 0
+    Face 175 197 198 220 MatID 0
+    Face 176 194 209 192 MatID 0
+    Face 177 223 209 194 MatID 0
+    Face 178 224 198 200 MatID 0
+    Face 179 200 210 224 MatID 0
+    Face 180 220 226 225 MatID 0
+    Face 181 225 219 220 MatID 0
+    Face 182 219 215 221 MatID 0
+    Face 183 217 220 222 MatID 0
+    Face 184 227 213 214 MatID 0
+    Face 185 214 228 227 MatID 0
+    Face 186 225 226 230 MatID 0
+    Face 187 229 225 230 MatID 0
+    Face 188 251 252 254 MatID 0
+    Face 189 254 253 251 MatID 0
+    Face 190 231 232 236 MatID 0
+    Face 191 236 235 231 MatID 0
+    Face 192 271 234 238 MatID 0
+    Face 193 238 272 273 MatID 0
+    Face 194 274 233 237 MatID 0
+    Face 195 237 275 276 MatID 0
+    Face 196 277 278 279 MatID 0
+    Face 197 280 281 282 MatID 0
+    Face 198 267 268 264 MatID 0
+    Face 199 264 263 267 MatID 0
+    Face 200 268 269 266 MatID 0
+    Face 201 266 264 268 MatID 0
+    Face 202 269 270 265 MatID 0
+    Face 203 265 266 269 MatID 0
+    Face 204 270 267 263 MatID 0
+    Face 205 263 265 270 MatID 0
+    Face 206 283 284 242 MatID 0
+    Face 207 242 240 285 MatID 0
+    Face 208 286 287 239 MatID 0
+    Face 209 239 241 288 MatID 0
+    Face 210 289 290 247 MatID 0
+    Face 211 247 248 291 MatID 0
+    Face 212 292 293 250 MatID 0
+    Face 213 250 249 294 MatID 0
+    Face 214 295 296 244 MatID 0
+    Face 215 244 243 297 MatID 0
+    Face 216 298 299 245 MatID 0
+    Face 217 245 246 300 MatID 0
+    Face 218 301 302 248 MatID 0
+    Face 219 248 244 303 MatID 0
+    Face 220 304 305 243 MatID 0
+    Face 221 243 247 306 MatID 0
+    Face 222 307 308 246 MatID 0
+    Face 223 246 250 309 MatID 0
+    Face 224 310 311 249 MatID 0
+    Face 225 249 245 312 MatID 0
+    Face 226 313 314 315 MatID 0
+    Face 227 316 317 318 MatID 0
+    Face 228 240 242 319 MatID 0
+    Face 229 320 321 240 MatID 0
+    Face 230 322 323 324 MatID 0
+    Face 231 325 326 327 MatID 0
+    Face 232 328 329 330 MatID 0
+    Face 233 331 332 333 MatID 0
+    Face 234 334 335 256 MatID 0
+    Face 235 256 255 336 MatID 0
+    Face 236 337 338 260 MatID 0
+    Face 237 260 339 340 MatID 0
+    Face 238 341 342 259 MatID 0
+    Face 239 259 343 344 MatID 0
+    Face 240 345 346 255 MatID 0
+    Face 241 255 347 348 MatID 0
+    Face 242 349 350 257 MatID 0
+    Face 243 257 258 351 MatID 0
+    Face 244 352 353 261 MatID 0
+    Face 245 261 257 354 MatID 0
+    Face 246 355 356 262 MatID 0
+    Face 247 262 357 358 MatID 0
+    Face 248 359 360 361 MatID 0
+    Face 249 362 363 364 MatID 0
+    Face 250 365 366 367 MatID 0
+    Face 251 368 369 370 MatID 0
+    Face 252 371 372 373 MatID 0
+    Face 253 374 375 376 MatID 0
+    Face 254 377 378 379 MatID 0
+    Face 255 380 381 382 MatID 0
+    Face 256 383 384 385 MatID 0
+    Face 257 386 387 388 MatID 0
+    Face 258 392 390 394 MatID 0
+    Face 259 390 396 394 MatID 0
+    Face 260 389 391 393 MatID 0
+    Face 261 393 395 389 MatID 0
+    Face 262 398 400 402 MatID 0
+    Face 263 402 404 398 MatID 0
+    Face 264 397 401 399 MatID 0
+    Face 265 397 403 401 MatID 0
+    Face 266 390 392 398 MatID 0
+    Face 267 400 398 392 MatID 0
+    Face 268 392 394 400 MatID 0
+    Face 269 402 400 394 MatID 0
+    Face 270 394 396 402 MatID 0
+    Face 271 404 402 396 MatID 0
+    Face 272 391 389 399 MatID 0
+    Face 273 397 399 389 MatID 0
+    Face 274 393 391 401 MatID 0
+    Face 275 399 401 391 MatID 0
+    Face 276 395 393 403 MatID 0
+    Face 277 401 403 393 MatID 0
+    Face 278 407 405 406 MatID 0
+    Face 279 408 405 407 MatID 0
+    Face 280 409 405 408 MatID 0
+    Face 281 410 405 409 MatID 0
+    Face 282 411 405 410 MatID 0
+    Face 283 412 405 411 MatID 0
+    Face 284 413 405 412 MatID 0
+    Face 285 406 405 413 MatID 0
+    Face 286 415 406 414 MatID 0
+    Face 287 407 406 415 MatID 0
+    Face 288 416 407 415 MatID 0
+    Face 289 408 407 416 MatID 0
+    Face 290 417 408 416 MatID 0
+    Face 291 409 408 417 MatID 0
+    Face 292 418 409 417 MatID 0
+    Face 293 410 409 418 MatID 0
+    Face 294 419 410 418 MatID 0
+    Face 295 411 410 419 MatID 0
+    Face 296 420 411 419 MatID 0
+    Face 297 412 411 420 MatID 0
+    Face 298 421 412 420 MatID 0
+    Face 299 413 412 421 MatID 0
+    Face 300 414 413 421 MatID 0
+    Face 301 406 413 414 MatID 0
+    Face 302 423 414 422 MatID 0
+    Face 303 415 414 423 MatID 0
+    Face 304 424 415 423 MatID 0
+    Face 305 416 415 424 MatID 0
+    Face 306 425 416 424 MatID 0
+    Face 307 417 416 425 MatID 0
+    Face 308 426 417 425 MatID 0
+    Face 309 418 417 426 MatID 0
+    Face 310 427 418 426 MatID 0
+    Face 311 419 418 427 MatID 0
+    Face 312 428 419 427 MatID 0
+    Face 313 420 419 428 MatID 0
+    Face 314 429 420 428 MatID 0
+    Face 315 421 420 429 MatID 0
+    Face 316 422 421 429 MatID 0
+    Face 317 414 421 422 MatID 0
+    Face 318 431 422 430 MatID 0
+    Face 319 423 422 431 MatID 0
+    Face 320 432 423 431 MatID 0
+    Face 321 424 423 432 MatID 0
+    Face 322 433 424 432 MatID 0
+    Face 323 425 424 433 MatID 0
+    Face 324 434 425 433 MatID 0
+    Face 325 426 425 434 MatID 0
+    Face 326 435 426 434 MatID 0
+    Face 327 427 426 435 MatID 0
+    Face 328 436 427 435 MatID 0
+    Face 329 428 427 436 MatID 0
+    Face 330 437 428 436 MatID 0
+    Face 331 429 428 437 MatID 0
+    Face 332 430 429 437 MatID 0
+    Face 333 422 429 430 MatID 0
+    Face 334 434 430 435 MatID 0
+    Face 335 430 437 435 MatID 0
+    Face 336 436 435 437 MatID 0
+    Face 337 431 430 433 MatID 0
+    Face 338 434 433 430 MatID 0
+    Face 339 432 431 433 MatID 0
+    Face 340 441 439 443 MatID 0
+    Face 341 439 445 443 MatID 0
+    Face 342 438 440 442 MatID 0
+    Face 343 442 444 438 MatID 0
+    Face 344 447 449 451 MatID 0
+    Face 345 451 453 447 MatID 0
+    Face 346 446 450 448 MatID 0
+    Face 347 446 452 450 MatID 0
+    Face 348 439 441 447 MatID 0
+    Face 349 449 447 441 MatID 0
+    Face 350 441 443 449 MatID 0
+    Face 351 451 449 443 MatID 0
+    Face 352 443 445 451 MatID 0
+    Face 353 453 451 445 MatID 0
+    Face 354 440 438 448 MatID 0
+    Face 355 446 448 438 MatID 0
+    Face 356 442 440 450 MatID 0
+    Face 357 448 450 440 MatID 0
+    Face 358 444 442 452 MatID 0
+    Face 359 450 452 442 MatID 0
+    Face 360 456 454 455 MatID 0
+    Face 361 457 454 456 MatID 0
+    Face 362 458 454 457 MatID 0
+    Face 363 459 454 458 MatID 0
+    Face 364 460 454 459 MatID 0
+    Face 365 461 454 460 MatID 0
+    Face 366 462 454 461 MatID 0
+    Face 367 455 454 462 MatID 0
+    Face 368 464 455 463 MatID 0
+    Face 369 456 455 464 MatID 0
+    Face 370 465 456 464 MatID 0
+    Face 371 457 456 465 MatID 0
+    Face 372 466 457 465 MatID 0
+    Face 373 458 457 466 MatID 0
+    Face 374 467 458 466 MatID 0
+    Face 375 459 458 467 MatID 0
+    Face 376 468 459 467 MatID 0
+    Face 377 460 459 468 MatID 0
+    Face 378 469 460 468 MatID 0
+    Face 379 461 460 469 MatID 0
+    Face 380 470 461 469 MatID 0
+    Face 381 462 461 470 MatID 0
+    Face 382 463 462 470 MatID 0
+    Face 383 455 462 463 MatID 0
+    Face 384 472 463 471 MatID 0
+    Face 385 464 463 472 MatID 0
+    Face 386 473 464 472 MatID 0
+    Face 387 465 464 473 MatID 0
+    Face 388 474 465 473 MatID 0
+    Face 389 466 465 474 MatID 0
+    Face 390 475 466 474 MatID 0
+    Face 391 467 466 475 MatID 0
+    Face 392 476 467 475 MatID 0
+    Face 393 468 467 476 MatID 0
+    Face 394 477 468 476 MatID 0
+    Face 395 469 468 477 MatID 0
+    Face 396 478 469 477 MatID 0
+    Face 397 470 469 478 MatID 0
+    Face 398 471 470 478 MatID 0
+    Face 399 463 470 471 MatID 0
+    Face 400 480 471 479 MatID 0
+    Face 401 472 471 480 MatID 0
+    Face 402 481 472 480 MatID 0
+    Face 403 473 472 481 MatID 0
+    Face 404 482 473 481 MatID 0
+    Face 405 474 473 482 MatID 0
+    Face 406 483 474 482 MatID 0
+    Face 407 475 474 483 MatID 0
+    Face 408 484 475 483 MatID 0
+    Face 409 476 475 484 MatID 0
+    Face 410 485 476 484 MatID 0
+    Face 411 477 476 485 MatID 0
+    Face 412 486 477 485 MatID 0
+    Face 413 478 477 486 MatID 0
+    Face 414 479 478 486 MatID 0
+    Face 415 471 478 479 MatID 0
+    Face 416 483 479 484 MatID 0
+    Face 417 479 486 484 MatID 0
+    Face 418 485 484 486 MatID 0
+    Face 419 480 479 482 MatID 0
+    Face 420 483 482 479 MatID 0
+    Face 421 481 480 482 MatID 0
+    Face 422 487 489 488 MatID 0
+    Face 423 487 490 489 MatID 0
+    Face 424 487 491 490 MatID 0
+    Face 425 487 492 491 MatID 0
+    Face 426 487 493 492 MatID 0
+    Face 427 487 494 493 MatID 0
+    Face 428 487 495 494 MatID 0
+    Face 429 487 488 495 MatID 0
+    Face 430 488 497 496 MatID 0
+    Face 431 488 489 497 MatID 0
+    Face 432 489 498 497 MatID 0
+    Face 433 489 490 498 MatID 0
+    Face 434 490 499 498 MatID 0
+    Face 435 490 491 499 MatID 0
+    Face 436 491 500 499 MatID 0
+    Face 437 491 492 500 MatID 0
+    Face 438 492 501 500 MatID 0
+    Face 439 492 493 501 MatID 0
+    Face 440 493 502 501 MatID 0
+    Face 441 493 494 502 MatID 0
+    Face 442 494 503 502 MatID 0
+    Face 443 494 495 503 MatID 0
+    Face 444 495 496 503 MatID 0
+    Face 445 495 488 496 MatID 0
+    Face 446 496 505 504 MatID 0
+    Face 447 496 497 505 MatID 0
+    Face 448 497 506 505 MatID 0
+    Face 449 497 498 506 MatID 0
+    Face 450 498 507 506 MatID 0
+    Face 451 498 499 507 MatID 0
+    Face 452 499 508 507 MatID 0
+    Face 453 499 500 508 MatID 0
+    Face 454 500 509 508 MatID 0
+    Face 455 500 501 509 MatID 0
+    Face 456 501 510 509 MatID 0
+    Face 457 501 502 510 MatID 0
+    Face 458 502 511 510 MatID 0
+    Face 459 502 503 511 MatID 0
+    Face 460 503 504 511 MatID 0
+    Face 461 503 496 504 MatID 0
+    Face 462 504 513 512 MatID 0
+    Face 463 504 505 513 MatID 0
+    Face 464 505 514 513 MatID 0
+    Face 465 505 506 514 MatID 0
+    Face 466 506 515 514 MatID 0
+    Face 467 506 507 515 MatID 0
+    Face 468 507 516 515 MatID 0
+    Face 469 507 508 516 MatID 0
+    Face 470 508 517 516 MatID 0
+    Face 471 508 509 517 MatID 0
+    Face 472 509 518 517 MatID 0
+    Face 473 509 510 518 MatID 0
+    Face 474 510 519 518 MatID 0
+    Face 475 510 511 519 MatID 0
+    Face 476 511 512 519 MatID 0
+    Face 477 511 504 512 MatID 0
+    Face 478 512 516 517 MatID 0
+    Face 479 519 512 517 MatID 0
+    Face 480 517 518 519 MatID 0
+    Face 481 512 513 515 MatID 0
+    Face 482 515 516 512 MatID 0
+    Face 483 513 514 515 MatID 0
+    Face 484 520 521 522 MatID 0
+    Face 485 522 523 520 MatID 0
+    Face 486 520 522 521 MatID 0
+    Face 487 520 523 522 MatID 0
+    Face 488 525 524 526 MatID 0
+    Face 489 524 527 526 MatID 0
+    Face 490 524 525 526 MatID 0
+    Face 491 526 527 524 MatID 0
+    Face 492 528 530 529 MatID 0
+    Face 493 528 531 530 MatID 0
+    Face 494 528 532 531 MatID 0
+    Face 495 528 533 532 MatID 0
+    Face 496 528 534 533 MatID 0
+    Face 497 528 535 534 MatID 0
+    Face 498 528 536 535 MatID 0
+    Face 499 528 529 536 MatID 0
+    Face 500 529 538 537 MatID 0
+    Face 501 529 530 538 MatID 0
+    Face 502 530 539 538 MatID 0
+    Face 503 530 531 539 MatID 0
+    Face 504 531 540 539 MatID 0
+    Face 505 531 532 540 MatID 0
+    Face 506 532 541 540 MatID 0
+    Face 507 532 533 541 MatID 0
+    Face 508 533 542 541 MatID 0
+    Face 509 533 534 542 MatID 0
+    Face 510 534 543 542 MatID 0
+    Face 511 534 535 543 MatID 0
+    Face 512 535 544 543 MatID 0
+    Face 513 535 536 544 MatID 0
+    Face 514 536 537 544 MatID 0
+    Face 515 536 529 537 MatID 0
+    Face 516 537 546 545 MatID 0
+    Face 517 537 538 546 MatID 0
+    Face 518 538 547 546 MatID 0
+    Face 519 538 539 547 MatID 0
+    Face 520 539 548 547 MatID 0
+    Face 521 539 540 548 MatID 0
+    Face 522 540 549 548 MatID 0
+    Face 523 540 541 549 MatID 0
+    Face 524 541 550 549 MatID 0
+    Face 525 541 542 550 MatID 0
+    Face 526 542 551 550 MatID 0
+    Face 527 542 543 551 MatID 0
+    Face 528 543 552 551 MatID 0
+    Face 529 543 544 552 MatID 0
+    Face 530 544 545 552 MatID 0
+    Face 531 544 537 545 MatID 0
+    Face 532 545 554 553 MatID 0
+    Face 533 545 546 554 MatID 0
+    Face 534 546 555 554 MatID 0
+    Face 535 546 547 555 MatID 0
+    Face 536 547 556 555 MatID 0
+    Face 537 547 548 556 MatID 0
+    Face 538 548 557 556 MatID 0
+    Face 539 548 549 557 MatID 0
+    Face 540 549 558 557 MatID 0
+    Face 541 549 550 558 MatID 0
+    Face 542 550 559 558 MatID 0
+    Face 543 550 551 559 MatID 0
+    Face 544 551 560 559 MatID 0
+    Face 545 551 552 560 MatID 0
+    Face 546 552 553 560 MatID 0
+    Face 547 552 545 553 MatID 0
+    Face 548 553 557 558 MatID 0
+    Face 549 560 553 558 MatID 0
+    Face 550 558 559 560 MatID 0
+    Face 551 553 554 556 MatID 0
+    Face 552 556 557 553 MatID 0
+    Face 553 554 555 556 MatID 0
+    Face 554 561 562 563 MatID 0
+    Face 555 563 564 561 MatID 0
+    Face 556 561 563 562 MatID 0
+    Face 557 561 564 563 MatID 0
+    Face 558 566 565 567 MatID 0
+    Face 559 565 568 567 MatID 0
+    Face 560 565 566 567 MatID 0
+    Face 561 567 568 565 MatID 0
+  }
+  MapChannel 1 {
+    TextureVertices {
+      TVertex 0 0.0293 0.9958 0.0
+      TVertex 1 0.0293 0.9958 0.0
+      TVertex 2 0.0293 0.9958 0.0
+      TVertex 3 0.0293 0.9958 0.0
+      TVertex 4 0.0293 0.9958 0.0
+      TVertex 5 0.0293 0.9958 0.0
+      TVertex 6 0.0293 0.9958 0.0
+      TVertex 7 0.0293 0.9958 0.0
+      TVertex 8 0.0293 0.9957 0.0
+      TVertex 9 0.0293 0.9957 0.0
+      TVertex 10 0.0293 0.9957 0.0
+      TVertex 11 0.0293 0.9957 0.0
+      TVertex 12 0.0293 0.9957 0.0
+      TVertex 13 0.0293 0.9957 0.0
+      TVertex 14 0.0293 0.9957 0.0
+      TVertex 15 0.0293 0.9957 0.0
+      TVertex 16 0.0293 0.9957 0.0
+      TVertex 17 0.0293 0.9957 0.0
+      TVertex 18 0.0293 0.9957 0.0
+      TVertex 19 0.0293 0.9957 0.0
+      TVertex 20 0.0293 0.9957 0.0
+      TVertex 21 0.0293 0.9957 0.0
+      TVertex 22 0.0293 0.9957 0.0
+      TVertex 23 0.0293 0.9957 0.0
+      TVertex 24 0.0293 0.9958 0.0
+      TVertex 25 0.0293 0.9958 0.0
+      TVertex 26 0.0293 0.9957 0.0
+      TVertex 27 0.0293 0.9957 0.0
+      TVertex 28 0.0293 0.9958 0.0
+      TVertex 29 0.0292 0.9956 0.0
+      TVertex 30 0.0293 0.9958 0.0
+      TVertex 31 0.0292 0.9960 0.0
+      TVertex 32 0.0293 0.9958 0.0
+      TVertex 33 0.0293 0.9958 0.0
+      TVertex 34 0.0293 0.9958 0.0
+      TVertex 35 0.0293 0.9958 0.0
+      TVertex 36 0.0293 0.9957 0.0
+      TVertex 37 0.0293 0.9958 0.0
+      TVertex 38 0.0293 0.9958 0.0
+      TVertex 39 0.0293 0.9958 0.0
+      TVertex 40 0.0293 0.9958 0.0
+      TVertex 41 0.0293 0.9958 0.0
+      TVertex 42 0.0293 0.9958 0.0
+      TVertex 43 0.0293 0.9958 0.0
+      TVertex 44 0.0293 0.9958 0.0
+      TVertex 45 0.0293 0.9958 0.0
+      TVertex 46 0.0293 0.9958 0.0
+      TVertex 47 0.0293 0.9958 0.0
+      TVertex 48 0.0293 0.9958 0.0
+      TVertex 49 0.0293 0.9958 0.0
+      TVertex 50 0.0293 0.9958 0.0
+      TVertex 51 0.0293 0.9958 0.0
+      TVertex 52 0.0293 0.9958 0.0
+      TVertex 53 0.0293 0.9957 0.0
+      TVertex 54 0.0293 0.9958 0.0
+      TVertex 55 0.0293 0.9958 0.0
+      TVertex 56 0.0293 0.9958 0.0
+      TVertex 57 0.0293 0.9958 0.0
+      TVertex 58 0.0293 0.9958 0.0
+      TVertex 59 0.0293 0.9958 0.0
+      TVertex 60 0.0293 0.9958 0.0
+      TVertex 61 0.0293 0.9958 0.0
+      TVertex 62 0.0293 0.9958 0.0
+      TVertex 63 0.0293 0.9958 0.0
+      TVertex 64 0.0293 0.9958 0.0
+      TVertex 65 0.0293 0.9957 0.0
+      TVertex 66 0.0293 0.9958 0.0
+      TVertex 67 0.0293 0.9957 0.0
+      TVertex 68 0.0293 0.9958 0.0
+      TVertex 69 0.0293 0.9957 0.0
+      TVertex 70 0.0293 0.9957 0.0
+      TVertex 71 0.0293 0.9958 0.0
+      TVertex 72 0.0293 0.9958 0.0
+      TVertex 73 0.0293 0.9958 0.0
+      TVertex 74 0.0293 0.9958 0.0
+      TVertex 75 0.0293 0.9958 0.0
+      TVertex 76 0.0293 0.9958 0.0
+      TVertex 77 0.0293 0.9958 0.0
+      TVertex 78 0.0293 0.9958 0.0
+      TVertex 79 0.0293 0.9958 0.0
+      TVertex 80 0.0293 0.9958 0.0
+      TVertex 81 0.0293 0.9958 0.0
+      TVertex 82 0.0293 0.9958 0.0
+      TVertex 83 0.0293 0.9958 0.0
+      TVertex 84 0.0293 0.9958 0.0
+      TVertex 85 0.0293 0.9958 0.0
+      TVertex 86 0.0293 0.9958 0.0
+      TVertex 87 0.0293 0.9958 0.0
+      TVertex 88 0.0293 0.9958 0.0
+      TVertex 89 0.0293 0.9958 0.0
+      TVertex 90 0.0293 0.9957 0.0
+      TVertex 91 0.0293 0.9957 0.0
+      TVertex 92 0.0293 0.9957 0.0
+      TVertex 93 0.0293 0.9957 0.0
+      TVertex 94 0.0293 0.9957 0.0
+      TVertex 95 0.0293 0.9957 0.0
+      TVertex 96 0.0293 0.9958 0.0
+      TVertex 97 0.0293 0.9958 0.0
+      TVertex 98 0.0293 0.9958 0.0
+      TVertex 99 0.0293 0.9958 0.0
+      TVertex 100 0.0293 0.9958 0.0
+      TVertex 101 0.0293 0.9958 0.0
+      TVertex 102 0.0293 0.9957 0.0
+      TVertex 103 0.0293 0.9958 0.0
+      TVertex 104 0.0293 0.9958 0.0
+      TVertex 105 0.0293 0.9958 0.0
+      TVertex 106 0.0293 0.9957 0.0
+      TVertex 107 0.0293 0.9957 0.0
+      TVertex 108 0.0293 0.9958 0.0
+      TVertex 109 0.0293 0.9957 0.0
+      TVertex 110 0.0293 0.9957 0.0
+      TVertex 111 0.0293 0.9957 0.0
+      TVertex 112 0.0293 0.9958 0.0
+      TVertex 113 0.0293 0.9958 0.0
+      TVertex 114 0.0293 0.9957 0.0
+      TVertex 115 0.0293 0.9957 0.0
+      TVertex 116 0.0293 0.9957 0.0
+      TVertex 117 0.0293 0.9957 0.0
+      TVertex 118 0.0293 0.9957 0.0
+      TVertex 119 0.0293 0.9957 0.0
+      TVertex 120 0.0293 0.9957 0.0
+      TVertex 121 0.0293 0.9957 0.0
+      TVertex 122 0.0293 0.9957 0.0
+      TVertex 123 0.0293 0.9957 0.0
+      TVertex 124 0.0293 0.9957 0.0
+      TVertex 125 0.0293 0.9957 0.0
+      TVertex 126 0.0293 0.9957 0.0
+      TVertex 127 0.0293 0.9957 0.0
+      TVertex 128 0.0293 0.9958 0.0
+      TVertex 129 0.0293 0.9958 0.0
+      TVertex 130 0.0293 0.9958 0.0
+      TVertex 131 0.0292 0.9956 0.0
+      TVertex 132 0.0292 0.9956 0.0
+      TVertex 133 0.0292 0.9956 0.0
+      TVertex 134 0.0292 0.9956 0.0
+      TVertex 135 0.0293 0.9958 0.0
+      TVertex 136 0.0293 0.9958 0.0
+      TVertex 137 0.0293 0.9958 0.0
+      TVertex 138 0.0293 0.9957 0.0
+      TVertex 139 0.0293 0.9957 0.0
+      TVertex 140 0.0293 0.9957 0.0
+      TVertex 141 0.0293 0.9958 0.0
+      TVertex 142 0.0293 0.9957 0.0
+      TVertex 143 0.0293 0.9957 0.0
+      TVertex 144 0.0292 0.9960 0.0
+      TVertex 145 0.0292 0.9960 0.0
+      TVertex 146 0.0292 0.9960 0.0
+      TVertex 147 0.0292 0.9960 0.0
+      TVertex 148 0.0292 0.9960 0.0
+      TVertex 149 0.0293 0.9957 0.0
+      TVertex 150 0.0293 0.9957 0.0
+      TVertex 151 0.0293 0.9957 0.0
+      TVertex 152 0.0293 0.9957 0.0
+      TVertex 153 0.0293 0.9958 0.0
+      TVertex 154 0.0293 0.9957 0.0
+      TVertex 155 0.0293 0.9957 0.0
+      TVertex 156 0.0293 0.9957 0.0
+      TVertex 157 0.0293 0.9957 0.0
+      TVertex 158 0.0293 0.9957 0.0
+      TVertex 159 0.0293 0.9957 0.0
+      TVertex 160 0.0293 0.9957 0.0
+      TVertex 161 0.0293 0.9957 0.0
+      TVertex 162 0.0293 0.9957 0.0
+      TVertex 163 0.0293 0.9957 0.0
+      TVertex 164 0.0293 0.9957 0.0
+      TVertex 165 0.0293 0.9957 0.0
+      TVertex 166 0.0293 0.9957 0.0
+      TVertex 167 0.0293 0.9957 0.0
+      TVertex 168 0.0293 0.9958 0.0
+      TVertex 169 0.0293 0.9958 0.0
+      TVertex 170 0.0293 0.9958 0.0
+      TVertex 171 0.0293 0.9958 0.0
+      TVertex 172 0.0293 0.9958 0.0
+      TVertex 173 0.0293 0.9957 0.0
+      TVertex 174 0.0293 0.9957 0.0
+      TVertex 175 0.0293 0.9958 0.0
+      TVertex 176 0.0293 0.9958 0.0
+      TVertex 177 0.0293 0.9958 0.0
+      TVertex 178 0.0293 0.9958 0.0
+      TVertex 179 0.0293 0.9958 0.0
+      TVertex 180 0.0293 0.9958 0.0
+      TVertex 181 0.0293 0.9958 0.0
+      TVertex 182 0.0293 0.9957 0.0
+      TVertex 183 0.0293 0.9957 0.0
+      TVertex 184 0.0293 0.9957 0.0
+      TVertex 185 0.0293 0.9957 0.0
+      TVertex 186 0.0293 0.9958 0.0
+      TVertex 187 0.0293 0.9957 0.0
+      TVertex 188 0.0293 0.9957 0.0
+      TVertex 189 0.0293 0.9957 0.0
+      TVertex 190 0.0293 0.9957 0.0
+      TVertex 191 0.0293 0.9957 0.0
+      TVertex 192 0.0293 0.9957 0.0
+      TVertex 193 0.0293 0.9957 0.0
+      TVertex 194 0.0293 0.9957 0.0
+      TVertex 195 0.0293 0.9957 0.0
+      TVertex 196 0.0293 0.9957 0.0
+      TVertex 197 0.0293 0.9957 0.0
+      TVertex 198 0.0293 0.9957 0.0
+      TVertex 199 0.0293 0.9957 0.0
+      TVertex 200 0.0293 0.9957 0.0
+      TVertex 201 0.0293 0.9958 0.0
+      TVertex 202 0.0293 0.9958 0.0
+      TVertex 203 0.0293 0.9958 0.0
+      TVertex 204 0.0293 0.9958 0.0
+      TVertex 205 0.0293 0.9958 0.0
+      TVertex 206 0.0293 0.9958 0.0
+      TVertex 207 0.0293 0.9958 0.0
+      TVertex 208 0.0293 0.9957 0.0
+      TVertex 209 0.0293 0.9957 0.0
+      TVertex 210 0.0293 0.9958 0.0
+      TVertex 211 0.0293 0.9958 0.0
+      TVertex 212 0.0293 0.9958 0.0
+      TVertex 213 0.0293 0.9958 0.0
+      TVertex 214 0.0293 0.9958 0.0
+      TVertex 215 0.0293 0.9958 0.0
+      TVertex 216 0.0293 0.9958 0.0
+      TVertex 217 0.0293 0.9958 0.0
+      TVertex 218 0.0293 0.9958 0.0
+      TVertex 219 0.0293 0.9958 0.0
+      TVertex 220 0.0293 0.9958 0.0
+      TVertex 221 0.0293 0.9958 0.0
+      TVertex 222 0.0293 0.9958 0.0
+      TVertex 223 0.0293 0.9958 0.0
+      TVertex 224 0.0293 0.9958 0.0
+      TVertex 225 0.0293 0.9958 0.0
+      TVertex 226 0.0293 0.9958 0.0
+      TVertex 227 0.0293 0.9958 0.0
+      TVertex 228 0.0293 0.9958 0.0
+      TVertex 229 0.0293 0.9958 0.0
+      TVertex 230 0.0293 0.9958 0.0
+      TVertex 231 0.0293 0.9958 0.0
+      TVertex 232 0.0293 0.9958 0.0
+      TVertex 233 0.0293 0.9958 0.0
+      TVertex 234 0.0293 0.9958 0.0
+      TVertex 235 0.0293 0.9958 0.0
+      TVertex 236 0.0293 0.9958 0.0
+      TVertex 237 0.0293 0.9958 0.0
+      TVertex 238 0.0293 0.9958 0.0
+      TVertex 239 0.2800 0.7834 0.0
+      TVertex 240 0.3117 0.7830 0.0
+      TVertex 241 0.3817 0.7830 0.0
+      TVertex 242 0.4183 0.7830 0.0
+      TVertex 243 0.2800 0.8861 0.0
+      TVertex 244 0.3117 0.8861 0.0
+      TVertex 245 0.3817 0.8861 0.0
+      TVertex 246 0.4183 0.8861 0.0
+      TVertex 247 0.2800 0.8070 0.0
+      TVertex 248 0.3117 0.8070 0.0
+      TVertex 249 0.2800 0.8627 0.0
+      TVertex 250 0.3117 0.8627 0.0
+      TVertex 251 0.2972 0.8070 0.0
+      TVertex 252 0.2972 0.8627 0.0
+      TVertex 253 0.3817 0.8070 0.0
+      TVertex 254 0.4183 0.8070 0.0
+      TVertex 255 0.3817 0.8621 0.0
+      TVertex 256 0.4183 0.8621 0.0
+      TVertex 257 0.4105 0.8070 0.0
+      TVertex 258 0.4105 0.8621 0.0
+      TVertex 259 0.2873 0.7674 0.0
+      TVertex 260 0.3075 0.7547 0.0
+      TVertex 261 0.4075 0.7547 0.0
+      TVertex 262 0.4145 0.7674 0.0
+      TVertex 263 0.2873 0.7674 0.0
+      TVertex 264 0.3075 0.7546 0.0
+      TVertex 265 0.4075 0.7546 0.0
+      TVertex 266 0.4145 0.7674 0.0
+      TVertex 267 0.2873 0.7741 0.0
+      TVertex 268 0.3118 0.7827 0.0
+      TVertex 269 0.3813 0.7827 0.0
+      TVertex 270 0.4101 0.7741 0.0
+      TVertex 271 0.2873 0.7741 0.0
+      TVertex 272 0.3118 0.7828 0.0
+      TVertex 273 0.3813 0.7828 0.0
+      TVertex 274 0.4102 0.7741 0.0
+      TVertex 275 0.2873 0.7674 0.0
+      TVertex 276 0.3075 0.7546 0.0
+      TVertex 277 0.2873 0.7741 0.0
+      TVertex 278 0.3118 0.7828 0.0
+      TVertex 279 0.2873 0.7674 0.0
+      TVertex 280 0.3075 0.7547 0.0
+      TVertex 281 0.2873 0.7741 0.0
+      TVertex 282 0.3118 0.7827 0.0
+      TVertex 283 0.2959 0.7618 0.0
+      TVertex 284 0.2978 0.7685 0.0
+      TVertex 285 0.2959 0.7618 0.0
+      TVertex 286 0.2978 0.7685 0.0
+      TVertex 287 0.4075 0.7546 0.0
+      TVertex 288 0.4118 0.7623 0.0
+      TVertex 289 0.4075 0.7547 0.0
+      TVertex 290 0.4118 0.7623 0.0
+      TVertex 291 0.4464 0.7830 0.0
+      TVertex 292 0.4285 0.7830 0.0
+      TVertex 293 0.4464 0.8861 0.0
+      TVertex 294 0.4285 0.8861 0.0
+      TVertex 295 0.4195 0.7830 0.0
+      TVertex 296 0.4195 0.8861 0.0
+      TVertex 297 0.4195 0.8070 0.0
+      TVertex 298 0.4195 0.8621 0.0
+      TVertex 299 0.4285 0.8070 0.0
+      TVertex 300 0.4285 0.8621 0.0
+      TVertex 301 0.4105 0.8070 0.0
+      TVertex 302 0.4105 0.8621 0.0
+      TVertex 303 0.4464 0.8070 0.0
+      TVertex 304 0.4464 0.8621 0.0
+      TVertex 305 0.4354 0.8070 0.0
+      TVertex 306 0.4354 0.8621 0.0
+      TVertex 307 0.2732 0.7833 0.0
+      TVertex 308 0.2538 0.7833 0.0
+      TVertex 309 0.2732 0.8862 0.0
+      TVertex 310 0.2538 0.8862 0.0
+      TVertex 311 0.2799 0.7833 0.0
+      TVertex 312 0.2799 0.8862 0.0
+      TVertex 313 0.2732 0.8070 0.0
+      TVertex 314 0.2538 0.8070 0.0
+      TVertex 315 0.2799 0.8070 0.0
+      TVertex 316 0.2732 0.8627 0.0
+      TVertex 317 0.2538 0.8627 0.0
+      TVertex 318 0.2799 0.8627 0.0
+      TVertex 319 0.2679 0.8070 0.0
+      TVertex 320 0.2743 0.8070 0.0
+      TVertex 321 0.2679 0.8627 0.0
+      TVertex 322 0.2743 0.8627 0.0
+      TVertex 323 0.2827 0.8549 0.0
+      TVertex 324 0.2828 0.8106 0.0
+      TVertex 325 0.2826 0.8553 0.0
+      TVertex 326 0.2829 0.8108 0.0
+      TVertex 327 0.2910 0.8189 0.0
+      TVertex 328 0.2910 0.8192 0.0
+      TVertex 329 0.2563 0.9367 0.0
+      TVertex 330 0.2563 0.9580 0.0
+      TVertex 331 0.2563 0.9782 0.0
+      TVertex 332 0.2563 0.9161 0.0
+      TVertex 333 0.2563 0.9782 0.0
+      TVertex 334 0.3309 0.9367 0.0
+      TVertex 335 0.3309 0.9580 0.0
+      TVertex 336 0.2563 0.9581 0.0
+      TVertex 337 0.3309 0.9782 0.0
+      TVertex 338 0.2563 0.9367 0.0
+      TVertex 339 0.2563 0.9161 0.0
+      TVertex 340 0.3309 0.8961 0.0
+      TVertex 341 0.3309 0.9161 0.0
+      TVertex 342 0.3309 0.9782 0.0
+      TVertex 343 0.3309 0.9581 0.0
+      TVertex 344 0.2692 0.9163 0.0
+      TVertex 345 0.3309 0.9367 0.0
+      TVertex 346 0.3309 0.9161 0.0
+      TVertex 347 0.3309 0.8961 0.0
+      TVertex 348 0.2787 0.9367 0.0
+      TVertex 349 0.2924 0.9045 0.0
+      TVertex 350 0.2692 0.9163 0.0
+      TVertex 351 0.2787 0.9367 0.0
+      TVertex 352 0.2924 0.9046 0.0
+      TVertex 353 0.2919 0.9340 0.0
+      TVertex 354 0.2923 0.9161 0.0
+      TVertex 355 0.2923 0.9161 0.0
+      TVertex 356 0.2919 0.9339 0.0
+      TVertex 357 0.3066 0.8962 0.0
+      TVertex 358 0.3066 0.8962 0.0
+      TVertex 359 0.3436 0.9419 0.0
+      TVertex 360 0.2562 0.9951 0.0
+      TVertex 361 0.2562 0.9783 0.0
+      TVertex 362 0.3308 0.9951 0.0
+      TVertex 363 0.3308 0.9783 0.0
+      TVertex 364 0.4381 0.8363 0.0
+      TVertex 365 0.4435 0.8530 0.0
+      TVertex 366 0.4577 0.8633 0.0
+      TVertex 367 0.4753 0.8633 0.0
+      TVertex 368 0.4895 0.8530 0.0
+      TVertex 369 0.4949 0.8363 0.0
+      TVertex 370 0.4895 0.8196 0.0
+      TVertex 371 0.4753 0.8093 0.0
+      TVertex 372 0.4577 0.8093 0.0
+      TVertex 373 0.4435 0.8196 0.0
+      TVertex 374 0.3535 0.9107 0.0
+      TVertex 375 0.3794 0.8915 0.0
+      TVertex 376 0.4115 0.8915 0.0
+      TVertex 377 0.4374 0.9107 0.0
+      TVertex 378 0.4473 0.9419 0.0
+      TVertex 379 0.4374 0.9730 0.0
+      TVertex 380 0.4115 0.9922 0.0
+      TVertex 381 0.3794 0.9922 0.0
+      TVertex 382 0.3535 0.9730 0.0
+      TVertex 383 0.3953 0.9424 0.0
+      TVertex 384 0.4277 0.8898 0.0
+      TVertex 385 0.4571 0.7970 0.0
+      TVertex 386 0.4441 0.7548 0.0
+      TVertex 387 0.4789 0.7970 0.0
+      TVertex 388 0.4918 0.7547 0.0
+      TVertex 389 0.4788 0.7970 0.0
+      TVertex 390 0.4915 0.7547 0.0
+      TVertex 391 0.4570 0.7972 0.0
+      TVertex 392 0.4438 0.7550 0.0
+      TVertex 393 0.4579 0.9544 0.0
+      TVertex 394 0.4560 0.9325 0.0
+      TVertex 395 0.4787 0.9544 0.0
+      TVertex 396 0.4787 0.9325 0.0
+      TVertex 397 0.4460 0.9920 0.0
+      TVertex 398 0.4449 0.9912 0.0
+      TVertex 399 0.4577 0.9546 0.0
+      TVertex 400 0.4786 0.9546 0.0
+      TVertex 401 0.4786 0.9912 0.0
+      TVertex 402 0.4271 0.8895 0.0
+      TVertex 403 0.4560 0.9326 0.0
+      TVertex 404 0.4462 0.9026 0.0
+      TVertex 405 0.4788 0.9326 0.0
+      TVertex 406 0.4788 0.8895 0.0
+      TVertex 407 0.4579 0.9546 0.0
+      TVertex 408 0.4560 0.9327 0.0
+      TVertex 409 0.4788 0.9546 0.0
+      TVertex 410 0.4788 0.9327 0.0
+      TVertex 411 0.4462 0.9904 0.0
+      TVertex 412 0.4579 0.9545 0.0
+      TVertex 413 0.4450 0.9912 0.0
+      TVertex 414 0.4788 0.9545 0.0
+      TVertex 415 0.4788 0.9912 0.0
+      TVertex 416 0.4465 0.9028 0.0
+      TVertex 417 0.4561 0.9329 0.0
+      TVertex 418 0.4785 0.9329 0.0
+      TVertex 419 0.4785 0.8898 0.0
+      TVertex 420 0.0097 0.9927 0.0
+      TVertex 421 0.0097 0.9927 0.0
+      TVertex 422 0.0097 0.9927 0.0
+      TVertex 423 0.0097 0.9927 0.0
+      TVertex 424 0.0097 0.9927 0.0
+      TVertex 425 0.0097 0.9927 0.0
+      TVertex 426 0.0097 0.9927 0.0
+      TVertex 427 0.0097 0.9927 0.0
+      TVertex 428 0.0097 0.9927 0.0
+      TVertex 429 0.0097 0.9927 0.0
+      TVertex 430 0.0097 0.9927 0.0
+      TVertex 431 0.0097 0.9927 0.0
+      TVertex 432 0.0097 0.9927 0.0
+      TVertex 433 0.0097 0.9927 0.0
+      TVertex 434 0.0097 0.9927 0.0
+      TVertex 435 0.0097 0.9927 0.0
+      TVertex 436 0.0097 0.9927 0.0
+      TVertex 437 0.0097 0.9927 0.0
+      TVertex 438 0.0097 0.9927 0.0
+      TVertex 439 0.0097 0.9927 0.0
+      TVertex 440 0.0097 0.9927 0.0
+      TVertex 441 0.0097 0.9927 0.0
+      TVertex 442 0.0097 0.9927 0.0
+      TVertex 443 0.0097 0.9927 0.0
+      TVertex 444 0.0097 0.9927 0.0
+      TVertex 445 0.0097 0.9927 0.0
+      TVertex 446 0.0097 0.9927 0.0
+      TVertex 447 0.0097 0.9927 0.0
+      TVertex 448 0.0097 0.9927 0.0
+      TVertex 449 0.0097 0.9927 0.0
+      TVertex 450 0.0097 0.9927 0.0
+      TVertex 451 0.0097 0.9927 0.0
+      TVertex 452 0.0097 0.9927 0.0
+      TVertex 453 0.0097 0.9927 0.0
+      TVertex 454 0.0097 0.9924 0.0
+      TVertex 455 0.0097 0.9924 0.0
+      TVertex 456 0.0097 0.9924 0.0
+      TVertex 457 0.0097 0.9924 0.0
+      TVertex 458 0.0097 0.9924 0.0
+      TVertex 459 0.0097 0.9924 0.0
+      TVertex 460 0.0270 0.9929 0.0
+      TVertex 461 0.0270 0.9929 0.0
+      TVertex 462 0.0270 0.9929 0.0
+      TVertex 463 0.0270 0.9929 0.0
+      TVertex 464 0.0270 0.9929 0.0
+      TVertex 465 0.0270 0.9929 0.0
+      TVertex 466 0.0270 0.9929 0.0
+      TVertex 467 0.0270 0.9929 0.0
+      TVertex 468 0.0270 0.9929 0.0
+      TVertex 469 0.0270 0.9929 0.0
+      TVertex 470 0.0270 0.9929 0.0
+      TVertex 471 0.0270 0.9929 0.0
+      TVertex 472 0.0270 0.9929 0.0
+      TVertex 473 0.0270 0.9929 0.0
+      TVertex 474 0.0270 0.9929 0.0
+      TVertex 475 0.0270 0.9929 0.0
+      TVertex 476 0.0270 0.9929 0.0
+      TVertex 477 0.0270 0.9929 0.0
+      TVertex 478 0.0270 0.9929 0.0
+      TVertex 479 0.0270 0.9929 0.0
+      TVertex 480 0.4748 0.5077 0.0
+      TVertex 481 0.4747 0.5077 0.0
+      TVertex 482 0.4748 0.5077 0.0
+      TVertex 483 0.4748 0.5077 0.0
+      TVertex 484 0.4747 0.5074 0.0
+      TVertex 485 0.4747 0.5074 0.0
+      TVertex 486 0.4747 0.5074 0.0
+      TVertex 487 0.4748 0.5073 0.0
+      TVertex 488 0.2440 0.9318 0.0
+      TVertex 489 0.3181 0.9173 0.0
+      TVertex 490 0.1980 0.9318 0.0
+      TVertex 491 0.3016 0.9173 0.0
+      TVertex 492 0.3102 0.9271 0.0
+      TVertex 493 0.3177 0.9271 0.0
+      TVertex 494 0.3102 0.9271 0.0
+      TVertex 495 0.3177 0.9271 0.0
+      TVertex 496 0.3102 0.9127 0.0
+      TVertex 497 0.3177 0.9127 0.0
+      TVertex 498 0.3102 0.9127 0.0
+      TVertex 499 0.3177 0.9127 0.0
+      TVertex 500 0.0719 0.5596 0.0
+      TVertex 501 0.1263 0.5596 0.0
+      TVertex 502 0.0719 0.6126 0.0
+      TVertex 503 0.1263 0.6126 0.0
+      TVertex 504 0.0266 0.7625 0.0
+      TVertex 505 0.0266 0.7625 0.0
+      TVertex 506 0.1908 0.7615 0.0
+      TVertex 507 0.1908 0.7615 0.0
+      TVertex 508 0.4944 0.5074 0.0
+      TVertex 509 0.4894 0.5136 0.0
+      TVertex 510 0.1908 0.7994 0.0
+      TVertex 511 0.4945 0.5076 0.0
+      TVertex 512 0.0720 0.8569 0.0
+      TVertex 513 0.0844 0.8836 0.0
+      TVertex 514 0.1006 0.8638 0.0
+      TVertex 515 0.0952 0.8389 0.0
+      TVertex 516 0.0723 0.8275 0.0
+      TVertex 517 0.0492 0.8383 0.0
+      TVertex 518 0.0432 0.8631 0.0
+      TVertex 519 0.0589 0.8833 0.0
+      TVertex 520 0.3258 0.9857 0.0
+      TVertex 521 0.3298 0.9857 0.0
+      TVertex 522 0.3060 0.9857 0.0
+      TVertex 523 0.3100 0.9857 0.0
+      TVertex 524 0.3139 0.9857 0.0
+      TVertex 525 0.3179 0.9857 0.0
+      TVertex 526 0.3219 0.9857 0.0
+      TVertex 527 0.0720 0.8569 0.0
+      TVertex 528 0.0721 0.8561 0.0
+      TVertex 529 0.0596 0.8828 0.0
+      TVertex 530 0.0851 0.8824 0.0
+      TVertex 531 0.1008 0.8623 0.0
+      TVertex 532 0.0948 0.8375 0.0
+      TVertex 533 0.0717 0.8267 0.0
+      TVertex 534 0.0488 0.8381 0.0
+      TVertex 535 0.0435 0.8630 0.0
+      TVertex 536 0.3259 0.9859 0.0
+      TVertex 537 0.3299 0.9859 0.0
+      TVertex 538 0.3058 0.9859 0.0
+      TVertex 539 0.3098 0.9859 0.0
+      TVertex 540 0.3138 0.9859 0.0
+      TVertex 541 0.3179 0.9859 0.0
+      TVertex 542 0.3219 0.9859 0.0
+      TVertex 543 0.0721 0.8561 0.0
+      TVertex 544 0.4846 0.5076 0.0
+      TVertex 545 0.4846 0.5076 0.0
+      TVertex 546 0.4846 0.5076 0.0
+      TVertex 547 0.4846 0.5076 0.0
+      TVertex 548 0.4846 0.5076 0.0
+      TVertex 549 0.4846 0.5076 0.0
+      TVertex 550 0.4846 0.5076 0.0
+      TVertex 551 0.4846 0.5076 0.0
+      TVertex 552 0.4747 0.5077 0.0
+      TVertex 553 0.4747 0.5073 0.0
+      TVertex 554 0.4747 0.5077 0.0
+      TVertex 555 0.4747 0.5077 0.0
+      TVertex 556 0.4747 0.5074 0.0
+      TVertex 557 0.4747 0.5077 0.0
+      TVertex 558 0.4748 0.5077 0.0
+      TVertex 559 0.4747 0.5077 0.0
+      TVertex 560 0.4747 0.5073 0.0
+      TVertex 561 0.4747 0.5073 0.0
+      TVertex 562 0.4748 0.5073 0.0
+      TVertex 563 0.4748 0.5077 0.0
+      TVertex 564 0.3181 0.9390 0.0
+      TVertex 565 0.3016 0.9390 0.0
+      TVertex 566 0.3181 0.9390 0.0
+      TVertex 567 0.1980 0.9588 0.0
+      TVertex 568 0.2440 0.9588 0.0
+      TVertex 569 0.1980 0.9588 0.0
+      TVertex 570 0.3237 0.9127 0.0
+      TVertex 571 0.3019 0.9127 0.0
+      TVertex 572 0.3237 0.9127 0.0
+      TVertex 573 0.3019 0.9127 0.0
+      TVertex 574 0.3237 0.9127 0.0
+      TVertex 575 0.3019 0.9127 0.0
+      TVertex 576 0.3007 0.9362 0.0
+      TVertex 577 0.3237 0.9362 0.0
+      TVertex 578 0.3007 0.9362 0.0
+      TVertex 579 0.3237 0.9362 0.0
+      TVertex 580 0.3007 0.9362 0.0
+      TVertex 581 0.3237 0.9362 0.0
+      TVertex 582 0.3237 0.9362 0.0
+      TVertex 583 0.3237 0.9127 0.0
+      TVertex 584 0.3237 0.9362 0.0
+      TVertex 585 0.3019 0.9127 0.0
+      TVertex 586 0.3007 0.9362 0.0
+      TVertex 587 0.3019 0.9127 0.0
+      TVertex 588 0.3237 0.9127 0.0
+      TVertex 589 0.3237 0.9362 0.0
+      TVertex 590 0.3237 0.9127 0.0
+      TVertex 591 0.3007 0.9362 0.0
+      TVertex 592 0.3019 0.9127 0.0
+      TVertex 593 0.3007 0.9362 0.0
+      TVertex 594 0.3019 0.9127 0.0
+      TVertex 595 0.3237 0.9127 0.0
+      TVertex 596 0.3237 0.9025 0.0
+      TVertex 597 0.3237 0.9025 0.0
+      TVertex 598 0.3042 0.9025 0.0
+      TVertex 599 0.3019 0.9127 0.0
+      TVertex 600 0.3016 0.9080 0.0
+      TVertex 601 0.3016 0.9080 0.0
+      TVertex 602 0.3181 0.9080 0.0
+      TVertex 603 0.3237 0.9127 0.0
+      TVertex 604 0.3019 0.9127 0.0
+      TVertex 605 0.3042 0.9025 0.0
+      TVertex 606 0.3042 0.9025 0.0
+      TVertex 607 0.3237 0.9025 0.0
+      TVertex 608 0.3237 0.9127 0.0
+      TVertex 609 0.3016 0.9173 0.0
+      TVertex 610 0.3181 0.9173 0.0
+      TVertex 611 0.3181 0.9080 0.0
+      TVertex 612 0.3181 0.9080 0.0
+      TVertex 613 0.3016 0.9080 0.0
+      TVertex 614 0.3016 0.9173 0.0
+      TVertex 615 0.0702 0.7625 0.0
+      TVertex 616 0.0702 0.7625 0.0
+      TVertex 617 0.0702 0.7625 0.0
+      TVertex 618 0.4894 0.5136 0.0
+      TVertex 619 0.4894 0.5136 0.0
+      TVertex 620 0.4894 0.5136 0.0
+      TVertex 621 0.4894 0.5136 0.0
+      TVertex 622 0.4944 0.5074 0.0
+      TVertex 623 0.4944 0.5074 0.0
+      TVertex 624 0.4944 0.5074 0.0
+      TVertex 625 0.4944 0.5074 0.0
+      TVertex 626 0.0702 0.8004 0.0
+      TVertex 627 0.0702 0.7625 0.0
+      TVertex 628 0.0266 0.8004 0.0
+      TVertex 629 0.0702 0.8004 0.0
+      TVertex 630 0.1472 0.7615 0.0
+      TVertex 631 0.1472 0.7615 0.0
+      TVertex 632 0.1472 0.7615 0.0
+      TVertex 633 0.1472 0.7615 0.0
+      TVertex 634 0.1472 0.7994 0.0
+      TVertex 635 0.1472 0.7615 0.0
+      TVertex 636 0.4945 0.5076 0.0
+      TVertex 637 0.4945 0.5076 0.0
+      TVertex 638 0.4945 0.5076 0.0
+      TVertex 639 0.4945 0.5076 0.0
+      TVertex 640 0.4894 0.9974 0.0
+      TVertex 641 0.4894 0.9974 0.0
+      TVertex 642 0.4894 0.9974 0.0
+      TVertex 643 0.4894 0.9974 0.0
+      TVertex 644 0.4894 0.9974 0.0
+      TVertex 645 0.4894 0.9974 0.0
+      TVertex 646 0.3258 0.9125 0.0
+      TVertex 647 0.3258 0.9125 0.0
+      TVertex 648 0.3298 0.9125 0.0
+      TVertex 649 0.3020 0.9125 0.0
+      TVertex 650 0.3020 0.9857 0.0
+      TVertex 651 0.3020 0.9125 0.0
+      TVertex 652 0.3060 0.9125 0.0
+      TVertex 653 0.3060 0.9125 0.0
+      TVertex 654 0.3060 0.9125 0.0
+      TVertex 655 0.3100 0.9125 0.0
+      TVertex 656 0.3139 0.9125 0.0
+      TVertex 657 0.3139 0.9125 0.0
+      TVertex 658 0.3179 0.9125 0.0
+      TVertex 659 0.3179 0.9125 0.0
+      TVertex 660 0.3179 0.9125 0.0
+      TVertex 661 0.3219 0.9125 0.0
+      TVertex 662 0.3219 0.9125 0.0
+      TVertex 663 0.3219 0.9125 0.0
+      TVertex 664 0.3258 0.9125 0.0
+      TVertex 665 0.0844 0.8836 0.0
+      TVertex 666 0.1006 0.8638 0.0
+      TVertex 667 0.1006 0.8638 0.0
+      TVertex 668 0.0952 0.8389 0.0
+      TVertex 669 0.0952 0.8389 0.0
+      TVertex 670 0.0723 0.8275 0.0
+      TVertex 671 0.0723 0.8275 0.0
+      TVertex 672 0.0492 0.8383 0.0
+      TVertex 673 0.0492 0.8383 0.0
+      TVertex 674 0.0432 0.8631 0.0
+      TVertex 675 0.0432 0.8631 0.0
+      TVertex 676 0.0589 0.8833 0.0
+      TVertex 677 0.0589 0.8833 0.0
+      TVertex 678 0.0844 0.8836 0.0
+      TVertex 679 0.3259 0.9126 0.0
+      TVertex 680 0.3259 0.9126 0.0
+      TVertex 681 0.3299 0.9126 0.0
+      TVertex 682 0.3018 0.9126 0.0
+      TVertex 683 0.3018 0.9859 0.0
+      TVertex 684 0.3018 0.9126 0.0
+      TVertex 685 0.3058 0.9126 0.0
+      TVertex 686 0.3058 0.9126 0.0
+      TVertex 687 0.3058 0.9126 0.0
+      TVertex 688 0.3098 0.9126 0.0
+      TVertex 689 0.3138 0.9126 0.0
+      TVertex 690 0.3138 0.9126 0.0
+      TVertex 691 0.3179 0.9126 0.0
+      TVertex 692 0.3179 0.9126 0.0
+      TVertex 693 0.3179 0.9126 0.0
+      TVertex 694 0.3219 0.9126 0.0
+      TVertex 695 0.3219 0.9126 0.0
+      TVertex 696 0.3219 0.9126 0.0
+      TVertex 697 0.3259 0.9126 0.0
+      TVertex 698 0.0596 0.8828 0.0
+      TVertex 699 0.0851 0.8824 0.0
+      TVertex 700 0.0851 0.8824 0.0
+      TVertex 701 0.1008 0.8623 0.0
+      TVertex 702 0.1008 0.8623 0.0
+      TVertex 703 0.0948 0.8375 0.0
+      TVertex 704 0.0948 0.8375 0.0
+      TVertex 705 0.0717 0.8267 0.0
+      TVertex 706 0.0717 0.8267 0.0
+      TVertex 707 0.0488 0.8381 0.0
+      TVertex 708 0.0488 0.8381 0.0
+      TVertex 709 0.0435 0.8630 0.0
+      TVertex 710 0.0435 0.8630 0.0
+      TVertex 711 0.0596 0.8828 0.0
+      TVertex 712 0.4847 0.5076 0.0
+      TVertex 713 0.4847 0.5076 0.0
+      TVertex 714 0.4847 0.5076 0.0
+      TVertex 715 0.4847 0.5076 0.0
+      TVertex 716 0.4847 0.5076 0.0
+      TVertex 717 0.4847 0.5076 0.0
+      TVertex 718 0.4847 0.5076 0.0
+      TVertex 719 0.4847 0.5076 0.0
+      TVertex 720 0.4847 0.5076 0.0
+      TVertex 721 0.4847 0.5076 0.0
+      TVertex 722 0.4847 0.5076 0.0
+      TVertex 723 0.4847 0.5076 0.0
+      TVertex 724 0.4847 0.5076 0.0
+      TVertex 725 0.4847 0.5076 0.0
+      TVertex 726 0.4847 0.5076 0.0
+      TVertex 727 0.4847 0.5076 0.0
+      TVertex 728 0.4847 0.5076 0.0
+      TVertex 729 0.4847 0.5076 0.0
+      TVertex 730 0.4847 0.5076 0.0
+      TVertex 731 0.4847 0.5076 0.0
+      TVertex 732 0.4847 0.5076 0.0
+      TVertex 733 0.4847 0.5076 0.0
+      TVertex 734 0.4847 0.5076 0.0
+      TVertex 735 0.4847 0.5076 0.0
+      TVertex 736 0.4948 0.9923 0.0
+      TVertex 737 0.4948 0.9923 0.0
+      TVertex 738 0.4948 0.9923 0.0
+      TVertex 739 0.4948 0.9923 0.0
+      TVertex 740 0.4950 0.9923 0.0
+      TVertex 741 0.4950 0.9923 0.0
+      TVertex 742 0.4950 0.9923 0.0
+      TVertex 743 0.4950 0.9923 0.0
+      TVertex 744 0.4950 0.9916 0.0
+      TVertex 745 0.4950 0.9916 0.0
+      TVertex 746 0.4950 0.9916 0.0
+      TVertex 747 0.4950 0.9916 0.0
+      TVertex 748 0.4948 0.9910 0.0
+      TVertex 749 0.4948 0.9910 0.0
+      TVertex 750 0.4948 0.9910 0.0
+      TVertex 751 0.4948 0.9910 0.0
+      TVertex 752 0.4948 0.9923 0.0
+      TVertex 753 0.4950 0.9923 0.0
+      TVertex 754 0.4950 0.9916 0.0
+      TVertex 755 0.4948 0.9910 0.0
+      TVertex 756 0.4948 0.9923 0.0
+      TVertex 757 0.4950 0.9923 0.0
+      TVertex 758 0.4950 0.9916 0.0
+      TVertex 759 0.4948 0.9910 0.0
+      TVertex 760 0.4951 0.9908 0.0
+      TVertex 761 0.4951 0.9908 0.0
+      TVertex 762 0.4951 0.9910 0.0
+      TVertex 763 0.4950 0.9910 0.0
+      TVertex 764 0.4950 0.9910 0.0
+      TVertex 765 0.4951 0.9910 0.0
+      TVertex 766 0.4952 0.9910 0.0
+      TVertex 767 0.4950 0.9910 0.0
+      TVertex 768 0.4952 0.9910 0.0
+      TVertex 769 0.4950 0.9910 0.0
+      TVertex 770 0.4952 0.9910 0.0
+      TVertex 771 0.4950 0.9913 0.0
+      TVertex 772 0.4950 0.9913 0.0
+      TVertex 773 0.4951 0.9913 0.0
+      TVertex 774 0.4952 0.9913 0.0
+      TVertex 775 0.4952 0.9913 0.0
+      TVertex 776 0.4952 0.9910 0.0
+      TVertex 777 0.4951 0.9913 0.0
+      TVertex 778 0.4950 0.9913 0.0
+      TVertex 779 0.4950 0.9922 0.0
+      TVertex 780 0.4950 0.9922 0.0
+      TVertex 781 0.4951 0.9922 0.0
+      TVertex 782 0.4952 0.9922 0.0
+      TVertex 783 0.4950 0.9913 0.0
+      TVertex 784 0.4952 0.9913 0.0
+      TVertex 785 0.4952 0.9922 0.0
+      TVertex 786 0.4951 0.9923 0.0
+      TVertex 787 0.4950 0.9923 0.0
+      TVertex 788 0.4950 0.9923 0.0
+      TVertex 789 0.4950 0.9923 0.0
+      TVertex 790 0.4951 0.9923 0.0
+      TVertex 791 0.4952 0.9923 0.0
+      TVertex 792 0.4952 0.9923 0.0
+      TVertex 793 0.4952 0.9913 0.0
+      TVertex 794 0.4952 0.9923 0.0
+      TVertex 795 0.4951 0.9922 0.0
+      TVertex 796 0.4950 0.9922 0.0
+      TVertex 797 0.4950 0.9922 0.0
+      TVertex 798 0.4952 0.9922 0.0
+      TVertex 799 0.4952 0.9922 0.0
+      TVertex 800 0.4951 0.9923 0.0
+      TVertex 801 0.4951 0.9923 0.0
+      TVertex 802 0.4950 0.9923 0.0
+      TVertex 803 0.4952 0.9923 0.0
+      TVertex 804 0.4952 0.9923 0.0
+      TVertex 805 0.4948 0.9923 0.0
+      TVertex 806 0.4948 0.9923 0.0
+      TVertex 807 0.4948 0.9923 0.0
+      TVertex 808 0.4948 0.9923 0.0
+      TVertex 809 0.4950 0.9923 0.0
+      TVertex 810 0.4950 0.9923 0.0
+      TVertex 811 0.4950 0.9923 0.0
+      TVertex 812 0.4950 0.9923 0.0
+      TVertex 813 0.4950 0.9916 0.0
+      TVertex 814 0.4950 0.9916 0.0
+      TVertex 815 0.4950 0.9916 0.0
+      TVertex 816 0.4950 0.9916 0.0
+      TVertex 817 0.4948 0.9910 0.0
+      TVertex 818 0.4948 0.9910 0.0
+      TVertex 819 0.4948 0.9910 0.0
+      TVertex 820 0.4948 0.9910 0.0
+      TVertex 821 0.4948 0.9923 0.0
+      TVertex 822 0.4950 0.9923 0.0
+      TVertex 823 0.4950 0.9916 0.0
+      TVertex 824 0.4948 0.9910 0.0
+      TVertex 825 0.4948 0.9923 0.0
+      TVertex 826 0.4950 0.9923 0.0
+      TVertex 827 0.4950 0.9916 0.0
+      TVertex 828 0.4948 0.9910 0.0
+      TVertex 829 0.4951 0.9908 0.0
+      TVertex 830 0.4951 0.9908 0.0
+      TVertex 831 0.4951 0.9910 0.0
+      TVertex 832 0.4950 0.9910 0.0
+      TVertex 833 0.4950 0.9910 0.0
+      TVertex 834 0.4951 0.9910 0.0
+      TVertex 835 0.4952 0.9910 0.0
+      TVertex 836 0.4950 0.9910 0.0
+      TVertex 837 0.4952 0.9910 0.0
+      TVertex 838 0.4950 0.9910 0.0
+      TVertex 839 0.4952 0.9910 0.0
+      TVertex 840 0.4950 0.9913 0.0
+      TVertex 841 0.4950 0.9913 0.0
+      TVertex 842 0.4951 0.9913 0.0
+      TVertex 843 0.4952 0.9913 0.0
+      TVertex 844 0.4952 0.9913 0.0
+      TVertex 845 0.4952 0.9910 0.0
+      TVertex 846 0.4951 0.9913 0.0
+      TVertex 847 0.4950 0.9913 0.0
+      TVertex 848 0.4950 0.9922 0.0
+      TVertex 849 0.4950 0.9922 0.0
+      TVertex 850 0.4951 0.9922 0.0
+      TVertex 851 0.4952 0.9922 0.0
+      TVertex 852 0.4950 0.9913 0.0
+      TVertex 853 0.4952 0.9913 0.0
+      TVertex 854 0.4952 0.9922 0.0
+      TVertex 855 0.4951 0.9923 0.0
+      TVertex 856 0.4950 0.9923 0.0
+      TVertex 857 0.4950 0.9923 0.0
+      TVertex 858 0.4950 0.9923 0.0
+      TVertex 859 0.4951 0.9923 0.0
+      TVertex 860 0.4952 0.9923 0.0
+      TVertex 861 0.4952 0.9923 0.0
+      TVertex 862 0.4952 0.9913 0.0
+      TVertex 863 0.4952 0.9923 0.0
+      TVertex 864 0.4951 0.9922 0.0
+      TVertex 865 0.4950 0.9922 0.0
+      TVertex 866 0.4950 0.9922 0.0
+      TVertex 867 0.4952 0.9922 0.0
+      TVertex 868 0.4952 0.9922 0.0
+      TVertex 869 0.4951 0.9923 0.0
+      TVertex 870 0.4951 0.9923 0.0
+      TVertex 871 0.4950 0.9923 0.0
+      TVertex 872 0.4952 0.9923 0.0
+      TVertex 873 0.4952 0.9923 0.0
+      TVertex 874 0.5264 0.9976 0.0
+      TVertex 875 0.5260 0.9975 0.0
+      TVertex 876 0.5260 0.9784 0.0
+      TVertex 877 0.5484 0.9785 0.0
+      TVertex 878 0.5419 0.9785 0.0
+      TVertex 879 0.5264 0.9785 0.0
+      TVertex 880 0.5108 0.9785 0.0
+      TVertex 881 0.5416 0.9785 0.0
+      TVertex 882 0.5044 0.9786 0.0
+      TVertex 883 0.5480 0.9785 0.0
+      TVertex 884 0.5041 0.9784 0.0
+      TVertex 885 0.5491 0.9590 0.0
+      TVertex 886 0.5424 0.9590 0.0
+      TVertex 887 0.5263 0.9590 0.0
+      TVertex 888 0.5102 0.9591 0.0
+      TVertex 889 0.5035 0.9591 0.0
+      TVertex 890 0.5105 0.9784 0.0
+      TVertex 891 0.5261 0.9590 0.0
+      TVertex 892 0.5422 0.9590 0.0
+      TVertex 893 0.5480 0.8880 0.0
+      TVertex 894 0.5415 0.8880 0.0
+      TVertex 895 0.5260 0.8881 0.0
+      TVertex 896 0.5104 0.8881 0.0
+      TVertex 897 0.5489 0.9590 0.0
+      TVertex 898 0.5033 0.9590 0.0
+      TVertex 899 0.5040 0.8881 0.0
+      TVertex 900 0.5287 0.8812 0.0
+      TVertex 901 0.5414 0.8810 0.0
+      TVertex 902 0.5471 0.8810 0.0
+      TVertex 903 0.5414 0.8810 0.0
+      TVertex 904 0.5274 0.8810 0.0
+      TVertex 905 0.5112 0.8813 0.0
+      TVertex 906 0.5078 0.8811 0.0
+      TVertex 907 0.5099 0.9590 0.0
+      TVertex 908 0.5135 0.8811 0.0
+      TVertex 909 0.5261 0.8880 0.0
+      TVertex 910 0.5417 0.8880 0.0
+      TVertex 911 0.5481 0.8880 0.0
+      TVertex 912 0.5042 0.8880 0.0
+      TVertex 913 0.5106 0.8880 0.0
+      TVertex 914 0.5270 0.8812 0.0
+      TVertex 915 0.5361 0.8813 0.0
+      TVertex 916 0.5418 0.8811 0.0
+      TVertex 917 0.5051 0.8813 0.0
+      TVertex 918 0.5108 0.8812 0.0
+      TVertex 919 0.5880 0.8813 0.0
+      TVertex 920 0.5883 0.8816 0.0
+      TVertex 921 0.5568 0.8814 0.0
+      TVertex 922 0.5571 0.8817 0.0
+      TVertex 923 0.5567 0.9291 0.0
+      TVertex 924 0.5570 0.9293 0.0
+      TVertex 925 0.5881 0.9730 0.0
+      TVertex 926 0.5883 0.9733 0.0
+      TVertex 927 0.5880 0.8813 0.0
+      TVertex 928 0.5883 0.8816 0.0
+      TVertex 929 0.5571 0.8817 0.0
+      TVertex 930 0.5568 0.8814 0.0
+      TVertex 931 0.5570 0.9293 0.0
+      TVertex 932 0.5567 0.9291 0.0
+      TVertex 933 0.5881 0.9730 0.0
+      TVertex 934 0.5883 0.9733 0.0
+      TVertex 935 0.5264 0.9976 0.0
+      TVertex 936 0.5260 0.9975 0.0
+      TVertex 937 0.5260 0.9784 0.0
+      TVertex 938 0.5484 0.9785 0.0
+      TVertex 939 0.5419 0.9785 0.0
+      TVertex 940 0.5264 0.9785 0.0
+      TVertex 941 0.5108 0.9785 0.0
+      TVertex 942 0.5416 0.9785 0.0
+      TVertex 943 0.5044 0.9786 0.0
+      TVertex 944 0.5480 0.9785 0.0
+      TVertex 945 0.5041 0.9784 0.0
+      TVertex 946 0.5491 0.9590 0.0
+      TVertex 947 0.5424 0.9590 0.0
+      TVertex 948 0.5263 0.9590 0.0
+      TVertex 949 0.5102 0.9591 0.0
+      TVertex 950 0.5035 0.9591 0.0
+      TVertex 951 0.5105 0.9784 0.0
+      TVertex 952 0.5261 0.9590 0.0
+      TVertex 953 0.5422 0.9590 0.0
+      TVertex 954 0.5480 0.8880 0.0
+      TVertex 955 0.5415 0.8880 0.0
+      TVertex 956 0.5260 0.8881 0.0
+      TVertex 957 0.5104 0.8881 0.0
+      TVertex 958 0.5489 0.9590 0.0
+      TVertex 959 0.5033 0.9590 0.0
+      TVertex 960 0.5040 0.8881 0.0
+      TVertex 961 0.5287 0.8812 0.0
+      TVertex 962 0.5414 0.8810 0.0
+      TVertex 963 0.5471 0.8810 0.0
+      TVertex 964 0.5414 0.8810 0.0
+      TVertex 965 0.5274 0.8810 0.0
+      TVertex 966 0.5112 0.8813 0.0
+      TVertex 967 0.5078 0.8811 0.0
+      TVertex 968 0.5099 0.9590 0.0
+      TVertex 969 0.5135 0.8811 0.0
+      TVertex 970 0.5261 0.8880 0.0
+      TVertex 971 0.5417 0.8880 0.0
+      TVertex 972 0.5481 0.8880 0.0
+      TVertex 973 0.5042 0.8880 0.0
+      TVertex 974 0.5106 0.8880 0.0
+      TVertex 975 0.5270 0.8812 0.0
+      TVertex 976 0.5361 0.8813 0.0
+      TVertex 977 0.5418 0.8811 0.0
+      TVertex 978 0.5051 0.8813 0.0
+      TVertex 979 0.5108 0.8812 0.0
+      TVertex 980 0.5880 0.8813 0.0
+      TVertex 981 0.5883 0.8816 0.0
+      TVertex 982 0.5568 0.8814 0.0
+      TVertex 983 0.5571 0.8817 0.0
+      TVertex 984 0.5567 0.9291 0.0
+      TVertex 985 0.5570 0.9293 0.0
+      TVertex 986 0.5881 0.9730 0.0
+      TVertex 987 0.5883 0.9733 0.0
+      TVertex 988 0.5880 0.8813 0.0
+      TVertex 989 0.5883 0.8816 0.0
+      TVertex 990 0.5571 0.8817 0.0
+      TVertex 991 0.5568 0.8814 0.0
+      TVertex 992 0.5570 0.9293 0.0
+      TVertex 993 0.5567 0.9291 0.0
+      TVertex 994 0.5881 0.9730 0.0
+      TVertex 995 0.5883 0.9733 0.0
+    }
+    TextureFaces {
+      TFace 0 1 0 5
+      TFace 1 4 5 0
+      TFace 2 3 72 7
+      TFace 3 73 7 74
+      TFace 4 2 75 6
+      TFace 5 76 6 77
+      TFace 6 78 79 80
+      TFace 7 81 82 83
+      TFace 8 69 68 65
+      TFace 9 64 65 68
+      TFace 10 70 69 67
+      TFace 11 65 67 69
+      TFace 12 71 70 66
+      TFace 13 67 66 70
+      TFace 14 68 71 64
+      TFace 15 66 64 71
+      TFace 16 84 85 11
+      TFace 17 9 11 86
+      TFace 18 87 88 8
+      TFace 19 10 8 89
+      TFace 20 90 91 16
+      TFace 21 17 16 92
+      TFace 22 93 94 19
+      TFace 23 18 19 95
+      TFace 24 96 97 13
+      TFace 25 12 13 98
+      TFace 26 99 100 14
+      TFace 27 15 14 101
+      TFace 28 102 103 17
+      TFace 29 13 17 104
+      TFace 30 105 106 12
+      TFace 31 16 12 107
+      TFace 32 108 109 15
+      TFace 33 19 15 110
+      TFace 34 111 112 18
+      TFace 35 14 18 113
+      TFace 36 114 115 21
+      TFace 37 20 21 116
+      TFace 38 11 9 23
+      TFace 39 117 23 9
+      TFace 40 118 119 22
+      TFace 41 120 22 121
+      TFace 42 122 123 124
+      TFace 43 125 126 127
+      TFace 44 128 129 25
+      TFace 45 24 25 130
+      TFace 46 131 132 29
+      TFace 47 133 29 134
+      TFace 48 135 136 24
+      TFace 49 28 24 137
+      TFace 50 138 139 26
+      TFace 51 27 26 140
+      TFace 52 141 142 30
+      TFace 53 26 30 143
+      TFace 54 144 145 146
+      TFace 55 31 147 148
+      TFace 56 215 216 217
+      TFace 57 218 219 220
+      TFace 58 221 222 223
+      TFace 59 224 225 226
+      TFace 60 227 228 229
+      TFace 61 230 231 232
+      TFace 62 233 234 235
+      TFace 63 236 237 238
+      TFace 64 240 241 245
+      TFace 65 245 244 240
+      TFace 66 259 260 268
+      TFace 67 268 267 259
+      TFace 68 260 261 269
+      TFace 69 269 268 260
+      TFace 70 261 262 270
+      TFace 71 270 269 261
+      TFace 72 266 265 273
+      TFace 73 273 274 266
+      TFace 74 265 264 272
+      TFace 75 272 273 265
+      TFace 76 264 263 271
+      TFace 77 271 272 264
+      TFace 78 247 239 240
+      TFace 79 248 247 240
+      TFace 80 244 243 249
+      TFace 81 249 250 244
+      TFace 82 312 309 316
+      TFace 83 316 318 312
+      TFace 84 315 313 307
+      TFace 85 307 311 315
+      TFace 86 307 313 314
+      TFace 87 314 308 307
+      TFace 88 316 309 310
+      TFace 89 310 317 316
+      TFace 90 252 251 248
+      TFace 91 248 250 252
+      TFace 92 322 321 319
+      TFace 93 319 320 322
+      TFace 94 284 277 278
+      TFace 95 284 275 277
+      TFace 96 284 283 275
+      TFace 97 286 279 285
+      TFace 98 281 279 286
+      TFace 99 281 286 282
+      TFace 100 242 254 253
+      TFace 101 253 241 242
+      TFace 102 256 246 245
+      TFace 103 245 255 256
+      TFace 104 292 299 297
+      TFace 105 297 295 292
+      TFace 106 300 294 296
+      TFace 107 298 300 296
+      TFace 108 324 327 323
+      TFace 109 257 258 255
+      TFace 110 255 253 257
+      TFace 111 302 301 299
+      TFace 112 302 299 300
+      TFace 113 325 328 326
+      TFace 114 303 299 292
+      TFace 115 292 291 303
+      TFace 116 300 304 293
+      TFace 117 293 294 300
+      TFace 118 300 299 305
+      TFace 119 306 300 305
+      TFace 120 289 290 285
+      TFace 121 285 280 289
+      TFace 122 287 276 283
+      TFace 123 283 288 287
+      TFace 124 329 329 329
+      TFace 125 329 329 329
+      TFace 126 425 424 420
+      TFace 127 426 420 424
+      TFace 128 427 425 421
+      TFace 129 420 421 425
+      TFace 130 428 427 429
+      TFace 131 421 429 427
+      TFace 132 431 430 422
+      TFace 133 432 422 430
+      TFace 134 433 431 423
+      TFace 135 422 423 431
+      TFace 136 434 433 435
+      TFace 137 423 435 433
+      TFace 138 426 436 420
+      TFace 139 436 437 420
+      TFace 140 435 423 438
+      TFace 141 439 438 423
+      TFace 142 434 435 440
+      TFace 143 438 440 435
+      TFace 144 441 436 424
+      TFace 145 426 424 436
+      TFace 146 469 460 470
+      TFace 147 461 470 460
+      TFace 148 467 468 466
+      TFace 149 471 466 468
+      TFace 150 443 442 437
+      TFace 151 439 437 442
+      TFace 152 444 442 445
+      TFace 153 443 445 442
+      TFace 154 436 443 437
+      TFace 155 441 443 436
+      TFace 156 475 473 469
+      TFace 157 468 472 474
+      TFace 158 440 438 442
+      TFace 159 442 438 439
+      TFace 160 446 429 447
+      TFace 161 421 447 429
+      TFace 162 432 448 422
+      TFace 163 449 422 448
+      TFace 164 450 428 446
+      TFace 165 429 446 428
+      TFace 166 430 451 432
+      TFace 167 451 448 432
+      TFace 168 452 446 447
+      TFace 169 452 453 450
+      TFace 170 450 453 451
+      TFace 171 453 449 448
+      TFace 172 476 478 463
+      TFace 173 462 463 478
+      TFace 174 479 477 465
+      TFace 175 464 465 477
+      TFace 176 462 470 461
+      TFace 177 478 470 462
+      TFace 178 479 465 466
+      TFace 179 466 471 479
+      TFace 180 451 454 455
+      TFace 181 455 450 451
+      TFace 182 450 446 452
+      TFace 183 448 451 453
+      TFace 184 456 444 445
+      TFace 185 445 457 456
+      TFace 186 455 454 458
+      TFace 187 459 455 458
+      TFace 188 500 501 503
+      TFace 189 503 502 500
+      TFace 190 480 481 485
+      TFace 191 485 484 480
+      TFace 192 552 483 487
+      TFace 193 487 553 554
+      TFace 194 555 482 486
+      TFace 195 486 556 557
+      TFace 196 558 559 560
+      TFace 197 561 562 563
+      TFace 198 548 549 545
+      TFace 199 545 544 548
+      TFace 200 549 550 547
+      TFace 201 547 545 549
+      TFace 202 550 551 546
+      TFace 203 546 547 550
+      TFace 204 551 548 544
+      TFace 205 544 546 551
+      TFace 206 564 565 491
+      TFace 207 491 489 566
+      TFace 208 567 568 488
+      TFace 209 488 490 569
+      TFace 210 570 571 496
+      TFace 211 496 497 572
+      TFace 212 573 574 499
+      TFace 213 499 498 575
+      TFace 214 576 577 493
+      TFace 215 493 492 578
+      TFace 216 579 580 494
+      TFace 217 494 495 581
+      TFace 218 582 583 497
+      TFace 219 497 493 584
+      TFace 220 585 586 492
+      TFace 221 492 496 587
+      TFace 222 588 589 495
+      TFace 223 495 499 590
+      TFace 224 591 592 498
+      TFace 225 498 494 593
+      TFace 226 594 595 596
+      TFace 227 597 598 599
+      TFace 228 489 491 600
+      TFace 229 601 602 489
+      TFace 230 603 604 605
+      TFace 231 606 607 608
+      TFace 232 609 610 611
+      TFace 233 612 613 614
+      TFace 234 615 616 505
+      TFace 235 505 504 617
+      TFace 236 618 619 509
+      TFace 237 509 620 621
+      TFace 238 622 623 508
+      TFace 239 508 624 625
+      TFace 240 626 627 504
+      TFace 241 504 628 629
+      TFace 242 630 631 506
+      TFace 243 506 507 632
+      TFace 244 633 634 510
+      TFace 245 510 506 635
+      TFace 246 636 637 511
+      TFace 247 511 638 639
+      TFace 248 640 641 642
+      TFace 249 643 644 645
+      TFace 250 712 713 714
+      TFace 251 715 716 717
+      TFace 252 718 719 720
+      TFace 253 721 722 723
+      TFace 254 724 725 726
+      TFace 255 727 728 729
+      TFace 256 730 731 732
+      TFace 257 733 734 735
+      TFace 258 743 738 747
+      TFace 259 738 750 747
+      TFace 260 737 741 745
+      TFace 261 745 749 737
+      TFace 262 756 757 758
+      TFace 263 758 759 756
+      TFace 264 752 754 753
+      TFace 265 752 755 754
+      TFace 266 739 742 756
+      TFace 267 757 756 742
+      TFace 268 742 746 757
+      TFace 269 758 757 746
+      TFace 270 746 751 758
+      TFace 271 759 758 751
+      TFace 272 740 736 753
+      TFace 273 752 753 736
+      TFace 274 744 740 754
+      TFace 275 753 754 740
+      TFace 276 748 744 755
+      TFace 277 754 755 744
+      TFace 278 767 761 762
+      TFace 279 769 761 767
+      TFace 280 764 760 763
+      TFace 281 765 760 764
+      TFace 282 766 760 765
+      TFace 283 768 760 766
+      TFace 284 776 761 770
+      TFace 285 762 761 776
+      TFace 286 778 762 777
+      TFace 287 767 762 778
+      TFace 288 783 767 778
+      TFace 289 769 767 783
+      TFace 290 772 763 771
+      TFace 291 764 763 772
+      TFace 292 773 764 772
+      TFace 293 765 764 773
+      TFace 294 774 765 773
+      TFace 295 766 765 774
+      TFace 296 775 766 774
+      TFace 297 768 766 775
+      TFace 298 793 770 784
+      TFace 299 776 770 793
+      TFace 300 777 776 793
+      TFace 301 762 776 777
+      TFace 302 796 777 795
+      TFace 303 778 777 796
+      TFace 304 797 778 796
+      TFace 305 783 778 797
+      TFace 306 780 771 779
+      TFace 307 772 771 780
+      TFace 308 781 772 780
+      TFace 309 773 772 781
+      TFace 310 782 773 781
+      TFace 311 774 773 782
+      TFace 312 785 774 782
+      TFace 313 775 774 785
+      TFace 314 799 784 798
+      TFace 315 793 784 799
+      TFace 316 795 793 799
+      TFace 317 777 793 795
+      TFace 318 801 795 800
+      TFace 319 796 795 801
+      TFace 320 802 796 801
+      TFace 321 797 796 802
+      TFace 322 789 779 788
+      TFace 323 780 779 789
+      TFace 324 790 780 789
+      TFace 325 781 780 790
+      TFace 326 791 781 790
+      TFace 327 782 781 791
+      TFace 328 792 782 791
+      TFace 329 785 782 792
+      TFace 330 804 798 803
+      TFace 331 799 798 804
+      TFace 332 800 799 804
+      TFace 333 795 799 800
+      TFace 334 790 786 791
+      TFace 335 786 794 791
+      TFace 336 792 791 794
+      TFace 337 787 786 789
+      TFace 338 790 789 786
+      TFace 339 788 787 789
+      TFace 340 812 807 816
+      TFace 341 807 819 816
+      TFace 342 806 810 814
+      TFace 343 814 818 806
+      TFace 344 825 826 827
+      TFace 345 827 828 825
+      TFace 346 821 823 822
+      TFace 347 821 824 823
+      TFace 348 808 811 825
+      TFace 349 826 825 811
+      TFace 350 811 815 826
+      TFace 351 827 826 815
+      TFace 352 815 820 827
+      TFace 353 828 827 820
+      TFace 354 809 805 822
+      TFace 355 821 822 805
+      TFace 356 813 809 823
+      TFace 357 822 823 809
+      TFace 358 817 813 824
+      TFace 359 823 824 813
+      TFace 360 836 830 831
+      TFace 361 838 830 836
+      TFace 362 833 829 832
+      TFace 363 834 829 833
+      TFace 364 835 829 834
+      TFace 365 837 829 835
+      TFace 366 845 830 839
+      TFace 367 831 830 845
+      TFace 368 847 831 846
+      TFace 369 836 831 847
+      TFace 370 852 836 847
+      TFace 371 838 836 852
+      TFace 372 841 832 840
+      TFace 373 833 832 841
+      TFace 374 842 833 841
+      TFace 375 834 833 842
+      TFace 376 843 834 842
+      TFace 377 835 834 843
+      TFace 378 844 835 843
+      TFace 379 837 835 844
+      TFace 380 862 839 853
+      TFace 381 845 839 862
+      TFace 382 846 845 862
+      TFace 383 831 845 846
+      TFace 384 865 846 864
+      TFace 385 847 846 865
+      TFace 386 866 847 865
+      TFace 387 852 847 866
+      TFace 388 849 840 848
+      TFace 389 841 840 849
+      TFace 390 850 841 849
+      TFace 391 842 841 850
+      TFace 392 851 842 850
+      TFace 393 843 842 851
+      TFace 394 854 843 851
+      TFace 395 844 843 854
+      TFace 396 868 853 867
+      TFace 397 862 853 868
+      TFace 398 864 862 868
+      TFace 399 846 862 864
+      TFace 400 870 864 869
+      TFace 401 865 864 870
+      TFace 402 871 865 870
+      TFace 403 866 865 871
+      TFace 404 858 848 857
+      TFace 405 849 848 858
+      TFace 406 859 849 858
+      TFace 407 850 849 859
+      TFace 408 860 850 859
+      TFace 409 851 850 860
+      TFace 410 861 851 860
+      TFace 411 854 851 861
+      TFace 412 873 867 872
+      TFace 413 868 867 873
+      TFace 414 869 868 873
+      TFace 415 864 868 869
+      TFace 416 859 855 860
+      TFace 417 855 863 860
+      TFace 418 861 860 863
+      TFace 419 856 855 858
+      TFace 420 859 858 855
+      TFace 421 857 856 858
+      TFace 422 875 881 876
+      TFace 423 875 883 881
+      TFace 424 874 878 877
+      TFace 425 874 879 878
+      TFace 426 874 880 879
+      TFace 427 874 882 880
+      TFace 428 875 890 884
+      TFace 429 875 876 890
+      TFace 430 876 892 891
+      TFace 431 876 881 892
+      TFace 432 881 897 892
+      TFace 433 881 883 897
+      TFace 434 877 886 885
+      TFace 435 877 878 886
+      TFace 436 878 887 886
+      TFace 437 878 879 887
+      TFace 438 879 888 887
+      TFace 439 879 880 888
+      TFace 440 880 889 888
+      TFace 441 880 882 889
+      TFace 442 884 907 898
+      TFace 443 884 890 907
+      TFace 444 890 891 907
+      TFace 445 890 876 891
+      TFace 446 891 910 909
+      TFace 447 891 892 910
+      TFace 448 892 911 910
+      TFace 449 892 897 911
+      TFace 450 885 894 893
+      TFace 451 885 886 894
+      TFace 452 886 895 894
+      TFace 453 886 887 895
+      TFace 454 887 896 895
+      TFace 455 887 888 896
+      TFace 456 888 899 896
+      TFace 457 888 889 899
+      TFace 458 898 913 912
+      TFace 459 898 907 913
+      TFace 460 907 909 913
+      TFace 461 907 891 909
+      TFace 462 909 915 914
+      TFace 463 909 910 915
+      TFace 464 910 916 915
+      TFace 465 910 911 916
+      TFace 466 893 903 902
+      TFace 467 893 894 903
+      TFace 468 894 904 903
+      TFace 469 894 895 904
+      TFace 470 895 905 904
+      TFace 471 895 896 905
+      TFace 472 896 906 905
+      TFace 473 896 899 906
+      TFace 474 912 918 917
+      TFace 475 912 913 918
+      TFace 476 913 914 918
+      TFace 477 913 909 914
+      TFace 478 900 904 905
+      TFace 479 908 900 905
+      TFace 480 905 906 908
+      TFace 481 900 901 903
+      TFace 482 903 904 900
+      TFace 483 901 902 903
+      TFace 484 920 922 924
+      TFace 485 924 926 920
+      TFace 486 919 923 921
+      TFace 487 919 925 923
+      TFace 488 930 927 932
+      TFace 489 927 933 932
+      TFace 490 928 929 931
+      TFace 491 931 934 928
+      TFace 492 936 942 937
+      TFace 493 936 944 942
+      TFace 494 935 939 938
+      TFace 495 935 940 939
+      TFace 496 935 941 940
+      TFace 497 935 943 941
+      TFace 498 936 951 945
+      TFace 499 936 937 951
+      TFace 500 937 953 952
+      TFace 501 937 942 953
+      TFace 502 942 958 953
+      TFace 503 942 944 958
+      TFace 504 938 947 946
+      TFace 505 938 939 947
+      TFace 506 939 948 947
+      TFace 507 939 940 948
+      TFace 508 940 949 948
+      TFace 509 940 941 949
+      TFace 510 941 950 949
+      TFace 511 941 943 950
+      TFace 512 945 968 959
+      TFace 513 945 951 968
+      TFace 514 951 952 968
+      TFace 515 951 937 952
+      TFace 516 952 971 970
+      TFace 517 952 953 971
+      TFace 518 953 972 971
+      TFace 519 953 958 972
+      TFace 520 946 955 954
+      TFace 521 946 947 955
+      TFace 522 947 956 955
+      TFace 523 947 948 956
+      TFace 524 948 957 956
+      TFace 525 948 949 957
+      TFace 526 949 960 957
+      TFace 527 949 950 960
+      TFace 528 959 974 973
+      TFace 529 959 968 974
+      TFace 530 968 970 974
+      TFace 531 968 952 970
+      TFace 532 970 976 975
+      TFace 533 970 971 976
+      TFace 534 971 977 976
+      TFace 535 971 972 977
+      TFace 536 954 964 963
+      TFace 537 954 955 964
+      TFace 538 955 965 964
+      TFace 539 955 956 965
+      TFace 540 956 966 965
+      TFace 541 956 957 966
+      TFace 542 957 967 966
+      TFace 543 957 960 967
+      TFace 544 973 979 978
+      TFace 545 973 974 979
+      TFace 546 974 975 979
+      TFace 547 974 970 975
+      TFace 548 961 965 966
+      TFace 549 969 961 966
+      TFace 550 966 967 969
+      TFace 551 961 962 964
+      TFace 552 964 965 961
+      TFace 553 962 963 964
+      TFace 554 981 983 985
+      TFace 555 985 987 981
+      TFace 556 980 984 982
+      TFace 557 980 986 984
+      TFace 558 991 988 993
+      TFace 559 988 994 993
+      TFace 560 989 990 992
+      TFace 561 992 995 989
+    }
+  }
+  Frame 0 {
+    Vertices {
+      Vertex 0 22.4820 58.4087 28.6826
+      Vertex 1 22.8836 58.0765 -25.8665
+      Vertex 2 -23.6052 58.3707 28.6129
+      Vertex 3 -23.7562 58.1269 -25.9423
+      Vertex 4 19.3805 71.0337 22.4435
+      Vertex 5 19.5086 70.4219 -25.8732
+      Vertex 6 -20.6620 71.0133 22.2144
+      Vertex 7 -20.4207 70.4331 -25.9421
+      Vertex 8 19.1995 88.9876 20.2093
+      Vertex 9 19.3077 88.2234 -26.0057
+      Vertex 10 -20.0885 89.0499 20.2573
+      Vertex 11 -20.3061 88.2234 -26.0056
+      Vertex 12 26.9162 75.3289 4.3973
+      Vertex 13 26.5765 74.7310 -13.9809
+      Vertex 14 -27.7590 74.7647 3.9741
+      Vertex 15 -27.8043 75.3146 -14.3608
+      Vertex 16 26.6533 89.1845 4.9455
+      Vertex 17 26.5209 88.5752 -15.1196
+      Vertex 18 -27.8029 88.4779 5.0940
+      Vertex 19 -27.4298 89.1996 -14.9491
+      Vertex 20 19.2354 97.2933 15.7796
+      Vertex 21 19.8206 97.0457 -25.6100
+      Vertex 22 -20.7112 97.1056 15.453
+      Vertex 23 -20.8187 97.0457 -25.6100
+      Vertex 24 36.7737 74.6061 4.6240
+      Vertex 25 36.7737 74.6061 -14.5082
+      Vertex 26 -37.7719 74.6061 4.6240
+      Vertex 27 -37.7719 74.6061 -14.5082
+      Vertex 28 36.7737 89.2429 5.7548
+      Vertex 29 36.7737 89.2429 -15.6391
+      Vertex 30 -37.7719 89.2429 5.7548
+      Vertex 31 -37.7719 89.2429 -15.6391
+      Vertex 32 27.7165 56.9885 34.2538
+      Vertex 33 28.0107 57.0287 -30.7600
+      Vertex 34 -29.0090 57.0287 33.8196
+      Vertex 35 -28.7146 56.9885 -31.1942
+      Vertex 36 42.6943 44.7479 41.3013
+      Vertex 37 42.6943 44.7479 -38.2418
+      Vertex 38 -43.6924 44.7479 -38.2418
+      Vertex 39 -43.6924 44.7479 41.3013
+      Vertex 40 22.8836 58.0765 -25.8665
+      Vertex 41 19.5086 70.4219 -25.8732
+      Vertex 42 22.8836 58.0765 -25.8665
+      Vertex 43 -23.7562 58.1269 -25.9423
+      Vertex 44 -20.4207 70.4331 -25.9421
+      Vertex 45 -23.7562 58.1269 -25.9423
+      Vertex 46 22.4820 58.4087 28.6826
+      Vertex 47 -23.6052 58.3707 28.6129
+      Vertex 48 19.3805 71.0337 22.4435
+      Vertex 49 -20.6620 71.0133 22.2144
+      Vertex 50 19.3805 71.0337 22.4435
+      Vertex 51 -23.6052 58.3707 28.6129
+      Vertex 52 -20.4207 70.4331 -25.9421
+      Vertex 53 19.5086 70.4219 -25.8732
+      Vertex 54 19.5086 70.4219 -25.8732
+      Vertex 55 19.3805 71.0337 22.4435
+      Vertex 56 -20.6620 71.0133 22.2144
+      Vertex 57 -20.6620 71.0133 22.2144
+      Vertex 58 19.1995 88.9876 20.2093
+      Vertex 59 19.3077 88.2234 -26.0057
+      Vertex 60 19.3077 88.2234 -26.0057
+      Vertex 61 -20.3061 88.2234 -26.0056
+      Vertex 62 -20.0885 89.0499 20.2573
+      Vertex 63 -20.0885 89.0499 20.2573
+      Vertex 64 19.5086 70.4219 -25.8732
+      Vertex 65 19.3805 71.0337 22.4435
+      Vertex 66 19.3805 71.0337 22.4435
+      Vertex 67 -20.6620 71.0133 22.2144
+      Vertex 68 -20.4207 70.4331 -25.9421
+      Vertex 69 -20.4207 70.4331 -25.9421
+      Vertex 70 19.3077 88.2234 -26.0057
+      Vertex 71 19.5086 70.4219 -25.8732
+      Vertex 72 19.5086 70.4219 -25.8732
+      Vertex 73 19.3805 71.0337 22.4435
+      Vertex 74 19.1995 88.9876 20.2093
+      Vertex 75 19.1995 88.9876 20.2093
+      Vertex 76 -20.4207 70.4331 -25.9421
+      Vertex 77 -20.3061 88.2234 -26.0056
+      Vertex 78 -20.3061 88.2234 -26.0056
+      Vertex 79 -20.0885 89.0499 20.2573
+      Vertex 80 -20.6620 71.0133 22.2144
+      Vertex 81 -20.6620 71.0133 22.2144
+      Vertex 82 19.3077 88.2234 -26.0057
+      Vertex 83 19.1995 88.9876 20.2093
+      Vertex 84 19.1995 88.9876 20.2093
+      Vertex 85 19.8206 97.0457 -25.6100
+      Vertex 86 -20.0885 89.0499 20.2573
+      Vertex 87 -20.3061 88.2234 -26.0056
+      Vertex 88 -20.8187 97.0457 -25.6100
+      Vertex 89 -20.3061 88.2234 -26.0056
+      Vertex 90 19.1995 88.9876 20.2093
+      Vertex 91 -20.0885 89.0499 20.2573
+      Vertex 92 19.2354 97.2933 15.7796
+      Vertex 93 -20.7112 97.1056 15.453
+      Vertex 94 19.2354 97.2933 15.7796
+      Vertex 95 -20.0885 89.0499 20.2573
+      Vertex 96 26.5765 74.7310 -13.9809
+      Vertex 97 26.9162 75.3289 4.3973
+      Vertex 98 26.9162 75.3289 4.3973
+      Vertex 99 26.5209 88.5752 -15.1196
+      Vertex 100 26.5765 74.7310 -13.9809
+      Vertex 101 36.7737 74.6061 -14.5082
+      Vertex 102 26.5765 74.7310 -13.9809
+      Vertex 103 26.9162 75.3289 4.3973
+      Vertex 104 26.6533 89.1845 4.9455
+      Vertex 105 26.6533 89.1845 4.9455
+      Vertex 106 -27.7590 74.7647 3.9741
+      Vertex 107 -27.8043 75.3146 -14.3608
+      Vertex 108 -27.8043 75.3146 -14.3608
+      Vertex 109 -27.8029 88.4779 5.0940
+      Vertex 110 -27.7590 74.7647 3.9741
+      Vertex 111 -27.7590 74.7647 3.9741
+      Vertex 112 -27.8043 75.3146 -14.3608
+      Vertex 113 -27.4298 89.1996 -14.9491
+      Vertex 114 -37.7719 74.6061 -14.5082
+      Vertex 115 -37.7719 74.6061 -14.5082
+      Vertex 116 -27.4298 89.1996 -14.9491
+      Vertex 117 22.4820 58.4087 28.6826
+      Vertex 118 22.8836 58.0765 -25.8665
+      Vertex 119 27.7165 56.9885 34.2538
+      Vertex 120 28.0107 57.0287 -30.7600
+      Vertex 121 27.7165 56.9885 34.2538
+      Vertex 122 22.8836 58.0765 -25.8665
+      Vertex 123 22.8836 58.0765 -25.8665
+      Vertex 124 -23.7562 58.1269 -25.9423
+      Vertex 125 28.0107 57.0287 -30.7600
+      Vertex 126 -28.7146 56.9885 -31.1942
+      Vertex 127 28.0107 57.0287 -30.7600
+      Vertex 128 -23.7562 58.1269 -25.9423
+      Vertex 129 -23.7562 58.1269 -25.9423
+      Vertex 130 -23.6052 58.3707 28.6129
+      Vertex 131 -28.7146 56.9885 -31.1942
+      Vertex 132 -29.0090 57.0287 33.8196
+      Vertex 133 -28.7146 56.9885 -31.1942
+      Vertex 134 -23.6052 58.3707 28.6129
+      Vertex 135 -23.6052 58.3707 28.6129
+      Vertex 136 22.4820 58.4087 28.6826
+      Vertex 137 -29.0090 57.0287 33.8196
+      Vertex 138 27.7165 56.9885 34.2538
+      Vertex 139 -29.0090 57.0287 33.8196
+      Vertex 140 22.4820 58.4087 28.6826
+      Vertex 141 63.2247 20.5375 79.8075
+      Vertex 142 63.2247 2.1122 54.4587
+      Vertex 143 63.2247 2.1122 -70.7661
+      Vertex 144 63.2247 20.5375 -79.5455
+      Vertex 145 -63.5587 20.5375 79.8075
+      Vertex 146 -63.5587 2.1122 54.4587
+      Vertex 147 -63.5587 2.1122 -70.7661
+      Vertex 148 -63.5587 20.5375 -79.5455
+      Vertex 149 63.2247 29.7502 79.8075
+      Vertex 150 63.2247 38.9629 46.1937
+      Vertex 151 63.2247 38.9629 -37.2181
+      Vertex 152 63.2247 29.7502 -74.1138
+      Vertex 153 -63.5587 29.7502 79.8075
+      Vertex 154 -63.5587 38.9629 46.1937
+      Vertex 155 -63.5587 38.9629 -37.2181
+      Vertex 156 -63.5587 29.7502 -74.1138
+      Vertex 157 33.3810 20.5375 79.8075
+      Vertex 158 33.3810 2.1122 54.4587
+      Vertex 159 33.3810 29.7502 79.8075
+      Vertex 160 33.3810 38.9629 46.1937
+      Vertex 161 -33.715 20.5375 79.8075
+      Vertex 162 -33.715 2.1122 54.4587
+      Vertex 163 -33.715 29.7502 79.8075
+      Vertex 164 -33.715 38.9629 46.1937
+      Vertex 165 33.3810 12.8164 68.9913
+      Vertex 166 33.3810 22.0292 66.6096
+      Vertex 167 -33.715 12.8164 68.9913
+      Vertex 168 -33.715 22.0292 66.6096
+      Vertex 169 33.3810 38.9629 -37.2181
+      Vertex 170 33.3810 29.7502 -74.1138
+      Vertex 171 -33.715 38.9629 -37.2181
+      Vertex 172 -33.715 29.7502 -74.1138
+      Vertex 173 33.3810 20.5375 -79.5455
+      Vertex 174 -33.715 20.5375 -79.5455
+      Vertex 175 33.3810 38.9629 -68.7177
+      Vertex 176 -33.715 38.9629 -68.7177
+      Vertex 177 33.3810 2.1122 -70.7661
+      Vertex 178 -33.715 2.1122 -70.7661
+      Vertex 179 33.3810 13.4303 -76.1897
+      Vertex 180 -33.715 13.4303 -76.1897
+      Vertex 181 -13.8025 18.5139 -57.7743
+      Vertex 182 36.4854 34.2967 -62.0032
+      Vertex 183 -36.2919 41.1866 -36.2891
+      Vertex 184 -35.4635 40.5097 -36.4901
+      Vertex 185 36.4854 41.1866 -36.2891
+      Vertex 186 35.6567 40.5097 -36.4901
+      Vertex 187 67.1976 42.9642 47.5760
+      Vertex 188 67.1976 42.9642 -41.5074
+      Vertex 189 -67.5316 42.9642 -41.5074
+      Vertex 190 -67.5316 42.9642 47.576
+      Vertex 191 67.1976 18.6674 83.8247
+      Vertex 192 67.1976 1.8227 60.7425
+      Vertex 193 67.1976 32.4565 83.8247
+      Vertex 194 67.1976 1.8227 -74.2263
+      Vertex 195 67.1976 20.0726 -83.8835
+      Vertex 196 67.1976 30.2066 -78.7356
+      Vertex 197 -67.5316 20.0726 -83.8835
+      Vertex 198 -67.5316 1.8227 -74.2263
+      Vertex 199 -67.5316 30.2065 -78.7356
+      Vertex 200 -67.5316 1.8227 60.7425
+      Vertex 201 -67.5316 18.6674 83.8247
+      Vertex 202 -67.5316 32.4565 83.8247
+      Vertex 203 29.3369 32.4565 83.8247
+      Vertex 204 29.3369 42.9642 47.576
+      Vertex 205 -29.6709 32.4565 83.8247
+      Vertex 206 -29.6709 42.9642 47.576
+      Vertex 207 -29.6709 18.6674 83.8247
+      Vertex 208 29.3369 18.6674 83.8247
+      Vertex 209 29.3369 1.8227 60.7425
+      Vertex 210 -29.6709 1.8227 60.7425
+      Vertex 211 -29.6709 21.7134 72.7030
+      Vertex 212 29.3369 21.7134 72.7031
+      Vertex 213 -29.6709 8.8608 75.1012
+      Vertex 214 29.3369 8.8608 75.1012
+      Vertex 215 37.8047 30.2066 -78.7356
+      Vertex 216 37.8047 42.9642 -41.5074
+      Vertex 217 -38.0687 30.2065 -78.7356
+      Vertex 218 -38.0687 42.9642 -41.5074
+      Vertex 219 29.3369 20.0726 -83.8835
+      Vertex 220 -29.6709 20.0726 -83.8835
+      Vertex 221 37.8047 42.9642 -71.9729
+      Vertex 222 -38.0687 42.9642 -71.9729
+      Vertex 223 29.3369 1.8227 -74.2262
+      Vertex 224 -29.6709 1.8227 -74.2262
+      Vertex 225 29.3369 9.3563 -78.6353
+      Vertex 226 -29.6709 9.3563 -78.6353
+      Vertex 227 -29.6709 8.8608 61.2564
+      Vertex 228 29.3369 8.8608 61.2564
+      Vertex 229 29.3369 9.3564 -65.3750
+      Vertex 230 -29.6709 9.3563 -65.3750
+      Vertex 231 20.6030 55.7547 25.9396
+      Vertex 232 20.6030 55.7547 -22.8799
+      Vertex 233 -21.6012 55.7547 25.9396
+      Vertex 234 -21.6012 55.7547 -22.8799
+      Vertex 235 17.0904 70.8432 19.3493
+      Vertex 236 17.0904 70.8432 -22.8799
+      Vertex 237 -18.0886 70.8432 19.3493
+      Vertex 238 -18.0886 70.8432 -22.8799
+      Vertex 239 17.0904 87.8604 17.2194
+      Vertex 240 17.0904 87.8604 -22.8799
+      Vertex 241 -18.0886 87.8604 17.2194
+      Vertex 242 -18.0886 87.8604 -22.8799
+      Vertex 243 24.7692 77.4421 1.8939
+      Vertex 244 24.7692 77.4421 -11.7780
+      Vertex 245 -25.7674 77.4421 1.8939
+      Vertex 246 -25.7674 77.4421 -11.7780
+      Vertex 247 24.7692 87.8604 1.8939
+      Vertex 248 24.7692 87.8604 -11.7780
+      Vertex 249 -25.7674 87.8604 1.8939
+      Vertex 250 -25.7674 87.8604 -11.7780
+      Vertex 251 17.0904 95.2146 12.9957
+      Vertex 252 17.0904 95.2146 -22.8799
+      Vertex 253 -18.0886 95.2146 12.9957
+      Vertex 254 -18.0886 95.2146 -22.8799
+      Vertex 255 36.7737 77.4421 1.8939
+      Vertex 256 36.7737 77.4421 -11.7780
+      Vertex 257 -37.7719 77.4421 1.8939
+      Vertex 258 -37.7719 77.4421 -11.7780
+      Vertex 259 36.7737 87.8604 1.8939
+      Vertex 260 36.7737 87.8604 -11.7780
+      Vertex 261 -37.7719 87.8604 1.8939
+      Vertex 262 -37.7719 87.8604 -11.7780
+      Vertex 263 26.5697 53.5829 32.8418
+      Vertex 264 26.5697 53.5829 -29.7822
+      Vertex 265 -27.5679 53.5829 32.8418
+      Vertex 266 -27.5679 53.5829 -29.7822
+      Vertex 267 40.8984 41.6918 39.7705
+      Vertex 268 40.8984 41.6918 -36.7109
+      Vertex 269 -41.8967 41.6918 -36.7109
+      Vertex 270 -41.8967 41.6918 39.7705
+      Vertex 271 20.6030 55.7547 -22.8799
+      Vertex 272 17.0904 70.8432 -22.8799
+      Vertex 273 20.6030 55.7547 -22.8799
+      Vertex 274 -21.6012 55.7547 -22.8799
+      Vertex 275 -18.0886 70.8432 -22.8799
+      Vertex 276 -21.6012 55.7547 -22.8799
+      Vertex 277 -21.6012 55.7547 25.9396
+      Vertex 278 20.6030 55.7547 25.9396
+      Vertex 279 17.0904 70.8432 19.3493
+      Vertex 280 17.0904 70.8432 19.3493
+      Vertex 281 -18.0886 70.8432 19.3493
+      Vertex 282 -21.6012 55.7547 25.9396
+      Vertex 283 17.0904 70.8432 -22.8799
+      Vertex 284 -18.0886 70.8432 -22.8799
+      Vertex 285 17.0904 70.8432 -22.8799
+      Vertex 286 -18.0886 70.8432 19.3493
+      Vertex 287 17.0904 70.8432 19.3493
+      Vertex 288 -18.0886 70.8432 19.3493
+      Vertex 289 17.0904 87.8604 -22.8799
+      Vertex 290 17.0904 87.8604 17.2194
+      Vertex 291 17.0904 87.8604 -22.8799
+      Vertex 292 -18.0886 87.8604 17.2194
+      Vertex 293 -18.0886 87.8604 -22.8799
+      Vertex 294 -18.0886 87.8604 17.2194
+      Vertex 295 17.0904 70.8432 19.3493
+      Vertex 296 17.0904 70.8432 -22.8799
+      Vertex 297 17.0904 70.8432 19.3493
+      Vertex 298 -18.0886 70.8432 -22.8799
+      Vertex 299 -18.0886 70.8432 19.3493
+      Vertex 300 -18.0886 70.8432 -22.8799
+      Vertex 301 17.0904 70.8432 -22.8799
+      Vertex 302 17.0904 87.8604 -22.8799
+      Vertex 303 17.0904 70.8432 -22.8799
+      Vertex 304 17.0904 87.8604 17.2194
+      Vertex 305 17.0904 70.8432 19.3493
+      Vertex 306 17.0904 87.8604 17.2194
+      Vertex 307 -18.0886 87.8604 -22.8799
+      Vertex 308 -18.0886 70.8432 -22.8799
+      Vertex 309 -18.0886 87.8604 -22.8799
+      Vertex 310 -18.0886 70.8432 19.3493
+      Vertex 311 -18.0886 87.8604 17.2194
+      Vertex 312 -18.0886 70.8432 19.3493
+      Vertex 313 17.0904 87.8604 17.2194
+      Vertex 314 17.0904 87.8604 -22.8799
+      Vertex 315 17.0904 95.2146 -22.8799
+      Vertex 316 17.0904 95.2146 -22.8799
+      Vertex 317 17.0904 95.2146 12.9957
+      Vertex 318 17.0904 87.8604 17.2194
+      Vertex 319 -18.0886 95.2146 -22.8799
+      Vertex 320 -18.0886 95.2146 -22.8799
+      Vertex 321 17.0904 95.2146 -22.8799
+      Vertex 322 -18.0886 87.8604 -22.8799
+      Vertex 323 -18.0886 87.8604 17.2194
+      Vertex 324 -18.0886 95.2146 12.9957
+      Vertex 325 -18.0886 95.2146 12.9957
+      Vertex 326 -18.0886 95.2146 -22.8799
+      Vertex 327 -18.0886 87.8604 -22.8799
+      Vertex 328 -18.0886 87.8604 17.2194
+      Vertex 329 17.0904 87.8604 17.2194
+      Vertex 330 17.0904 95.2146 12.9957
+      Vertex 331 17.0904 95.2146 12.9957
+      Vertex 332 -18.0886 95.2146 12.9957
+      Vertex 333 -18.0886 87.8604 17.2194
+      Vertex 334 24.7692 77.4421 1.8939
+      Vertex 335 24.7692 77.4421 -11.7780
+      Vertex 336 24.7692 77.4421 1.8939
+      Vertex 337 24.7692 77.4421 -11.7780
+      Vertex 338 24.7692 87.8604 -11.7780
+      Vertex 339 36.7737 77.4421 -11.7780
+      Vertex 340 24.7692 77.4421 -11.7780
+      Vertex 341 24.7692 87.8604 -11.7780
+      Vertex 342 24.7692 87.8604 1.8939
+      Vertex 343 36.7737 87.8604 -11.7780
+      Vertex 344 24.7692 87.8604 -11.7780
+      Vertex 345 24.7692 87.8604 1.8939
+      Vertex 346 24.7692 77.4421 1.8939
+      Vertex 347 36.7737 87.8604 1.8939
+      Vertex 348 24.7692 87.8604 1.8939
+      Vertex 349 -25.7674 77.4421 -11.7780
+      Vertex 350 -25.7674 77.4421 1.8939
+      Vertex 351 -25.7674 77.4421 -11.7780
+      Vertex 352 -25.7674 77.4421 1.8939
+      Vertex 353 -25.7674 87.8604 1.8939
+      Vertex 354 -25.7674 77.4421 1.8939
+      Vertex 355 -25.7674 87.8604 1.8939
+      Vertex 356 -25.7674 87.8604 -11.7780
+      Vertex 357 -37.7719 87.8604 1.8939
+      Vertex 358 -25.7674 87.8604 1.8939
+      Vertex 359 -25.7674 87.8604 -11.7780
+      Vertex 360 -25.7674 77.4421 -11.7780
+      Vertex 361 -37.7719 77.4421 -11.7780
+      Vertex 362 -37.7719 77.4421 -11.7780
+      Vertex 363 -37.7719 87.8604 -11.7780
+      Vertex 364 -25.7674 87.8604 -11.7780
+      Vertex 365 20.6030 55.7547 -22.8799
+      Vertex 366 20.6030 55.7547 25.9396
+      Vertex 367 26.5697 53.5829 32.8418
+      Vertex 368 26.5697 53.5829 32.8418
+      Vertex 369 26.5697 53.5829 -29.7822
+      Vertex 370 20.6030 55.7547 -22.8799
+      Vertex 371 -21.6012 55.7547 -22.8799
+      Vertex 372 20.6030 55.7547 -22.8799
+      Vertex 373 26.5697 53.5829 -29.7822
+      Vertex 374 26.5697 53.5829 -29.7822
+      Vertex 375 -27.5679 53.5829 -29.7822
+      Vertex 376 -21.6012 55.7547 -22.8799
+      Vertex 377 -21.6012 55.7547 25.9396
+      Vertex 378 -21.6012 55.7547 -22.8799
+      Vertex 379 -27.5679 53.5829 -29.7822
+      Vertex 380 -27.5679 53.5829 -29.7822
+      Vertex 381 -27.5679 53.5829 32.8418
+      Vertex 382 -21.6012 55.7547 25.9396
+      Vertex 383 20.6030 55.7547 25.9396
+      Vertex 384 -21.6012 55.7547 25.9396
+      Vertex 385 -27.5679 53.5829 32.8418
+      Vertex 386 -27.5679 53.5829 32.8418
+      Vertex 387 26.5697 53.5829 32.8418
+      Vertex 388 20.6030 55.7547 25.9396
+      Vertex 389 39.4597 90.4750 -55.9201
+      Vertex 390 61.4885 86.6368 -55.9201
+      Vertex 391 26.6040 99.4766 -55.9201
+      Vertex 392 76.6476 90.6987 -55.9201
+      Vertex 393 22.6762 102.2269 -30.7682
+      Vertex 394 81.2791 91.9398 -30.7682
+      Vertex 395 36.5695 94.7527 -10.8677
+      Vertex 396 65.6787 89.6891 -10.8677
+      Vertex 397 42.3288 94.5727 -55.9201
+      Vertex 398 60.1937 91.4688 -55.9201
+      Vertex 399 29.4732 103.5739 -55.9201
+      Vertex 400 75.3529 95.5305 -55.9201
+      Vertex 401 25.5454 106.3249 -30.7682
+      Vertex 402 79.9845 96.7716 -30.7682
+      Vertex 403 38.6483 97.1498 -10.8677
+      Vertex 404 64.5337 92.6316 -10.8677
+      Vertex 405 50.1077 86.4789 51.8875
+      Vertex 406 67.8212 83.3555 31.1478
+      Vertex 407 60.4246 71.7449 31.1478
+      Vertex 408 46.9845 68.7653 31.1478
+      Vertex 409 35.3740 76.1620 31.1478
+      Vertex 410 32.3943 89.6022 31.1478
+      Vertex 411 39.7910 101.2129 31.1478
+      Vertex 412 53.2311 104.1919 31.1478
+      Vertex 413 64.8417 96.7956 31.1478
+      Vertex 414 68.4632 83.2422 15.0943
+      Vertex 415 60.7985 71.2109 15.0943
+      Vertex 416 46.8711 68.1233 15.0943
+      Vertex 417 34.8398 75.7882 15.0943
+      Vertex 418 31.7523 89.7154 15.0943
+      Vertex 419 39.4170 101.7469 15.0943
+      Vertex 420 53.3444 104.8339 15.0943
+      Vertex 421 65.3757 97.1696 15.0943
+      Vertex 422 61.7681 84.4228 -55.9201
+      Vertex 423 56.8989 76.7799 -55.9201
+      Vertex 424 48.0517 74.8186 -55.9201
+      Vertex 425 40.4089 79.6877 -55.9201
+      Vertex 426 38.4476 88.5348 -55.9201
+      Vertex 427 43.3165 96.1778 -55.9201
+      Vertex 428 52.1637 98.1391 -55.9201
+      Vertex 429 59.8067 93.2700 -55.9201
+      Vertex 430 54.5027 85.7039 -63.1427
+      Vertex 431 52.6674 82.8232 -63.1427
+      Vertex 432 49.3328 82.0840 -63.1427
+      Vertex 433 46.4521 83.9192 -63.1427
+      Vertex 434 45.7129 87.2537 -63.1427
+      Vertex 435 47.5480 90.1344 -63.1427
+      Vertex 436 50.8827 90.8738 -63.1427
+      Vertex 437 53.7633 89.0386 -63.1427
+      Vertex 438 -62.5398 86.5649 -55.9201
+      Vertex 439 -40.5268 90.4925 -55.9201
+      Vertex 440 -77.6989 90.6268 -55.9201
+      Vertex 441 -27.6711 99.4941 -55.9201
+      Vertex 442 -82.3305 91.8679 -30.7682
+      Vertex 443 -23.7434 102.2449 -30.7682
+      Vertex 444 -66.7187 89.5962 -10.8677
+      Vertex 445 -37.6331 94.7938 -10.8677
+      Vertex 446 -61.2452 91.3968 -55.9201
+      Vertex 447 -43.3959 94.5902 -55.9201
+      Vertex 448 -76.4042 95.4588 -55.9201
+      Vertex 449 -30.5404 103.5919 -55.9201
+      Vertex 450 -81.0358 96.6997 -30.7682
+      Vertex 451 -26.6126 106.3420 -30.7682
+      Vertex 452 -65.5850 92.5598 -10.8677
+      Vertex 453 -39.7155 97.1673 -10.8677
+      Vertex 454 -51.1671 86.4517 51.8875
+      Vertex 455 -33.4537 89.5750 31.1478
+      Vertex 456 -36.4332 76.1349 31.1478
+      Vertex 457 -48.0438 68.7382 31.1478
+      Vertex 458 -61.4839 71.7179 31.1478
+      Vertex 459 -68.8806 83.3283 31.1478
+      Vertex 460 -65.9010 96.7685 31.1478
+      Vertex 461 -54.2905 104.1649 31.1478
+      Vertex 462 -40.8503 101.1859 31.1478
+      Vertex 463 -32.8116 89.6883 15.0943
+      Vertex 464 -35.8992 75.7609 15.0943
+      Vertex 465 -47.9305 68.0961 15.0943
+      Vertex 466 -61.8577 71.1837 15.0943
+      Vertex 467 -69.5226 83.2151 15.0943
+      Vertex 468 -66.4350 97.1423 15.0943
+      Vertex 469 -54.4037 104.8070 15.0943
+      Vertex 470 -40.4764 101.7199 15.0943
+      Vertex 471 -39.5069 88.5078 -55.9201
+      Vertex 472 -41.4682 79.6604 -55.9201
+      Vertex 473 -49.1110 74.7914 -55.9201
+      Vertex 474 -57.9584 76.7528 -55.9201
+      Vertex 475 -62.8274 84.3956 -55.9201
+      Vertex 476 -60.8660 93.2429 -55.9201
+      Vertex 477 -53.2231 98.1119 -55.9201
+      Vertex 478 -44.3759 96.1506 -55.9201
+      Vertex 479 -46.7723 87.2266 -63.1427
+      Vertex 480 -47.5115 83.8920 -63.1427
+      Vertex 481 -50.3921 82.0568 -63.1427
+      Vertex 482 -53.7268 82.7960 -63.1427
+      Vertex 483 -55.5620 85.6767 -63.1427
+      Vertex 484 -54.8227 89.0113 -63.1427
+      Vertex 485 -51.9421 90.8466 -63.1427
+      Vertex 486 -48.6074 90.1072 -63.1427
+      Vertex 487 50.1341 86.4789 46.1208
+      Vertex 488 63.0060 84.2091 27.6686
+      Vertex 489 57.6311 75.7721 27.6686
+      Vertex 490 47.8646 73.6070 27.6686
+      Vertex 491 39.4276 78.9820 27.6686
+      Vertex 492 37.2624 88.7485 27.6686
+      Vertex 493 42.6372 97.1856 27.6686
+      Vertex 494 52.4038 99.3508 27.6686
+      Vertex 495 60.8409 93.9757 27.6686
+      Vertex 496 63.4727 84.1269 10.3147
+      Vertex 497 57.9028 75.3841 10.3147
+      Vertex 498 47.7823 73.1405 10.3147
+      Vertex 499 39.0394 78.7102 10.3147
+      Vertex 500 36.7958 88.8308 10.3147
+      Vertex 501 42.3656 97.5736 10.3147
+      Vertex 502 52.4861 99.8173 10.3147
+      Vertex 503 61.229 94.2475 10.3147
+      Vertex 504 58.6073 84.9849 -52.8665
+      Vertex 505 55.0691 79.4309 -52.8665
+      Vertex 506 48.6401 78.0056 -52.8665
+      Vertex 507 43.0863 81.5438 -52.8665
+      Vertex 508 41.6610 87.9729 -52.8665
+      Vertex 509 45.1992 93.5267 -52.8665
+      Vertex 510 51.6282 94.9520 -52.8665
+      Vertex 511 56.0949 93.7455 -52.8665
+      Vertex 512 53.3278 85.9158 -59.2925
+      Vertex 513 51.9943 83.8225 -59.2925
+      Vertex 514 49.5710 83.2852 -59.2925
+      Vertex 515 47.4778 84.6189 -59.2925
+      Vertex 516 46.9405 87.0419 -59.2925
+      Vertex 517 48.2742 89.1352 -59.2925
+      Vertex 518 50.6973 89.6725 -59.2925
+      Vertex 519 52.7907 88.3390 -59.2925
+      Vertex 520 40.7838 92.7158 -52.8665
+      Vertex 521 31.4419 99.2571 -52.8665
+      Vertex 522 28.5876 101.2559 -30.4890
+      Vertex 523 38.1092 94.5886 -16.1349
+      Vertex 524 61.0817 89.1515 -52.8665
+      Vertex 525 72.0973 92.1030 -52.8665
+      Vertex 526 75.4630 93.0048 -30.4890
+      Vertex 527 64.2354 89.9964 -16.1349
+      Vertex 528 -51.1447 86.4517 46.1208
+      Vertex 529 -38.2728 88.7213 27.6686
+      Vertex 530 -40.4379 78.9548 27.6686
+      Vertex 531 -48.8749 73.5798 27.6686
+      Vertex 532 -58.6415 75.7449 27.6686
+      Vertex 533 -64.0165 84.1820 27.6686
+      Vertex 534 -61.8512 93.9486 27.6686
+      Vertex 535 -53.4143 99.3236 27.6686
+      Vertex 536 -43.6477 97.1584 27.6686
+      Vertex 537 -37.8061 88.8036 10.3147
+      Vertex 538 -40.0499 78.6830 10.3147
+      Vertex 539 -48.7927 73.1132 10.3147
+      Vertex 540 -58.9133 75.3570 10.3147
+      Vertex 541 -64.4831 84.0998 10.3147
+      Vertex 542 -62.2393 94.2203 10.3147
+      Vertex 543 -53.4965 99.7901 10.3147
+      Vertex 544 -43.3759 97.5465 10.3147
+      Vertex 545 -42.6714 87.9457 -52.8665
+      Vertex 546 -44.0967 81.5166 -52.8665
+      Vertex 547 -49.6505 77.9785 -52.8665
+      Vertex 548 -56.0797 79.4038 -52.8665
+      Vertex 549 -59.6178 84.9577 -52.8665
+      Vertex 550 -58.1925 91.3867 -52.8665
+      Vertex 551 -52.6386 94.9248 -52.8665
+      Vertex 552 -48.0288 95.3188 -52.8665
+      Vertex 553 -47.9509 87.0148 -59.2925
+      Vertex 554 -48.4882 84.5916 -59.2925
+      Vertex 555 -50.5815 83.2581 -59.2925
+      Vertex 556 -53.0047 83.7952 -59.2925
+      Vertex 557 -54.3382 85.8886 -59.2925
+      Vertex 558 -53.8010 88.3118 -59.2925
+      Vertex 559 -51.7078 89.6452 -59.2925
+      Vertex 560 -49.2846 89.1080 -59.2925
+      Vertex 561 -62.0644 89.1145 -52.8665
+      Vertex 562 -73.0801 92.0661 -52.8665
+      Vertex 563 -76.4458 92.9679 -30.4890
+      Vertex 564 -65.2181 89.9595 -16.1349
+      Vertex 565 -41.7713 92.7073 -52.8665
+      Vertex 566 -32.4295 99.2486 -52.8665
+      Vertex 567 -29.5752 101.2470 -30.4890
+      Vertex 568 -39.0969 94.5801 -16.1349
+    }
+  } endframe
+
+} endfile

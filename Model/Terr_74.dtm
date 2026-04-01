@@ -1,0 +1,163 @@
+File { 
+
+  FileDesc { 
+    Frames 1
+    Vertices 20
+    Faces 34
+    Map 1 TVertices 52
+  } endfiledesc
+
+  Faces {
+    Face 0 4 5 0 MatID 0
+    Face 1 0 1 4 MatID 0
+    Face 2 4 2 5 MatID 0
+    Face 3 4 3 2 MatID 0
+    Face 4 10 11 6 MatID 0
+    Face 5 6 7 10 MatID 0
+    Face 6 10 8 11 MatID 0
+    Face 7 10 9 8 MatID 0
+    Face 8 14 15 8 MatID 0
+    Face 9 14 0 15 MatID 0
+    Face 10 14 1 0 MatID 0
+    Face 11 10 14 9 MatID 0
+    Face 12 14 8 9 MatID 0
+    Face 13 6 13 12 MatID 0
+    Face 14 13 2 12 MatID 0
+    Face 15 12 3 4 MatID 0
+    Face 16 12 2 3 MatID 0
+    Face 17 7 6 12 MatID 0
+    Face 18 12 10 7 MatID 0
+    Face 19 12 4 10 MatID 0
+    Face 20 10 4 14 MatID 0
+    Face 21 4 1 14 MatID 0
+    Face 22 17 11 18 MatID 0
+    Face 23 0 19 15 MatID 0
+    Face 24 15 19 18 MatID 0
+    Face 25 16 19 5 MatID 0
+    Face 26 13 17 16 MatID 0
+    Face 27 5 2 16 MatID 0
+    Face 28 2 13 16 MatID 0
+    Face 29 5 19 0 MatID 0
+    Face 30 15 18 8 MatID 0
+    Face 31 18 11 8 MatID 0
+    Face 32 11 17 6 MatID 0
+    Face 33 17 13 6 MatID 0
+  }
+  MapChannel 1 {
+    TextureVertices {
+      TVertex 0 0.7699 0.2318 0.0
+      TVertex 1 0.9830 0.2318 0.0
+      TVertex 2 0.8765 0.2129 0.0
+      TVertex 3 0.9830 0.0187 0.0
+      TVertex 4 0.7699 0.0187 0.0
+      TVertex 5 0.8765 0.0376 0.0
+      TVertex 6 0.9641 0.1253 0.0
+      TVertex 7 0.7888 0.1253 0.0
+      TVertex 8 0.2831 0.0103 0.0
+      TVertex 9 0.5433 0.0213 0.0
+      TVertex 10 0.4674 0.0103 0.0
+      TVertex 11 0.7139 0.0213 0.0
+      TVertex 12 0.6286 0.0206 0.0
+      TVertex 13 0.3753 0.0103 0.0
+      TVertex 14 0.2832 0.0103 0.0
+      TVertex 15 0.5434 0.0212 0.0
+      TVertex 16 0.4675 0.0103 0.0
+      TVertex 17 0.7140 0.0212 0.0
+      TVertex 18 0.4675 0.0103 0.0
+      TVertex 19 0.6287 0.0205 0.0
+      TVertex 20 0.3754 0.0103 0.0
+      TVertex 21 0.6286 0.0206 0.0
+      TVertex 22 0.3753 0.0103 0.0
+      TVertex 23 0.6287 0.0205 0.0
+      TVertex 24 0.3754 0.0103 0.0
+      TVertex 25 0.4905 0.0654 0.0
+      TVertex 26 0.2602 0.0654 0.0
+      TVertex 27 0.4905 0.0654 0.0
+      TVertex 28 0.2601 0.0654 0.0
+      TVertex 29 0.7140 0.0212 0.0
+      TVertex 30 0.2831 0.0103 0.0
+      TVertex 31 0.5433 0.0213 0.0
+      TVertex 32 0.4674 0.0103 0.0
+      TVertex 33 0.7139 0.0213 0.0
+      TVertex 34 0.2832 0.0103 0.0
+      TVertex 35 0.5434 0.0212 0.0
+      TVertex 36 0.2601 0.0654 0.0
+      TVertex 37 0.4905 0.0654 0.0
+      TVertex 38 0.2602 0.0654 0.0
+      TVertex 39 0.4905 0.0654 0.0
+      TVertex 40 0.5350 0.2413 0.0
+      TVertex 41 0.7221 0.2413 0.0
+      TVertex 42 0.6286 0.2413 0.0
+      TVertex 43 0.5351 0.2413 0.0
+      TVertex 44 0.7222 0.2413 0.0
+      TVertex 45 0.7222 0.2413 0.0
+      TVertex 46 0.6287 0.2413 0.0
+      TVertex 47 0.6286 0.2413 0.0
+      TVertex 48 0.6287 0.2413 0.0
+      TVertex 49 0.5350 0.2413 0.0
+      TVertex 50 0.7221 0.2413 0.0
+      TVertex 51 0.5351 0.2413 0.0
+    }
+    TextureFaces {
+      TFace 0 12 42 40
+      TFace 1 40 9 12
+      TFace 2 12 41 42
+      TFace 3 12 11 41
+      TFace 4 19 46 43
+      TFace 5 43 15 19
+      TFace 6 19 44 46
+      TFace 7 19 17 44
+      TFace 8 23 48 51
+      TFace 9 23 45 48
+      TFace 10 23 29 45
+      TFace 11 5 7 4
+      TFace 12 23 51 35
+      TFace 13 50 47 21
+      TFace 14 47 49 21
+      TFace 15 6 1 2
+      TFace 16 21 49 31
+      TFace 17 33 50 21
+      TFace 18 6 5 3
+      TFace 19 6 2 5
+      TFace 20 5 2 7
+      TFace 21 2 0 7
+      TFace 22 26 20 27
+      TFace 23 18 39 24
+      TFace 24 24 39 38
+      TFace 25 25 28 13
+      TFace 26 22 37 36
+      TFace 27 13 10 25
+      TFace 28 30 22 36
+      TFace 29 13 28 8
+      TFace 30 24 38 34
+      TFace 31 27 20 16
+      TFace 32 20 26 14
+      TFace 33 37 22 32
+    }
+  }
+  Frame 0 {
+    Vertices {
+      Vertex 0 86.9659 -13.8527 -86.9660
+      Vertex 1 67.0874 -31.9992 -67.0874
+      Vertex 2 86.9659 -13.8527 86.9658
+      Vertex 3 67.0873 -31.9992 67.0873
+      Vertex 4 59.0885 -31.9992 -10.4189
+      Vertex 5 80.0 -11.9699 0.0000
+      Vertex 6 -86.9659 -13.8527 86.9659
+      Vertex 7 -67.0873 -31.9992 67.0873
+      Vertex 8 -86.9659 -13.8527 -86.9658
+      Vertex 9 -67.0873 -31.9992 -67.0873
+      Vertex 10 -59.0885 -31.9992 10.4189
+      Vertex 11 -80.0 -11.9697 -0.0000
+      Vertex 12 10.4189 -31.9992 59.0885
+      Vertex 13 0.0000 -11.9699 80.0
+      Vertex 14 -10.4189 -31.9992 -59.0885
+      Vertex 15 0.0000 -11.9697 -80.0
+      Vertex 16 100.9670 0.0000 100.9679
+      Vertex 17 -100.9679 -0.0000 100.9679
+      Vertex 18 -100.9679 -0.0000 -100.9670
+      Vertex 19 100.9670 0.0000 -100.9670
+    }
+  } endframe
+
+} endfile
