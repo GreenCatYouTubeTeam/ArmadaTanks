@@ -1,0 +1,206 @@
+offset 0 0
+
+speedselect 5
+
+element WIN {
+  Pos 512 370
+  WinSize 10 9  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Pic 9  44 57  48 50  43 45  56 58  49  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 10  8 6 9 9 9 9 9 9 9 10
+  endelement
+}
+
+element TXTВDEMO {
+  Pos 535 178
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 256
+  _Text " Внимание: это ДЕМО версия"
+  endelement
+}
+
+element TXTTIME {
+  Pos 512 270
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 257
+  _Text "У вас осталось 30 минут игры"
+  endelement
+}
+
+element TXT1 {
+  Pos 512 310
+  Cell 0 32
+  Align LRUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 259
+  _Text "Купив Armada Tanks вы получите:"
+  endelement
+}
+
+element TXT2 {
+  Pos 300 350
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 260
+  _Text "- 60 уникальных уровней"
+  endelement
+}
+
+element TXT3 {
+  Pos 300 390
+  Cell 0 32
+  Align LUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 261
+  _Text "- 6 видов оружия"
+  endelement
+}
+
+element TXT4 {
+  Pos 300 430
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 262
+  _Text "- более 30 видов врагов"
+  endelement
+}
+
+element TXT5 {
+  Pos 300 470
+  Cell 0 32
+  Align LUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 263
+  _Text "- никаких предупреждений"
+  endelement
+}
+
+element TXT6 {
+  Pos 300 510
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 264
+  _Text "- неограниченное время игры"
+  endelement
+}
+
+element BSHOP {
+  Pos 652 583 539
+  Dimension 1
+  Align LRUDV
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0,375 
+  SelectArea -108 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 58
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BSHOP {
+  Pos 652 583 539
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 58
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 265
+  _Text "Продолжить"
+  endelement
+}
+
+
+element BOK {
+  Pos 372 583 604
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0,375 
+  SelectArea -108 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 600
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BOK {
+  Pos 372 583 604
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 600 
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 61
+  _Text "Купить"
+  endelement
+}
+

@@ -1,0 +1,171 @@
+offset 0 0
+
+speedselect 5
+
+element WIN {
+  Pos 512 378 346 
+  WinSize 14 8  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  4 36  27 29  3 5  35 37  28  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 14  8  9 9 9 9 9 9  9 9  9 9 9 9  10
+  endelement
+}
+
+element WINARM {
+  Pos 582 380
+  WinSize 21 8  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  45 77  60 62  44 46  76 78  61  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element FACE {
+  Pos 188 340 
+  Size 128 128
+  Type DATA
+  Align LRUD
+  Dimension 2
+  Surface 1 FACE
+  SurfaceA 1 FACE
+  Pic 1  2
+  endelement
+}
+
+
+element TX {
+  Pos 512 211 275 350
+  Cell 16 32
+  Align LRUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV
+  SurfaceA 1 FONTADV
+  TLText 220
+  _Text "Входящее сообщение"
+  endelement
+}
+
+element TXT {
+  Pos 582 310
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 34
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB FONTADV DIALOGADV
+  SurfaceA 1 FONTADVB FONTADV DIALOGADV
+  TLText 221
+  _Text "Для повышения эфективности ваших"
+  endelement
+}
+
+element TXT {
+  Pos 582 350
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 34
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB FONTADV DIALOGADV
+  SurfaceA 1 FONTADVB FONTADV DIALOGADV
+  TLText 222
+  _Text "действий, командование оснащает ваш"
+  endelement
+}
+
+element TXT {
+  Pos 582 390
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 34
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB FONTADV DIALOGADV
+  SurfaceA 1 FONTADVB FONTADV DIALOGADV
+  TLText 223
+  _Text "танк новым оружием "
+  endelement
+}
+
+
+element TXT {
+  Pos 582 430
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 34
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB FONTADV DIALOGADV
+  SurfaceA 1 FONTADVB FONTADV DIALOGADV
+  TLText 224
+  _Text "(выбор воружения доступен в магазине)"
+  endelement
+}
+
+
+element BCOK {
+
+  Pos 512 540
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -108 160 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 49 21
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+
+  endelement
+}
+
+
+element BCOK {
+  Pos 512 540
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 49 21
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 209
+  _Text "OK"
+  endelement
+}

@@ -1,0 +1,92 @@
+offset 0 0
+
+speedselect 5
+
+escDo 1
+
+element WIN {
+  Pos 512 382 
+  WinSize 11 11  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 11  8 6 9  9 9 9  9 9 9 9  10
+  endelement
+}
+
+element TX {
+  Pos 512 120
+  Cell 16 32
+  Align LRUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV
+  SurfaceA 1 FONTADV
+  TLText 268
+  _Text " Рекордные очки"
+  endelement
+}
+
+element TXT1 {
+  Pos 512 580
+  Cell 13 24 8 16 32
+  Align LRUD
+  Type BUTTON 
+  EventSel 500
+  EventDo 63
+  Surface 1 FONTADVB 384Y FONTADV SM FONTADV
+  SurfaceA 1 FONTADVB 384Y FONTADV SM FONTADV
+  TLText 272
+  _Text "(очистить список очков)"
+  endelement
+}
+
+element BOK {
+  Pos 532 640
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 44 1
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOK {
+  Pos 532 640
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 44 1
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 209
+  _Text " OK "
+  endelement
+}
+
+

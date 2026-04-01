@@ -1,0 +1,178 @@
+
+sound 0 "CLICK0" {
+  Group 1
+  LoadFile "BaseT\\Sound\\a_mouseclick.wav"
+  Run
+}
+
+sound 1 "CLICK1" {
+  Group 1
+  LoadFile "BaseT\\Sound\\a_mouseover.wav"
+  Run
+}
+
+sound 2 "TANKFIRE1" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Fire.wav"
+  Run
+}
+
+sound 3 "TANKEXPL" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Explosion.wav"
+  Run
+}
+
+sound 4 "CRASH1" {
+  Group 0
+  LoadFile "BaseT\\Sound\\CrashWall.wav"
+  Run
+}
+
+sound 5 "ITAKE" {
+  Group 0
+  LoadFile "BaseT\\Sound\\ItemTake.wav"
+  Run
+}
+
+sound 6 "BULLDESTR" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest.wav"
+  Run
+}
+
+sound 7 "BULLDESTRFT" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest-FT.wav"
+  Run
+}
+
+sound 8 "NUCEXPL" {
+  Group 0
+  LoadFile "BaseT\\Sound\\ExplosionNuc.wav"
+  Run
+}
+
+sound 9 "RADIO0" {
+  NoClone
+  Group 0
+  LoadFile "BaseT\\Sound\\Radio-0.wav"
+  Run
+}
+
+sound 11 "RADIO1" {
+  NoClone
+  Group 0
+  LoadFile "BaseT\\Sound\\Radio-1.wav"
+  Looping
+  Run
+}
+
+sound 12 "ELECTRO1" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Electro1.wav"
+  Run
+}
+
+sound 13 "BULLDESTRR" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest-R.wav"
+  Run
+}
+
+sound 14 "BOXTAKE" {
+  Group 0
+  LoadFile "BaseT\\Sound\\BoxTake.wav"
+  Run
+}
+
+sound 15 "SHIELD" {
+  Group 0
+  LoadFile "BaseT\\Sound\\A_shield.wav"
+  Run
+}
+
+sound 16 "FIRECANNON" {
+  Group 0
+  LoadFile "BaseT\\Sound\\A_otcannon.wav"
+  Run
+}
+
+sound 17 "FIRERAKET" {
+  Group 0
+  LoadFile "BaseT\\Sound\\an_misslaun.wav"
+  Run
+}
+
+sound 18 "FIREFIRE" {
+  Group 0
+  LoadFile "BaseT\\Sound\\an_fire.wav"
+  Run
+}
+
+sound 19 "FIRELIGHT" {
+  Group 0
+  LoadFile "BaseT\\Sound\\an_light-3.wav"
+  Run
+}
+
+_sound 20 "MIRROR" {
+  _Group 0
+  _LoadFile "BaseT\\Sound\\an_mirror.wav"
+  _Run
+}
+
+sound 21 "TEMP" {
+  Group 0
+  LoadFile "BaseT\\Sound\\an_misslaun.wav"
+  Run
+}
+
+sound 22 "FIRESHOCK" {
+  Group 0
+  LoadFile "BaseT\\Sound\\an_shock.wav"
+  Run
+}
+
+sound 23 "SCOREADD" {
+  Group 1
+  LoadFile "BaseT\\Sound\\score_add.wav"
+  Run
+}
+
+sound 24 "SCOREADD2" {
+  Group 1
+  LoadFile "BaseT\\Sound\\a_bonus2.wav"
+  Run
+}
+
+sound 25 "SALUTE" {
+  Group 1
+  LoadFile "BaseT\\Sound\\Salute.wav"
+  Run
+}
+
+sound 26 "BULLDESTRSH" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest-SH.wav"
+  Run
+}
+
+sound 27 "TRUBA" {
+  Group 1
+  LoadFile "BaseT\\Sound\\Truba.wav"
+  Run
+}
+
+sound 28 "BULLDESTRBR" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest-BR.wav"
+  Run
+}
+
+sound 29 "BULLDESTRST" {
+  Group 0
+  LoadFile "BaseT\\Sound\\Dest-ST.wav"
+  Run
+}
+

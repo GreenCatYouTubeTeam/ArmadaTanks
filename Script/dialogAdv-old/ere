@@ -1,0 +1,15 @@
+element WINHLP {
+  Pos 512 140
+  WinSize 13 4  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}

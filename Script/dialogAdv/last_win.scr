@@ -1,0 +1,174 @@
+offset 0 0
+
+speedselect 5
+
+escDo 0
+
+element WIN {
+  Pos 400 300 
+  WinSize 29 21 
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  1 33  16 18  0 2  32 34  17  
+  Surface 1 DIALOGADV 
+  SurfaceA 1 DIALOGADV 
+  Text "WIN"
+  endelement
+}
+
+
+element M1 {
+  Pos 0 0
+  Size 1024 768
+  Type DATA
+  Align LUHV
+  Dimension 1
+  TexCoord 0.0 0.0 1.0 0.75 
+  Surface 1 LASTWIN 
+  SurfaceA 1 LASTWIN 
+  Pic 1 0
+  endelement
+}
+
+element BDIF {
+  Pos 512 700
+  Dimension 1
+  Align LRUDV
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 64
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BDIF {
+  Pos 512 700
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text "OK"
+  endelement
+}
+
+element WINUP {
+  Pos 512 160
+  WinSize 25 9  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  217 249  232 234  216 218  248 250  233  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element TXT0 {
+  Pos 512 70
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 288
+  _Text "---"
+  endelement
+}
+
+element TXT1 {
+  Pos 512 130
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 283
+  _Text "---"
+  endelement
+}
+
+element TXT2 {
+  Pos 512 160
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 284
+  _Text "---"
+  endelement
+}
+
+element TXT3 {
+  Pos 512 190
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 285
+  _Text "---"
+  endelement
+}
+
+element TXT4 {
+  Pos 512 220
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 286
+  _Text "---"
+  endelement
+}
+
+element TXT5 {
+  Pos 512 250
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 64
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 287
+  _Text "---"
+  endelement
+}

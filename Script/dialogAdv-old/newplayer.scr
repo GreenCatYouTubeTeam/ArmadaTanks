@@ -1,0 +1,107 @@
+offset 0 0
+       
+speedselect 5
+
+element WIN {
+  Pos 512 378
+  WinSize 12 6  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 12  8  9 9 9 9  9 9  9 9 9 9  10
+  endelement
+}
+
+element TXT {
+  Pos 512 275
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 34
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADV DIALOGADV
+  TLText 250
+  _Text "Введите ваше имя"
+  endelement
+}
+
+element WINSM {
+  Pos 512 370
+  WinSize 16 3  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  45 77  60 62  44 46  76 78  61  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element INPUT {
+  Pos 512 370
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  CellA 17 33
+  Type INPUT DATA  
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB DIALOGADV
+  SurfaceA 1 FONTADVB DIALOGADV
+  Text "User            "
+  endelement
+}
+
+element BOK {
+  Pos 512 470
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 4
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BOK {
+  Pos 512 470
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 4
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 209
+  _Text "ОК"
+  endelement
+}
+

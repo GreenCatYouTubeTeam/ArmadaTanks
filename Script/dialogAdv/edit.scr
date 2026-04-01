@@ -1,0 +1,42 @@
+offset 0 0
+
+element TXTMODE {
+  Pos 16 16
+  Cell 12 24
+  Align LUD
+  Type DATA
+  Event 1
+  Surface 1 FONTADV384
+  SurfaceA 1 FONTADV384
+  Text "MODE WALL "
+  endelement
+}
+
+element TXTID {
+  Pos 16 48
+  Cell 12 24
+  Align LUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV384
+  SurfaceA 1 FONTADV384
+  Text "ID 0   "
+  endelement
+}
+
+
+element TXTVAL {
+  Pos 16 80
+  Cell 12 24
+  Align LUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV384 
+  SurfaceA 1 FONTADV384 
+  Text "STATE 0   "
+  endelement
+}
+
+

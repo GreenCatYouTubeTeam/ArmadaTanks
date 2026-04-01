@@ -1,0 +1,22 @@
+//createtexture 64
+
+texture 32 "LOGO" {
+  ColorOp_MODULATE
+  SrcBlend_SRCALPHA
+  DestBlend_INVSRCALPHA
+  LoadFile "BaseT\\Texture\\logo3a.png" Logo.bmp
+  Run
+}
+
+
+texture 91 "FONTFDB" {
+  ColorOp_MODULATE
+  SrcBlend_SRCALPHA
+  DestBlend_INVSRCALPHA
+  LoadFile "BaseT\\Texture\\FontAdv_FD_B.png"
+  _LoadAlpha "BaseT\\Texture\\FontAdv_FD.bmp"
+  _CreateFont 1
+  LoadDescFont "BaseT\\Texture\\FontDesc\\FontAdv_FD.df"
+  _Color 91 0xFF111111 
+  Run
+}

@@ -1,0 +1,92 @@
+offset 0 60
+
+escDo 7
+
+speedselect 5
+
+element WINNM {
+  Pos 512 378 346 
+  WinSize 12 6  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  4 36  27 29  3 5  35 37  28  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WINNM {
+  Pos 0 1 
+  Type MOD 
+  Pic 12  8  9 9 9 9  9 9  9 9 9 9  10
+  endelement
+}
+
+element TX {
+  Pos 512 275
+  Cell 16 32
+  Align LRUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV
+  SurfaceA 1 FONTADV
+  TLText 251
+  _Text "Невозможно приобрести вещь"
+  endelement
+}
+
+element TX {
+  Pos 512 370
+  Cell 16 32
+  Align LRUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADVB FONTADV
+  SurfaceA 1 FONTADVB FONTADV
+  TLText 252
+  _Text "Для данной покупки у вас нехватает денег"
+  endelement
+}
+
+
+element BCOK {
+
+  Pos 512 470
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 7
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BCOK {
+  Pos 512 470
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 7
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 209
+  _Text "OK"
+  endelement
+}

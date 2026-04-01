@@ -1,0 +1,121 @@
+offset 0 0
+
+speedselect 5
+
+escDo 1
+
+element WIN {
+  Pos 400 300 
+  WinSize 29 21 
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  1 33  16 18  0 2  32 34  17  
+  Surface 1 DIALOGADV 
+  SurfaceA 1 DIALOGADV 
+  Text "WIN"
+  endelement
+}
+
+
+element M1 {
+  Pos 0 0
+  Size 1024 768
+  Type DATA
+  Align LUHV
+  Dimension 1
+  TexCoord 0.0 0.0 1.0 0.75 
+  Surface 1 MAPT CMAP
+  SurfaceA 1 MAPT CMAP
+  Pic 1 0
+  endelement
+}
+
+
+element BBACK {
+  Pos 150 700
+  Dimension 1
+  Align LRUDV
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.375 0.6875 0.5625
+  TexCoordA 0.0 0.375 0.6875 0.5625
+  SelectArea -108 160 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 1
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BBACK {
+  Pos 150 700
+  Dimension 16
+  Align LRUDV
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 1
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 242
+  _Text "Назад"
+  endelement
+}
+
+element BSTART {
+  Pos 874 700
+  Dimension 1
+  Align LRUDV
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 9 21 
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BSTART {
+  Pos 874 700
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 9 21 
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 243
+  _Text "Старт"
+  endelement
+}
+
+
+element BDIF {
+  Pos 512 700
+  Dimension 1
+  Align LRUDV
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0.375 
+  SelectArea -108 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 61 9 21 
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}

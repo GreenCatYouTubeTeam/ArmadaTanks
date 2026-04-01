@@ -1,0 +1,1445 @@
+model 0 "TERR0" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_0.dtm"
+  Run
+}
+
+model 1 "TERR1" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_1.dtm"
+  Run
+}
+
+model 2 "TERR2" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_2.dtm"
+  Run
+}
+
+model 3 "TERR3" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_3.dtm"
+  Run
+}
+
+model 4 "TERR4" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_4.dtm"
+  Run
+}
+
+model 5 "TERR5" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_5.dtm"
+  Run
+}
+
+model 6 "TERR6" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_6.dtm"
+  Run
+}
+
+model 7 "TERR7" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_7.dtm"
+  Run
+}
+
+model 8 "TERR8" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_8.dtm"
+  Run
+}
+
+model 9 "TERR9" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_9.dtm"
+  Run
+}
+
+model 10 "TERR10" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_10.dtm"
+  Run
+}
+
+model 11 "BULLET1" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Bullet_1.dtm"
+  Run
+}
+
+model 12 "TERR_ZERO" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_Zero.dtm"
+  Run
+}
+
+model 13 "TERR_ZERO2" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_Zero.dtm"
+  Run
+}
+
+model 14 "OBJMINA" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Mina.dtm"
+  Run
+}
+
+model 15 "MINA" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Item_Mina.dtm"
+  Run
+}
+
+model 16 "BUCKET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Item_Bucket.dtm"
+  Run
+}
+
+model 17 "TANKBUCKET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Bucket.dtm"
+  Run
+}
+
+model 18 "ITEMEFFECT" {
+  ScaleModel 0.025
+  LoadFileDTM "BaseT\\Model\\Item_Effect.dtm"
+  Run
+}
+
+model 19 "TANKEXPL" {
+  ScaleModel 0.06
+  LoadFileDTM "BaseT\\Model\\Tank_Expl.dtm"
+  Run
+}
+
+model 20 "TERR42" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_42.dtm"
+  Run
+}
+
+model 21 "TERR43" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_43.dtm"
+  Run
+}
+
+model 22 "TERR55" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_55.dtm"
+  Run
+}
+
+model 23 "AIRBOMB" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\item_airBomb.dtm"
+  Run
+}
+
+model 24 "OBJAIRBOMB" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\AirBomb.dtm"
+  Run
+}
+
+model 25 "SCKEY" {
+  ScaleModel 0.03 5
+  LoadFileDTM "BaseT\\Model\\item_key.dtm"
+  Run
+}
+
+model 26 "TERR51" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_51.dtm"
+  Run
+}
+
+model 27 "SCNUT" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\item_nut.dtm"
+  Run
+}
+
+model 28 "BULLET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\bullet.dtm"
+  Run
+}
+
+model 29 "FLAG" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\flag.dtm"
+  Run
+}
+
+model 30 "CRASH" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\WallCrash.dtm"
+  Run
+}
+
+model 31 "TERR11" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_11.dtm"
+  Run
+}
+
+model 32 "TANKEASY" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Easy.dtm"
+  Run
+}
+
+model 33 "TANKNORMAL" {
+  ScaleModel 0.05
+  sdSetFVF T1
+  LoadFileDTM "BaseT\\Model\\Tank_Normal.dtm"
+  Run
+}
+
+model 34 "TANKHARD" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Hard.dtm"
+  Run
+}
+
+model 35 "TANKNUCLEAN" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Nuc.dtm"
+  Run
+}
+
+model 36 "TANKPLAYER" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Player.dtm"
+  Run
+}
+
+model 37 "TERR27" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_27.dtm"
+  Run
+}
+
+model 38 "TERR28" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_28.dtm"
+  Run
+}
+
+model 39 "TERR30" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_30.dtm"
+  Run
+}
+
+model 40 "TERR31" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_31.dtm"
+  Run
+}
+
+model 41 "TERR32" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_32.dtm"
+  Run
+}
+
+model 42 "TERR29" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_29.dtm"
+  Run
+}
+
+model 43 "SCOREEFFECT" {
+  ScaleModel 0.03
+  LoadFileDTM "BaseT\\Model\\Item_ScEffect.dtm"
+  Run
+}
+
+model 44 "EFFLIGHT" {
+  ScaleModel 0.03
+  LoadFileDTM "BaseT\\Model\\effect_light.dtm"
+  Run
+}
+
+model 45 "EFFBOMB" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\effect_bomb.dtm"
+  Run
+}
+
+model 46 "PARA" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\item_para.dtm"
+  Run
+}
+
+model 47 "TERR52" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_52.dtm"
+  Run
+}
+
+model 48 "TERR62" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_62.dtm"
+  Run
+}
+
+model 49 "TERR49" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_49.dtm"
+  Run
+}
+
+
+model 50 "TERR21" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_21.dtm"
+  Run
+}
+
+model 51 "TERR33" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_33.dtm"
+  Run
+}
+ 
+model 52 "BULLET2" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Bullet_2.dtm"
+  Run
+}
+
+model 53 "FIELD" {
+  ScaleModel 0.06
+  LoadFileDTM "BaseT\\Model\\Field.dtm"
+  Run
+}
+
+model 54 "TERR44" {
+  ScaleModel 0.05
+  SetFVF T1
+  LoadFileDTM "BaseT\\Model\\Terr_44.dtm"
+  Run
+}
+
+model 55 "BOMB" {
+  ScaleModel 0.04
+  SetFVF T1
+  LoadFileDTM "BaseT\\Model\\item_bomb.dtm"
+  Run
+}
+
+model 56 "BOX" {
+  ScaleModel 0.04
+  SetFVF T1
+  LoadFileDTM "BaseT\\Model\\item_box.dtm"
+  Run
+}
+
+model 57 "SHIELD" {
+  ScaleModel 0.04
+  SetFVF T1
+  LoadFileDTM "BaseT\\Model\\item_shield.dtm"
+  Run
+}
+
+model 58 "EXPLIGHT" {
+  ScaleModel 0.07
+  SetFVF T1
+  LoadFileDTM "BaseT\\Model\\Exp_Light.dtm"
+  Run
+}
+
+model 59 "TERR12" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_12.dtm"
+  Run                              
+}
+
+model 60 "TERR13" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_13.dtm"
+  Run
+}
+
+model 61 "TERR14" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_14.dtm"
+  Run
+}
+
+model 62 "TERR15" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_15.dtm"
+  Run
+}
+
+model 63 "CLOCK" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\item_clock.dtm"
+  Run
+}
+
+model 64 "LOPATA" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\item_lopata.dtm"
+  Run
+}
+
+model 65 "METKA" {
+  ScaleModel 0.03
+  LoadFileDTM "BaseT\\Model\\Metka.dtm"
+  Run
+}
+
+model 66 "EXPWALL" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Exp_Wall.dtm"
+  Run
+}
+
+model 67 "SNOW" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Snow.dtm"
+  Run
+}
+
+model 68 "STAR" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Item_Star.dtm"
+  Run
+}
+
+model 69 "TERR36" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_36.dtm"
+  Run
+}
+
+model 70 "RAIN" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Rain.dtm"
+  Run
+}
+
+model 71 "BOSS1" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Boss1.dtm"
+  Run
+}
+
+model 72 "BOSS2" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Boss2.dtm"
+  Run
+}
+
+model 73 "TERR94" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_94.dtm"
+  Run
+}
+
+model 74 "EVDZOTA" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_Dzot_A.dtm"
+  Run
+}
+
+model 75 "METKABLUE" {
+  ScaleModel 0.03
+  LoadFileDTM "BaseT\\Model\\MetkaBlue.dtm"
+  Run
+}
+
+model 76 "TANKPB" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankP_B.dtm"
+  Run
+}
+
+model 77 "TANKPH" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankP_H.dtm"
+  Run
+}
+
+model 78 "BULLETFIRE" {
+  ScaleModel 0.015
+  LoadFileDTM "BaseT\\Model\\Bullet_Fire.dtm"
+  Run
+}
+
+model 79 "TANKRAKET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Raket.dtm"
+  Run
+}
+
+
+model 80 "LOGO" {
+  ScaleModel 1.0
+  LoadFileDTM "BaseT\\Model\\Logo.dtm"
+  Run
+}
+
+model 81 "TERR16" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_16.dtm"
+  Run
+}
+
+model 82 "TERR17" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_17.dtm"
+  Run
+}
+
+model 83 "TERR18" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_18.dtm"
+  Run
+}
+
+model 84 "FLAGDEST" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\flagDest.dtm"
+  Run
+}
+
+model 85 "LEVELI" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Level_I.dtm"
+  Run
+}
+
+model 86 "LEVELII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Level_II.dtm"
+  Run
+}
+
+model 87 "LEVELIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Level_III.dtm"
+  Run
+}
+
+model 88 "TERR22" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_22.dtm"
+  Run
+}
+
+model 89 "MEDIC" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\item_Medic.dtm"
+  Run
+}
+
+model 90 "PART0" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\parts_B.dtm" 0
+  Run
+}
+
+model 91 "PART1" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\parts_B.dtm" 0
+  Run
+}
+
+model 92 "TERR23" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_23.dtm"
+  Run
+}
+
+model 93 "TERR25" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_25.dtm"
+  Run
+}
+
+model 94 "TERR24" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_24.dtm"
+  Run
+}
+
+model 95 "TERR26" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_26.dtm"
+  Run
+}
+
+model 96 "TERR34" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_34.dtm"
+  Run
+}
+
+model 97 "TERR35" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_35.dtm"
+  Run
+}
+
+model 98 "TERR37" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_37.dtm"
+  Run
+}
+
+model 99 "TERR20" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_20.dtm"
+  Run
+}
+
+model 100 "TERR19" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_19.dtm"
+  Run
+}
+
+model 101 "TERR38" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_38.dtm"
+  Run
+}
+
+model 102 "BACKGR" {
+  ScaleModel 0.25
+  LoadFileDTM "BaseT\\Model\\BackGr.dtm"
+  Run
+}
+
+model 103 "TERR45" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_45.dtm"
+  Run
+}
+
+model 104 "TERR46" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_46.dtm"
+  Run
+}
+
+model 105 "TERR47" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_47.dtm"
+  Run
+}
+
+model 106 "TERR48" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_48.dtm"
+  Run
+}
+
+model 107 "EDITBOX" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\EditBox.dtm"
+  Run
+}
+
+model 108 "ZAMOK" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\item_zamok.dtm"
+  Run
+}
+
+model 109 "AMMO" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\item_ammo.dtm"
+  Run
+}
+
+model 110 "TERR50" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_50.dtm"
+  Run
+}
+
+
+model 111 "TERR56" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_56.dtm"
+  Run
+}
+
+model 112 "TERR57" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_57.dtm"
+  Run
+}
+
+model 113 "TERR58" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_58.dtm"
+  Run
+}
+
+model 114 "TANKDEFENCE" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Defence.dtm"
+  Run
+}
+
+model 115 "DEFENCE" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Item_Defence.dtm"
+  Run
+}
+
+model 116 "ABATIS" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Abatis.dtm"
+  Run
+}
+
+model 117 "TERR41" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_41.dtm"
+  Run
+}
+
+model 118 "TERR63" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_63.dtm"
+  Run
+}
+
+model 119 "TERR59" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_59.dtm"
+  Run
+}
+
+model 120 "TERR54" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_54.dtm"
+  Run
+}
+
+model 121 "TERR53" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_53.dtm"
+  Run
+}
+
+model 122 "TERR61" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_61.dtm"
+  Run
+}
+
+
+model 123 "TERR64" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_64.dtm"
+  Run
+}
+
+model 124 "TERR65" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_65.dtm"
+  Run
+}
+
+model 125 "TERR66" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_66.dtm"
+  Run
+}
+
+model 126 "TERR67" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_67.dtm"
+  Run
+}
+
+model 127 "TERR68" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_68.dtm"
+  Run
+}
+
+model 128 "TERR69" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_69.dtm"
+  Run
+}
+
+model 129 "TERR70" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_70.dtm"
+  Run
+}
+
+model 130 "TERR71" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_71.dtm"
+  Run
+}
+
+
+model 131 "TERR76" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_76.dtm"
+  Run
+}
+
+model 132 "TERR77" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_77.dtm"
+  Run
+}
+
+model 133 "TERR78" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_78.dtm"
+  Run
+}
+
+model 134 "TERR79" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_79.dtm"
+  Run
+}
+
+model 135 "FLYSHIP" {
+  ScaleModel 0.06
+  LoadFileDTM "BaseT\\Model\\FlyShip.dtm"
+  Run
+}
+
+model 136 "TERR75" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_75.dtm"
+  Run
+}
+
+model 137 "EVMIRROR" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\EventObj_Mirror.dtm"
+  Run
+}
+
+model 138 "EVPD" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_P_Down.dtm"
+  Run
+}
+
+model 139 "EVPU" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_P_Up.dtm"
+  Run
+}
+
+model 140 "EVDZOT" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_Dzot.dtm"
+  Run
+}
+
+model 141 "EVBOMB" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Event_Bomb.dtm"
+  Run
+}
+
+model 142 "EVHOST" {
+  ScaleModel 0.03
+  LoadFileDTM "BaseT\\Model\\Event_Host.dtm"
+  Run
+}
+
+model 143 "TERR90" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_90.dtm"
+  Run
+}
+
+model 144 "TERR91" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_91.dtm"
+  Run
+}
+
+model 145 "TERR92" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_92.dtm"
+  Run
+}
+
+model 146 "TERR93" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\terr_93.dtm"
+  Run
+}
+
+model 147 "EVDZOTD" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Event_Dzot_D.dtm"
+  Run
+}
+
+model 148 "BULLET3" {
+  ScaleModel 0.04
+  LoadFileDTM "BaseT\\Model\\Bullet_Electro.dtm" Bullet_3.dtm
+  Run
+}
+
+model 149 "ELECTRO" {
+  ScaleModel 0.035
+  LoadFileDTM "BaseT\\Model\\item_Electro.dtm"
+  Run
+}
+
+model 150 "TERR81" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_81.dtm"
+  Run
+}
+
+model 151 "TERR82" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_82.dtm"
+  Run
+}
+
+model 152 "TERR83" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_83.dtm"
+  Run
+}
+
+model 153 "EVREEC" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_Rec.dtm"
+  Run
+}
+
+model 154 "BOXLIGHT" {
+  ScaleModel 0.025
+  LoadFileDTM "BaseT\\Model\\effect_boxlgt.dtm"
+  Run
+}
+
+model 155 "ARMGUN" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_Gun.dtm"
+  Run
+}
+
+model 156 "ARMKULEMET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_RotateGun.dtm"
+  Run
+}
+
+model 157 "ARMRAKET" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_Raket.dtm"
+  Run
+}
+
+model 158 "ARMELECTRO" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_Electro.dtm"
+  Run
+}
+
+model 159 "ARMFIRE" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_Fire.dtm"
+  Run
+}
+
+model 160 "ADDARMOR" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_ARMOR.dtm"
+  Run
+}
+
+model 161 "ADDARMORII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_ARMOR_II.dtm"
+  Run
+}
+
+model 162 "ADDARMORIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_ARMOR_III.dtm"
+  Run
+}
+
+model 163 "ADDSPB" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_B.dtm"
+  Run
+}
+
+model 164 "ADDSPBII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_B_II.dtm"
+  Run
+}
+
+model 165 "ADDSPBIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_B_III.dtm"
+  Run
+}
+
+
+model 166 "BULLETRAKETA" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Bullet_Raketa.dtm"
+  Run
+}
+
+model 167 "BULLETSHOCK" {
+  ScaleModel 0.07
+  LoadFileDTM "BaseT\\Model\\Bullet_Shock.dtm"
+  Run
+}
+
+model 168 "BULLETSHSC" {
+  ScaleModel 0.07
+  LoadFileDTM "BaseT\\Model\\Bullet_Shock_Sc.dtm"
+  Run
+}
+
+model 169 "ADDSPF" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_F.dtm"
+  Run
+}
+
+model 170 "ADDSPFII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_F_II.dtm"
+  Run
+}
+
+model 171 "ADDSPFIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_F_III.dtm"
+  Run
+}
+
+model 172 "ADDSPM" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_M.dtm"
+  Run
+}
+
+model 173 "ADDSPMII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_M_II.dtm"
+  Run
+}
+
+model 174 "ADDSPMIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_M_III.dtm"
+  Run
+}
+
+model 176 "ADDUN" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_UN.dtm"
+  Run
+}
+
+model 177 "ADDUNII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_UN_II.dtm"
+  Run
+}
+
+model 178 "ADDUNIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_UN_III.dtm"
+  Run
+}
+
+model 179 "ARMSHOCK" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Head_Shock.dtm"
+  Run
+}
+
+model 180 "EVNUCTANK" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\EventObj_NucTank.dtm"
+  Run
+}
+
+model 181 "MSEGY" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\MapShow_Egypt.dtm"
+  Run
+}
+model 182 "MSFOR" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\MapShow_Forest.dtm"
+  Run
+}
+model 183 "MSFORP" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\MapShow_ForestP.dtm"
+  Run
+}
+model 184 "MSICE" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\ms_ice.dtm" MapShow_Ice.dtm
+  Run
+}
+
+model 185 "SKY" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Sky.dtm"
+  Run
+}
+
+model 186 "TANKBRON" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Bron.dtm"
+  Run
+}
+
+model 187 "TANKELECTRO" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Electro.dtm"
+  Run
+}
+
+
+model 188 "TL90" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankLive_90.dtm"
+  Run
+}
+
+model 189 "TL70" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankLive_70.dtm"
+  Run
+}
+
+model 190 "TL50" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankLive_50.dtm"
+  Run
+}
+
+model 191 "TL30" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankLive_30.dtm"
+  Run
+}
+
+model 192 "TL10" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\TankLive_10.dtm"
+  Run
+}
+
+
+model 193 "MSTREE" {
+  ScaleModel 0.05 0.6
+  LoadFileDTM "BaseT\\Model\\ms_tree.dtm" MapShow_3D_Tree1.dtm
+  Run
+}
+model 194 "MSTUND" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\ms_Tund.dtm" MapShow_3D_Tree2.dtm
+  Run
+}
+model 195 "MSEGYPT" {
+  ScaleModel 0.05 0.6
+  LoadFileDTM "BaseT\\Model\\ms_egypt.dtm" MapShow_3D_Tree3.dtm
+  Run
+}
+
+model 196 "MSFOREST" {
+  ScaleModel 0.05 0.6
+  LoadFileDTM "BaseT\\Model\\ms_forest.dtm" MapShow_3D_Forest.dtm
+  Run
+}
+
+model 197 "MSSNOW" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\ms_snow.dtm" MapShow_3D_Snow.dtm
+  Run
+}
+
+model 198 "MSWATER" {
+  ScaleModel 0.05 0.6
+  LoadFileDTM "BaseT\\Model\\ms_water.dtm" MapShow_3D_Water.dtm
+  Run
+}
+
+model 199 "MSSNOW" {
+  ScaleModel 0.05 0.6 BACK 
+  LoadFileDTM "BaseT\\Model\\ms_ice.dtm" MapShow_3D_Back.dtm
+  Run
+}
+
+model 200 "MSSKY" {
+  ScaleModel 0.05 0.66 0.6
+  LoadFileDTM "BaseT\\Model\\ms_sky.dtm" MapShow_3D_Sky.dtm
+  Run
+}
+
+model 201 "LINE" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Line.dtm"
+  Run
+}
+
+
+model 202 "BLMPSH" {
+  ScaleModel 0.006
+  LoadFileDTM "BaseT\\Model\\Bullet_MapShow.dtm"
+  Run
+}
+
+model 203 "BIGCRASH" {
+  ScaleModel 0.029 0.025
+  LoadFileDTM "BaseT\\Model\\Crash.dtm"
+  Run
+}
+
+model 204 "TERR95" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_95.dtm"
+  Run
+}
+
+
+model 205 "TANKFIRE" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_Fire.dtm"
+  Run
+}
+
+
+model 206 "TANKROTGUN" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_RotGun.dtm"
+  Run
+}
+
+
+model 207 "ADDARMORIIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_ARMOR_IIII.dtm"
+  Run
+}
+
+model 208 "ADDSPBIIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_B_IIII.dtm"
+  Run
+}
+
+model 209 "ADDSPFIIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_F_IIII.dtm"
+  Run
+}
+
+
+model 210 "ADDSPMIIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_SP_M_IIII.dtm"
+  Run
+}
+
+model 211 "FLAGI" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Flag_I.dtm"
+  Run
+}
+model 212 "FLAGII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Flag_II.dtm"
+  Run
+}
+model 213 "FLAGIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Flag_III.dtm"
+  Run
+}
+
+model 214 "ADDUNIIII" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Add_UN_IIII.dtm"
+  Run
+}
+
+
+model 215 "TERR85" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_85.dtm"
+  Run
+}
+
+model 216 "TERR86" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_86.dtm"
+  Run
+}
+
+model 217 "TERR87" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_87.dtm"
+  Run
+}
+
+model 218 "TERR88" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_88.dtm"
+  Run
+}
+
+model 220 "TERR84" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_84.dtm"
+  Run
+}
+
+
+
+model 221 "TERR100" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_100.dtm"
+  Run
+}
+
+model 222 "TERR101" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_101.dtm"
+  Run
+}
+
+model 223 "TERR102" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_102.dtm"
+  Run
+}
+
+model 224 "TERR103" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_103.dtm"
+  Run
+}
+
+model 225 "TERR74" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_74.dtm"
+  Run
+}
+
+model 226 "ITEMLIGHT" {
+  ScaleModel 0.037
+  LoadFileDTM "BaseT\\Model\\ItemLight.dtm"
+  Run
+}
+
+
+model 227 "TERR106" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_106.dtm"
+  Run
+}
+
+model 228 "TERR107" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_107.dtm"
+  Run
+}
+
+model 229 "TERR108" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_108.dtm"
+  Run
+}
+
+model 230 "TERR109" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_109.dtm"
+  Run
+}
+
+model 231 "TERR110" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_110.dtm"
+  Run
+}
+
+model 232 "TERR98" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_98.dtm"
+  Run
+}
+
+model 233 "TERR99" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_99.dtm"
+  Run
+}
+
+model 234 "TERR104" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_104.dtm"
+  Run
+}
+
+model 235 "TERR105" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_105.dtm"
+  Run
+}
+
+model 236 "TERR96" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_96.dtm"
+  Run
+}
+
+model 237 "TERR97" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Terr_97.dtm"
+  Run
+}
+
+model 238 "EVSHIP" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Event_Ship.dtm"
+  Run
+}
+
+model 239 "BOSS3" {
+  ScaleModel 0.05
+  LoadFileDTM "BaseT\\Model\\Tank_DarkBoss.dtm"
+  Run
+}
+
+

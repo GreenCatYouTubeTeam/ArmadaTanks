@@ -1,0 +1,279 @@
+offset 0 0
+
+escDo 1
+
+speedselect 5
+
+element WIN {
+  Pos 512 350 346 
+  WinSize 11 10  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  4 36  27 29  3 5  35 37  28  
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 11  8  6 9  9 9  9 9 9 9  9 10
+  endelement
+}
+
+element TX0 {
+  Pos 452 205
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 290
+  _Text "Game design, Programmer,"
+  endelement
+}
+
+element TX01 {
+  Pos 452 235
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 291
+  _Text "Level design, Art & Graphics"
+  endelement
+}
+
+element TX1 {
+  Pos 425 205
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 292
+  _Text "Denis Kotov"
+  endelement
+}
+
+element TX2 {
+  Pos 425 285
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 293
+  _Text "Pasha Oliynyk"
+  endelement
+}
+
+
+element TX20 {
+  Pos 452 285
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 294
+  _Text "Art & Graphics"
+  endelement
+}
+
+element TX3 {
+  Pos 425 335
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 295
+  _Text "Yaroslav Yanovsky"
+  endelement
+}
+
+element TX30 {
+  Pos 452 335
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 296
+  _Text "Producer"
+  endelement
+}
+
+element TX40 {
+  Pos 452 385
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 297
+  _Text "Music Composition"
+  endelement
+}
+
+
+element TX50 {
+  Pos 452 435
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 298
+  _Text "Sound Design"
+  endelement
+}
+
+element SOUND {
+  Pos 512 485
+  Cell 0 32
+  Align LRUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 299
+  _Text "this program uses Audiere Sound System"
+  endelement
+}
+
+element SOUND {
+  Pos 512 515
+  Cell 0 32
+  Align LRUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224Y
+  SurfaceA 1 FONTFD224Y
+  TLText 300
+  _Text "(c) 2001-2003 Chad Austin (see license/audiere.txt) "
+  endelement
+}
+
+element SOUND {
+  Pos 1000 740
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Scale 0.5
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 301
+  _Text "Copyright (c) 2006-2007 by Enkord Ltd"
+  endelement
+}
+
+
+element TX4 {
+  Pos 425 385
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 302
+  _Text "Zaraki Kenpachi"
+  endelement
+}
+
+
+element TX5 {
+  Pos 425 435
+  Cell 0 32
+  Align RUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 303
+  _Text "Ichimaru Gin"
+  endelement
+}
+
+element BOK {
+  Pos 512 580
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -108 160 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 1
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOK {
+  Pos 512 580
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 1
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text "ŽŠ"
+  endelement
+}
+
+
+element TXTUP {
+  Pos 512 126
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 201
+  _Text "About"
+  endelement
+}

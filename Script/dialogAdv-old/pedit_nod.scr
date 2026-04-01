@@ -1,0 +1,128 @@
+offset 0 0
+
+speedselect 5
+
+element WIN {
+  Pos 512 384
+  WinSize 10 10  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 10  8  6 9 9 9  9 9 9 9  10
+  endelement
+}
+
+element WINSM {
+  Pos 512 348
+  WinSize 16 10  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  45 77  60 62  44 46  76 78  61  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+
+element TXPRSEL {
+  Pos 512 150
+  Cell 16 32
+  Align LRUD
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV
+  SurfaceA 1 FONTADV
+  TLText 227
+  _Text "выбирите профайл"
+  endelement
+}
+
+
+element BCRE {
+
+  Pos 512 530
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0,375 
+  SelectArea -108 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 3
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BCRE {
+  Pos 512 530
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 3
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 226
+  _Text "Новый игрок"
+  endelement
+}
+
+
+element BOK {
+
+  Pos 512 600
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875     0.0 0.1875 0.6875 0.375 
+  TexCoordA 0.0 0.0 0.6875 0.1875    0.0 0.1875 0.6875 0.375 
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 20
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOK {
+  Pos 512 600
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BUTTON 
+  EventSel 500
+  EventDo 20
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 209
+  _Text "ОК"
+  endelement
+}
+

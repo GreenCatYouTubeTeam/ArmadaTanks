@@ -1,0 +1,31 @@
+offset 0 0
+
+speedselect 5
+
+element LOGOPIC {
+  Pos 512 376 
+  Size 256 256
+  Type DATA
+  Align LRUD
+  Dimension 1
+  Surface 1 LOGO SCR01 CMAP
+  SurfaceA 1 LOGO SCR01 CMAP
+  Pic 1  0 
+  endelement
+}
+
+element TX {
+  Pos 512 510
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFDB
+  SurfaceA 1 FONTFDB
+  TLText 241
+  _Text "Загрузка ... Ждите ..."
+  endelement
+}
+
+

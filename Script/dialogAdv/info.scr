@@ -1,0 +1,288 @@
+offset 0 0
+
+speedselect 5
+
+escDo 1
+
+element WIN {
+  Pos 512 382 
+  WinSize 15 11  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WININFR {
+  Pos 654 180 148
+  WinSize 18 6  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  93 125  108 110  92 94  124 126  109  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WININFL {
+  Pos 654 340 148
+  WinSize 18 6  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  93 125  108 110  92 94  124 126  109  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WININFT {
+  Pos 220 260 148
+  WinSize 9 10  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  93 125  108 110  92 94  124 126  109  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WININFK {
+  Pos 512 502 148
+  WinSize 21 6  
+  Cell 32 32
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  93 125  108 110  92 94  124 126  109  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+
+element RBUT {
+  Pos 390 180
+  Size 64 64 96 128 256 256
+  Type DATA
+  Align LUDH
+  Dimension 16
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON
+  TexCoord 0.0 0.625 0.125 0.75 
+  Pic 1 0
+  endelement
+}
+
+element LBUT {
+  Pos 390 340
+  Size 64 64 96 128 256 256
+  Type DATA
+  Align LUDH
+  Dimension 16
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON
+  TexCoord 0.125 0.625 0.0 0.75 
+  Pic 1 0
+  endelement
+}
+
+element KEY {
+  Pos 210 440
+  Size 96 128 256 256
+  Type DATA
+  Align LUHV
+  Dimension 16
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON
+  TexCoord 0.0 0.75 0.1875 1.0 
+  Pic 1 0
+  endelement
+}
+
+element TANK {
+  Pos 100 110 150
+  Size 256 256 192 
+  Type DATA
+  Align LUHV
+  Dimension 16
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON
+  TexCoord 0.5 0.5 1.0 1.0  62
+  Pic 1 0
+  endelement
+}
+
+
+element TX {
+  Pos 480 140
+  Cell 0 32
+  Align LUD
+  Type FONT
+  Scale 1.0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 273
+  _Text "ПРАВАЯ КНОПКА МЫШКИ - используеться"
+  endelement
+}
+
+element TX1 {
+  Pos 480 175
+  Cell 0 32
+  Align LUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 274
+  _Text "для указания танку точки, к которой"
+  endelement
+}
+
+element TX2 {
+  Pos 480 210
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 275
+  _Text "ему необходимо ехать"
+  endelement
+}
+
+element TX3 {
+  Pos 480 300
+  Cell 0 32
+  Align LUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 276
+  _Text "ЛЕВАЯ КНОПКА МЫШКИ - используеться"
+  endelement
+}
+
+element TX3 {
+  Pos 480 335
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 277
+  _Text "для стрельбы танка по врагам"
+  endelement
+}
+
+element TX5 {
+  Pos 350 460
+  Cell 0 32
+  Align LUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 278
+  _Text "КЛАВИШИ КУРСОРА или WASD нужны для"
+  endelement
+}
+
+element TX6 {
+  Pos 350 495
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 279
+  _Text "прямого управления танком и могут"
+  endelement
+}
+
+element TX7 {
+  Pos 350 530
+  Cell 0 32
+  Align LUD
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD224
+  SurfaceA 1 FONTFD224
+  TLText 280
+  _Text "использоваться по желанию"
+  endelement
+}
+
+
+
+element BOK {
+  Pos 512 640
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 21 49 44 1
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOK {
+  Pos 512 640
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 21 49 44 1
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text " OK "
+  endelement
+}
+
+

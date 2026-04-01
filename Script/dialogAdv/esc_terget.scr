@@ -1,0 +1,75 @@
+offset 0 0
+
+speedselect 5
+
+element WIN {
+  Pos 512 370
+  WinSize 9 8  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 9  8 6 9 9 9 9 9 9 10
+  endelement
+}
+
+element TXTAR {
+  Pos 560 203 512
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 236
+  _Text "Цели миссии"
+  endelement
+}
+
+element BOK {
+  Pos 512 535
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 10
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BOK {
+  Pos 512 535 
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT 
+  EventSel 500
+  EventDo 10
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text "ОК"
+  endelement
+}
+

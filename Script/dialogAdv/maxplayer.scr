@@ -1,0 +1,107 @@
+offset 0 0
+
+speedselect 5
+
+element WIN {
+  Pos 512 378 346 
+  WinSize 12 6  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  4 36  27 29  3 5  35 37  28  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 12  8  9 9 9 9  9 9  9 9 9 9  10
+  endelement
+}
+
+
+element TXT {
+  Pos 512 275
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 245
+  _Text "Невозможно создать новый профиль"
+  endelement
+}
+
+element TXT {
+  Pos 512 350
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFDB
+  SurfaceA 1 FONTFDB
+  TLText 246
+  _Text "Слишком много профайлов"
+  endelement
+}
+
+element TXT2 {
+  Pos 512 390
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFDB
+  SurfaceA 1 FONTFDB
+  TLText 247
+  _Text "сначала удалите один из существующих"
+  endelement
+}
+
+
+element BOK {
+  Pos 512 470
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -108 160 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 2
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BOK {
+  Pos 512 470
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT 
+  EventSel 500
+  EventDo 2
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text " ОК "
+  endelement
+}
+

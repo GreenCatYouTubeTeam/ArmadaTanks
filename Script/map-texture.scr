@@ -1,0 +1,4 @@
+texture 107 "PREVMAP" {
+  LoadFile "BaseT\\Texture\\PreviewMap.jpg"
+  Run
+}

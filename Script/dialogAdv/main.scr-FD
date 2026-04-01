@@ -1,0 +1,271 @@
+offset 112 84
+
+speedselect 5
+
+escDo 13
+
+element WIN {
+  Pos 399 450
+  WinSize 7 7  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+
+element LOGOPIC {
+  Pos 384 70 64 
+  Size 256 256
+  Type DATA
+  Align LUHV
+  Dimension 1
+  Surface 1 LOGO SCR01 CMAP
+  SurfaceA 1 LOGO SCR01 CMAP
+  Pic 1  0 
+  endelement
+}
+
+element SHADOW {
+  Pos 280 0 290 0
+  Size 464 72 444 72
+  Type DATA
+  Align LUHV
+  Dimension 8
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON
+  Pic 6  20 21 21 22 22 23
+  endelement
+}
+
+
+element BBYE {
+  Pos 860 24
+  Size 128 128
+  Type BFONT 
+  Align LUHV
+  Dimension 2
+  EventSel 500
+  EventDo 28
+  TexCoord 0.5 0.0 0.75 0.25
+  TexCoordA 0.75 0.0 1.0 0.25
+  Surface 1 MENUADDON 
+  SurfaceA 1 MENUADDON 
+  Pic 1  0 
+  endelement
+}
+
+element BBYE {
+  Pos 813 0
+  Cell 12 24
+  Align LRUD
+  Type BFONT  DATA 
+  EventSel 500
+  EventDo 28
+  Surface 1 FONTADVB FONTADV
+  SurfaceA 1 FONTADVB FONTADV
+  TLText 207 
+  _Text "купить"
+  endelement
+}
+
+
+element TX {
+  Pos 400 24
+  Cell 14 28  14 19 12 24
+  Align LRUDV
+  Type DATA 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTADV224 FONTADV 384 FONTADV
+  SurfaceA 1 FONTADV224 FONTADV 384 FONTADV
+  TLText 206
+  _Text "Добропожаловать, "
+  endelement
+}
+
+element BPLAYER {
+  Pos 400 50
+  Cell 14 28 14 19 12 24
+  Align LRUDV
+  Type BFONT  DATA 
+  EventSel 500
+  EventDo 2
+  Surface 1 FONTADV224 FONTADV 384 FONTADV
+  SurfaceA 1 FONTADV224 FONTADV 384 FONTADV
+  _TLText 205
+  _Text "(Если это не вы, нажмите сдесь)"
+  Text "(If youe see this text press)"
+  endelement
+}
+
+element BNEWG {
+  Pos 400 318
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BFONT 
+  EventSel 500
+  EventDo 30 8
+  Surface 1 BUTTON 
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BNEWG {
+  Pos 400 318
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 30 8
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 204
+  _Text " Начать игру "
+  endelement
+}
+
+
+element BOPTN {
+  Pos 400 383
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0,375 
+  SelectArea -108 108 -20 20
+  Type BFONT 
+  EventSel 500
+  EventDo 34
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOPTN {
+  Pos 400 383
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 34
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 203
+  _Text "    Опции    "
+  endelement
+}
+
+element BFULL {
+  Pos 400 448
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0,375 
+  SelectArea -108 108 -20 20
+  Type BFONT 
+  EventSel 500
+  EventDo 59
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BFULL {
+  Pos 400 448
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 59
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 202
+  _Text "    Очки    "
+  endelement
+}
+
+element BABOUT {
+  Pos 400 513
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.1875 0.6875 0.375 
+  SelectArea -108 108 -20 20
+  Type BFONT 
+  EventSel 500
+  EventDo 67 65 52 29 3 8
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BABOUT {
+  Pos 400 513
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 67 65 52 29 48 29 3 8
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADVYE DIALOGADV
+  TLText 201
+  _Text " О Программе "
+  endelement
+}
+
+element BEXIT {
+  Pos 400 578
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.375 0.6875 0.5625
+  TexCoordA 0.0 0.375 0.6875 0.5625
+  SelectArea -108 160 -20 20
+  Type BFONT 
+  EventSel 500
+  EventDo 13 8
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+element BEXIT {
+  Pos 400 578
+  Dimension 16
+  Align LRUD
+  Cell 16 32
+  Type BFONT 
+  EventSel 500
+  EventDo 13
+  Surface 1 FONTADV DIALOGADV
+  SurfaceA 1 FONTADV DIALOGADV
+  TLText 200
+  _Text "    Выход    "
+  endelement
+}
+

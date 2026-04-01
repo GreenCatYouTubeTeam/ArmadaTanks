@@ -1,0 +1,4 @@
+lg BaseT\\Script\\logo\\2_texlogo.scr BLACK
+lg BaseT\\Script\\logo\\1_texlogo.scr WHITE
+end
+

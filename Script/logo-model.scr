@@ -1,0 +1,6 @@
+
+model 92 "LOGO" {
+  ScaleModel 0.5
+  LoadFileDTM "BaseT\\Model\\Logo.dtm"
+  Run
+}

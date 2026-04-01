@@ -1,0 +1,7 @@
+texture 88 "LOGOLIST" {
+  ColorOp_MODULATE
+  SrcBlend_SRCALPHA
+  DestBlend_INVSRCALPHA
+  LoadFile "BaseT\\Logo\\4_logo3a.png"
+  Run
+}

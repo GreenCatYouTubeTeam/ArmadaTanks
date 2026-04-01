@@ -1,0 +1,134 @@
+offset 0 0
+
+speedselect 5
+
+element WINTI {
+  Pos 512 378 346 
+  WinSize 12 6  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  4 36  27 29  3 5  35 37  28  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WINTI {
+  Pos 0 1 
+  Type MOD 
+  Pic 12  8  9 9 9 9  9 9  9 9 9 9  10
+  endelement
+}
+
+element TX {
+  Pos 512 275 350
+  Cell 0 32
+  Align LRUD
+  Type FONT
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 216
+  _Text "Подтвердите покупку"
+  endelement
+}
+
+element TXT {
+  Pos 512 350
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type FONT
+  Surface 1 FONTFDB
+  SurfaceA 1 FONTFDB
+  TLText 217
+  _Text "Вы уверены что хотите купить"
+  endelement
+}
+
+element TXTITEM {
+  Pos 512 390
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type FONT DATA 
+  Surface 1 FONTFDB
+  SurfaceA 1 FONTFDB
+  Text "item"
+  endelement
+}
+
+
+element BOK {
+
+  Pos 362 470
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 31
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+
+  endelement
+}
+
+element BOK {
+  Pos 362 470
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 31
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 218
+  _Text "Да"
+  endelement
+}
+
+element BCANSEL {
+
+  Pos 662 470
+  Dimension 1
+  Align LRUD
+  Cell 32 32
+  Size 352 96
+  TexCoord 0.0 0.375 0.6875 0.5625
+  TexCoordA 0.0 0.375 0.6875 0.5625
+  SelectArea -108 160 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 7
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+
+  endelement
+}
+
+element BCANSEL {
+  Pos 662 470
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 7
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 219
+  _Text "Нет"
+  endelement
+}

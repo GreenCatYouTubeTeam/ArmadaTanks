@@ -1,0 +1,324 @@
+offset 0 0
+
+speedselect 5
+
+escDo 1
+
+element WIN {
+  Pos 512 352 
+  WinSize 14 9  
+  Cell 64 64
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  17 33  24 26  16 18  32 34  25  
+  Pic 9  1 33  24 26  0 2  32 34  25  
+  Surface 1 WINADV
+  SurfaceA 1 WINADV
+  Text "WIN"
+  endelement
+}
+
+element WIN {
+  Pos 0 1 
+  Type MOD 
+  Pic 14  8 6 9 9 9  9 9 9 9  9 9 9 9  10
+  endelement
+}
+
+element TXT {
+  Pos 512 152
+  Cell 0 32
+  Align LRUDV
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 203
+  _Text "Options"
+  endelement
+}
+
+element TXTSOUND {
+  Pos 222 440
+  Cell 0 32
+  Align LRUDV
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 213
+  _Text "Звук"
+  endelement
+}
+
+element SOUNDBAR {
+  Pos 602 440 
+  Cell 32 32 16 16
+  Type BAR 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 41 0
+  Pic 4  176 177 178 179 
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  Text "           "
+  Value 3
+  endelement
+}
+
+element SOUNDU {
+  Pos 802 440 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 35
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.25 0.6875 0.3125 0.75
+  TexCoordA 0.3125 0.6875 0.375 0.75
+  Pic 1  180 
+  endelement
+}
+
+element SOUNDD {
+  Pos 402 440 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 36
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.3125 0.6875 0.25 0.75
+  TexCoordA 0.375 0.6875 0.3125 0.75
+  Pic 1  180 
+  endelement
+}
+
+element TXTMUSIC {
+  Pos 222 380
+  Cell 0 32
+  Align LRUDV
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 212
+  _Text "Музыка"
+  endelement
+}
+
+
+element MUSICBAR {
+  Pos 602 380 
+  Cell 32 32 16 16
+  Type BAR 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 42 0
+  Pic 4  176 177 178 179 
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  Text "           "
+  Value 5
+  endelement
+}
+
+element MUSICU {
+  Pos 802 380 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 37
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.25 0.6875 0.3125 0.75
+  TexCoordA 0.3125 0.6875 0.375 0.75
+  Pic 1  180 
+  endelement
+}
+
+element MUSICD {
+  Pos 402 380 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 38
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.3125 0.6875 0.25 0.75
+  TexCoordA 0.375 0.6875 0.3125 0.75
+  Pic 1  180 
+  endelement
+}
+
+element TXTLANG {
+  Pos 222 320
+  Cell 0 32
+  Align LRUDV
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 211
+  _Text "Язык"
+  endelement
+}
+
+element LANG {
+  Pos 602 320
+  Cell 0 32
+  Align LRUDV
+  Type FONT
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 210
+  _Text "Русский"
+  endelement
+}
+
+element LANGU {
+  Pos 762 320 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 39
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.25 0.6875 0.3125 0.75
+  TexCoordA 0.3125 0.6875 0.375 0.75
+  Pic 1  180 
+  endelement
+}
+
+element LANGD {
+  Pos 442 320 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 40
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.3125 0.6875 0.25 0.75
+  TexCoordA 0.375 0.6875 0.3125 0.75
+  Pic 1  180 
+  endelement
+}
+
+
+element BOK {
+  Pos 512 530
+  Dimension 1
+  Align LRUD
+  Size 352 96
+  TexCoord 0.0 0.0 0.6875 0.1875
+  TexCoordA 0.0 0.0 0.6875 0.1875
+  SelectArea -160 108 -20 20
+  Type BUTTON 
+  EventSel 500
+  EventDo 44 1
+  Surface 1 BUTTON
+  SurfaceA 1 BUTTON
+  Pic 1 0
+  endelement
+}
+
+
+element BOK {
+  Pos 512 530
+  Dimension 16
+  Align LRUD
+  Cell 0 32
+  Type BFONT
+  EventSel 500
+  EventDo 44 1
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 209
+  _Text " OK "
+  endelement
+}
+
+element TXTMODE {
+  Pos 222 260
+  Cell 0 32
+  Align LRUDV
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 208
+  _Text "Режим"
+  endelement
+}
+
+
+element MODE {
+  Pos 602 260
+  Cell 0 32
+  Align LRUDV
+  Type FONT 
+  EventSel 0
+  EventDo 0
+  Surface 1 FONTFD
+  SurfaceA 1 FONTFD
+  TLText 67
+  _Text "полноэкранно"
+  endelement
+}
+
+element MODEU {
+  Pos 762 260 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 43
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.25 0.6875 0.3125 0.75
+  TexCoordA 0.3125 0.6875 0.375 0.75
+  Pic 1  180 
+  endelement
+}
+
+element MODED {
+  Pos 442 260 
+  Cell 32 32
+  Type BUTTON
+  Align LRUD
+  Dimension 16
+  EventSel 500
+  EventDo 43
+  Surface 1 BUTTON DIALOGADV 
+  SurfaceA 1 BUTTON DIALOGADV 
+  TexCoord 0.3125 0.6875 0.25 0.75
+  TexCoordA 0.375 0.6875 0.3125 0.75
+  Pic 1  180 
+  endelement
+}
+

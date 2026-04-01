@@ -1,0 +1,130 @@
+offset 0 0
+
+speedselect 5
+
+element WHITE {
+  Pos 512 384 -852 292
+  WinSize 4 3  
+  Cell 256 256 64 64 
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  108 108  108 108  108 108  108 108  108  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+element BLACK {
+  Pos 512 384 -852 292
+  WinSize 4 3  
+  Cell 256 256 64 64 
+  Type WINDOW 
+  Align LRUD
+  Dimension 16
+  EventSel 0
+  EventDo 0
+  Pic 9  124 124  124 124  124 124  124 124  124  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+element LOGOPIC {
+  Pos 512 384 
+  _Size 256 256
+  TextureSize
+  Type DATA
+  Align LRUD
+  Dimension 1
+  Surface 1 LOGOLIST SCR01 CMAP
+  SurfaceA 1 LOGOLIST SCR01 CMAP
+  Pic 1  0 
+  endelement
+}
+
+element FOG1 {
+  Pos 512 384
+  WinSize 4 3  
+  Cell 256 256
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  22 22  22 22  22 22  22 22  22  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+element FOG2 {
+  Pos 512 384
+  WinSize 4 3 
+  Cell 256 256 
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  22 22  22 22  22 22  22 22  22  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+
+element FOG3 {
+  Pos 512 384
+  WinSize 4 3  
+  Cell 256 256
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  22 22  22 22  22 22  22 22  22  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+
+element FOG4 {
+  Pos 512 384
+  WinSize 4 3  
+  Cell 256 256
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  22 22  22 22  22 22  22 22  22  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
+
+element FOG5 {
+  Pos 512 384
+  WinSize 4 3  
+  Cell 256 256
+  Type WINDOW 
+  Align LRUD
+  Dimension 8
+  EventSel 0
+  EventDo 0
+  Pic 9  22 22  22 22  22 22  22 22  22  
+  Surface 1 BUTTON LOGOENKORD WINADV
+  SurfaceA 1 BUTTON LOGOENKORD WINADV
+  Text "WIN"
+  endelement
+}
