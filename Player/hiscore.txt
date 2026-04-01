@@ -1,0 +1,13 @@
+his 0 Yaroslav 20000 
+his 1 Irina 15000 
+his 2 Eugenia 12000 
+his 3 Mary 10000 
+his 4 Denis 7000 
+his 5 Alex 6000 
+his 6 John 5000 
+his 7 Natali 4000 
+his 8 Leonardo 3000 
+his 9 Oksana 2000 
+his 10 Helga 1000 
+
+ID - Name - Score

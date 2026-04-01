@@ -1,0 +1,5 @@
+LastAdd 1
+CurentPlayer 0
+pl 1 "maxx" 0 0 0 0 1 0 1 
+
+ID - Name - Score - Money - Episode - Map - Arm - Add - ArmFlag
