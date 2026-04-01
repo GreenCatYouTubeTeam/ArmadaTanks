@@ -1,0 +1,28 @@
+File { 
+
+  FileDesc { 
+    Frames 1 
+    Vertices 1 
+    Faces 1 
+    Map 1 TVertices 1 
+  } endfiledesc
+
+  Faces {
+    Face 0 0 0 0     MatID 0 
+  }
+
+  MapChannel 1 {
+    TextureVertices {
+      TVertex 0 0.0 0.0 0.0
+    }
+    TextureFaces {
+      TFace 0 0 0 0
+    }
+  }
+  Frame 0 {
+    Vertices {
+      Vertex 0 0.0 0.0 0.0
+    }
+  } endframe 
+
+} endfile
